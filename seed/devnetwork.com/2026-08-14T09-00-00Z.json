@@ -1,0 +1,6821 @@
+{
+  "brand": "devnetwork.com",
+  "scanned_at": "2026-08-14T09:00:00Z",
+  "cards": [
+    {
+      "domain": "account-devnetwork.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "accountdevnetwork.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "billing-devnetwork.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "billingdevnetwork.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwork-account.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwork-billing.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwork-help.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwork-login.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwork-mail.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwork-pay.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwork-secure.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwork-support.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwork-verify.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetworkaccount.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetworkbilling.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetworkhelp.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetworklogin.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetworkmail.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetworkpay.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetworksecure.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetworksupport.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetworkverify.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "help-devnetwork.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "helpdevnetwork.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "login-devnetwork.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "logindevnetwork.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "mail-devnetwork.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "maildevnetwork.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "pay-devnetwork.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "paydevnetwork.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "secure-devnetwork.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "securedevnetwork.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "support-devnetwork.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "supportdevnetwork.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "verify-devnetwork.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "verifydevnetwork.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "clevnetwork.com",
+      "cls": "homoglyph",
+      "prior": 0.9,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 2,
+        "recent": 0,
+        "parked": 0,
+        "total": 2
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A homoglyph variant of your domain, free to register today."
+    },
+    {
+      "domain": "devetwork.com",
+      "cls": "omission",
+      "prior": 0.8,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 2,
+        "recent": 0,
+        "parked": 0,
+        "total": 2
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An omission variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetork.com",
+      "cls": "omission",
+      "prior": 0.8,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 2,
+        "recent": 0,
+        "parked": 0,
+        "total": 2
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An omission variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetvvork.com",
+      "cls": "homoglyph",
+      "prior": 0.9,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 2,
+        "recent": 0,
+        "parked": 0,
+        "total": 2
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A homoglyph variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetw0rk.com",
+      "cls": "homoglyph",
+      "prior": 0.9,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 2,
+        "recent": 0,
+        "parked": 0,
+        "total": 2
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A homoglyph variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwok.com",
+      "cls": "omission",
+      "prior": 0.8,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 2,
+        "recent": 0,
+        "parked": 0,
+        "total": 2
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An omission variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwor.com",
+      "cls": "omission",
+      "prior": 0.8,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 2,
+        "recent": 0,
+        "parked": 0,
+        "total": 2
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An omission variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwrk.com",
+      "cls": "omission",
+      "prior": 0.8,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 2,
+        "recent": 0,
+        "parked": 0,
+        "total": 2
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An omission variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnework.com",
+      "cls": "omission",
+      "prior": 0.8,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 2,
+        "recent": 0,
+        "parked": 0,
+        "total": 2
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An omission variant of your domain, free to register today."
+    },
+    {
+      "domain": "devntwork.com",
+      "cls": "omission",
+      "prior": 0.8,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 2,
+        "recent": 0,
+        "parked": 0,
+        "total": 2
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An omission variant of your domain, free to register today."
+    },
+    {
+      "domain": "cdevnetwork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "cevnetwork.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "dcevnetwork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "ddevnetwork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "ddvnetwork.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "debvnetwork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "decnetwork.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4249.25,
+        "premium": true
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "decvnetwork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "dedvnetwork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "deevnetwork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "defnetwork.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 22994.25,
+        "premium": true
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "defvnetwork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "degnetwork.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "degvnetwork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "denvetwork.com",
+      "cls": "transposition",
+      "prior": 0.8,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A transposition variant of your domain, free to register today."
+    },
+    {
+      "domain": "dervnetwork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "desvnetwork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "devbetwork.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "devbnetwork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "devcnetwork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "deventwork.com",
+      "cls": "transposition",
+      "prior": 0.8,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A transposition variant of your domain, free to register today."
+    },
+    {
+      "domain": "devfnetwork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "devgnetwork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "devhetwork.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "devhnetwork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "devjetwork.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "devjnetwork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "devmetwork.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "devmnetwork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnbetwork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "devndetwork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "devndtwork.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnedtwork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "devneftwork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnefwork.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnegtwork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnegwork.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnertwork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnerwork.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnestwork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetaork.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetawork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "devneteork.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetework.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetfwork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetgwork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetowrk.com",
+      "cls": "transposition",
+      "prior": 0.8,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A transposition variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetqork.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetqwork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetrwork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetsork.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetswork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwaork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetweork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwiork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwirk.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwkork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwkrk.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwlork.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwlrk.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwodk.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwodrk.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwoek.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwoerk.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwofk.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwofrk.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwoirk.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwokr.com",
+      "cls": "transposition",
+      "prior": 0.8,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A transposition variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwori.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetworj.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwork.agency",
+      "cls": "tld-swap",
+      "prior": 0.65,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 5.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A tld-swap variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwork.app",
+      "cls": "tld-swap",
+      "prior": 0.65,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": "https://rdap.verisign.com/com/v1/domain/devnetwork.app"
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A tld-swap variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwork.co",
+      "cls": "tld-swap",
+      "prior": 0.65,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": "https://rdap.verisign.com/com/v1/domain/devnetwork.co"
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A tld-swap variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwork.io",
+      "cls": "tld-swap",
+      "prior": 0.65,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 10675.45,
+        "premium": true
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A tld-swap variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwork.net",
+      "cls": "tld-swap",
+      "prior": 0.65,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": "https://rdap.verisign.com/com/v1/domain/devnetwork.net"
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A tld-swap variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwork.org",
+      "cls": "tld-swap",
+      "prior": 0.65,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": "https://rdap.verisign.com/com/v1/domain/devnetwork.org"
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A tld-swap variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwork.solutions",
+      "cls": "tld-swap",
+      "prior": 0.65,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 5.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A tld-swap variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwork.watch",
+      "cls": "tld-swap",
+      "prior": 0.65,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A tld-swap variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetworl.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetworm.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetworo.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwotk.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwprk.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnetwrok.com",
+      "cls": "transposition",
+      "prior": 0.8,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A transposition variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnewtork.com",
+      "cls": "transposition",
+      "prior": 0.8,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A transposition variant of your domain, free to register today."
+    },
+    {
+      "domain": "devneywork.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnrtwork.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnstwork.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "devntework.com",
+      "cls": "transposition",
+      "prior": 0.8,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A transposition variant of your domain, free to register today."
+    },
+    {
+      "domain": "devnwtwork.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "dsvnetwork.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "dvenetwork.com",
+      "cls": "transposition",
+      "prior": 0.8,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A transposition variant of your domain, free to register today."
+    },
+    {
+      "domain": "dwvnetwork.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "edvnetwork.com",
+      "cls": "transposition",
+      "prior": 0.8,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 224.25,
+        "premium": true
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A transposition variant of your domain, free to register today."
+    },
+    {
+      "domain": "eevnetwork.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "fevnetwork.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "xevnetwork.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 12.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "denetwork.com",
+      "cls": "omission",
+      "prior": 0.8,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 2,
+        "recent": 0,
+        "parked": 0,
+        "total": 2
+      },
+      "band": "free",
+      "land_line": "Live site titled ‘Denetwork.com -\n        Ready for Development’.",
+      "reason": "An omission variant of your domain, free to register today."
+    },
+    {
+      "domain": "dvnetwork.com",
+      "cls": "omission",
+      "prior": 0.8,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 2,
+        "recent": 0,
+        "parked": 0,
+        "total": 2
+      },
+      "band": "free",
+      "land_line": "Live site titled ‘Dvnetwork.com — Purpose-built. Network-backed. | An eCorp Venture’.",
+      "reason": "An omission variant of your domain, free to register today."
+    },
+    {
+      "domain": "sevnetwork.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": true,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": "Gname.com Pte. Ltd.",
+        "nameservers": [
+          "dns1.namecheaphosting.com",
+          "dns2.namecheaphosting.com"
+        ],
+        "created": "2015-07-26T14:58:39Z",
+        "abuse_email": "complaint@gname.com",
+        "source": "https://rdap.verisign.com/com/v1/domain/sevnetwork.com"
+      },
+      "probe": {
+        "a": [
+          "198.54.115.129"
+        ],
+        "mx": [
+          "mx1-hosting.jellyfish.systems",
+          "mx2-hosting.jellyfish.systems",
+          "mx3-hosting.jellyfish.systems"
+        ],
+        "chain": [
+          "http://sevnetwork.com/",
+          "https://sevnetwork.com/",
+          "https://olderamericansmonth.com/",
+          "https://jutodyson.com/"
+        ],
+        "final_host": "jutodyson.com",
+        "kind": "live-other",
+        "title": "JUALTOTO: Link Resmi Situs Bandar Toto Macau Dengan Pasaran Terlengkap Saat Ini"
+      },
+      "search": {
+        "checked": true,
+        "appears": true,
+        "first_title": "JUALTOTO: Link Resmi Situs Bandar Toto Macau Dengan ...",
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 3,
+        "search": 2,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 5
+      },
+      "band": "strangers",
+      "land_line": "Live site titled ‘JUALTOTO: Link Resmi Situs Bandar Toto Macau Dengan Pasaran Terlengkap Saat Ini’.",
+      "reason": "A replacement variant of your domain with mail configured found in search."
+    },
+    {
+      "domain": "drvnetwork.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": true,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": "NameCheap, Inc.",
+        "nameservers": [
+          "dns1.registrar-servers.com",
+          "dns2.registrar-servers.com"
+        ],
+        "created": "2026-07-14T18:30:15Z",
+        "abuse_email": "abuse@namecheap.com",
+        "source": "https://rdap.verisign.com/com/v1/domain/drvnetwork.com"
+      },
+      "probe": {
+        "a": [],
+        "mx": [
+          "mx1.privateemail.com",
+          "mx2.privateemail.com"
+        ],
+        "chain": [],
+        "final_host": null,
+        "kind": "mail-only",
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 3,
+        "search": 0,
+        "confusable": 0,
+        "recent": 1,
+        "parked": 0,
+        "total": 4
+      },
+      "band": "strangers",
+      "land_line": "Can receive your customers' email. No website.",
+      "reason": "A replacement variant of your domain with mail configured."
+    },
+    {
+      "domain": "evnetwork.com",
+      "cls": "omission",
+      "prior": 0.8,
+      "registered": true,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": "GoDaddy.com, LLC",
+        "nameservers": [
+          "ns1.domain-is-4-sale-at-domainmarket.com",
+          "ns2.domainmarket.com"
+        ],
+        "created": "2003-10-24T18:06:03Z",
+        "abuse_email": "abuse@godaddy.com",
+        "source": "https://rdap.verisign.com/com/v1/domain/evnetwork.com"
+      },
+      "probe": {
+        "a": [
+          "44.195.229.203",
+          "52.200.66.12"
+        ],
+        "mx": [],
+        "chain": [
+          "http://evnetwork.com/",
+          "https://evnetwork.com"
+        ],
+        "final_host": "evnetwork.com",
+        "kind": "live-other",
+        "title": "EvNetwork.com - Automotive Domains for Sale - Buy Premium Car Industry Domain Names | Domain for Sale. Call 888-694-6735."
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 2,
+        "recent": 0,
+        "parked": 0,
+        "total": 2
+      },
+      "band": "strangers",
+      "land_line": "Live site titled ‘EvNetwork.com - Automotive Domains for Sale - Buy Premium Car Industry Domain Names | Domain for Sale. Call 888-694-6735.’.",
+      "reason": "An omission variant of your domain."
+    },
+    {
+      "domain": "revnetwork.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": true,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": "TurnCommerce, Inc. DBA NameBright.com",
+        "nameservers": [
+          "dexter.ns.cloudflare.com",
+          "grannbo.ns.cloudflare.com"
+        ],
+        "created": "2005-04-30T18:36:18Z",
+        "abuse_email": "support@namebright.com",
+        "source": "https://rdap.verisign.com/com/v1/domain/revnetwork.com"
+      },
+      "probe": {
+        "a": [
+          "104.21.92.57",
+          "172.67.187.18"
+        ],
+        "mx": [],
+        "chain": [
+          "http://revnetwork.com/",
+          "https://revnetwork.com/"
+        ],
+        "final_host": "revnetwork.com",
+        "kind": "live-other",
+        "title": "REV Network — RevNetwork.com | REVNetwork.com"
+      },
+      "search": {
+        "checked": true,
+        "appears": true,
+        "first_title": "REV Network — RevNetwork.com | REVNetwork.com",
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 2,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 2
+      },
+      "band": "strangers",
+      "land_line": "Live site titled ‘REV Network — RevNetwork.com | REVNetwork.com’.",
+      "reason": "A replacement variant of your domain found in search."
+    },
+    {
+      "domain": "debnetwork.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": true,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": "Squarespace Domains II LLC",
+        "nameservers": [
+          "ns-cloud-d1.googledomains.com",
+          "ns-cloud-d2.googledomains.com",
+          "ns-cloud-d3.googledomains.com",
+          "ns-cloud-d4.googledomains.com"
+        ],
+        "created": "2022-01-13T09:24:14Z",
+        "abuse_email": "abuse-complaints@squarespace.com",
+        "source": "https://rdap.verisign.com/com/v1/domain/debnetwork.com"
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": "dark",
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "strangers",
+      "land_line": "Nothing answers.",
+      "reason": "A replacement variant of your domain."
+    }
+  ],
+  "footer": {
+    "generated": 150,
+    "answered": 150,
+    "not_authoritative": 0,
+    "truncated_from": 251
+  },
+  "prices": {
+    "top5_sum": 64.95,
+    "top5_domains": [
+      "account-devnetwork.com",
+      "accountdevnetwork.com",
+      "billing-devnetwork.com",
+      "billingdevnetwork.com",
+      "devnetwork-account.com"
+    ],
+    "top5_priced_count": 0,
+    "top5_total_count": 0
+  },
+  "replay": false,
+  "replay_label": null,
+  "slowed_down": false,
+  "suggestions": []
+}

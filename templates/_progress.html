@@ -1,0 +1,16 @@
+<div id="results" hx-get="/scan/result?brand={{ brand|urlencode }}{% if replay %}&replay=1{% endif %}" hx-trigger="load" hx-swap="outerHTML">
+  <p class="text-sm text-slate-500" role="status">
+    <span
+      id="scan-stage-text"
+      hx-get="/scan/stage?brand={{ brand|urlencode }}"
+      hx-trigger="every 700ms"
+      hx-swap="innerHTML"
+    >{{ generated }} look-alikes generated &middot; checking availability&hellip;</span>
+    <span class="animate-pulse text-slate-400" aria-hidden="true">&middot;&middot;&middot;</span>
+  </p>
+  <div class="mt-2 flex flex-wrap gap-1.5" aria-label="sources for the statistics above">
+    <a class="inline-block text-xs text-slate-500 bg-slate-100 rounded px-1.5 py-0.5 underline decoration-dotted" href="https://www.ic3.gov/AnnualReport/Reports/2024_IC3Report.pdf" target="_blank" rel="noopener">FBI IC3 2024</a>
+    <a class="inline-block text-xs text-slate-500 bg-slate-100 rounded px-1.5 py-0.5 underline decoration-dotted" href="https://www.rfc-editor.org/rfc/rfc7489.html" target="_blank" rel="noopener">RFC 7489</a>
+    <a class="inline-block text-xs text-slate-500 bg-slate-100 rounded px-1.5 py-0.5 underline decoration-dotted" href="https://www.ndss-symposium.org/ndss2015/ndss-2015-programme/seven-months-worth-mistakes-longitudinal-study-typosquatting-abuse/" target="_blank" rel="noopener">NDSS 2015</a>
+  </div>
+</div>

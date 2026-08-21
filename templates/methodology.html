@@ -1,0 +1,64 @@
+{% extends "base.html" %}
+{% block title %}Methodology — typo.watch{% endblock %}
+{% block body %}
+<main class="max-w-2xl mx-auto px-4 py-16 prose-sm">
+  <a href="/" class="text-sm underline">&larr; back</a>
+  <h1 class="text-2xl font-semibold mt-4">Methodology</h1>
+
+  <h2 class="text-lg font-semibold mt-6">Where each badge comes from</h2>
+  <ul class="list-disc pl-5 text-sm space-y-1">
+    <li><strong>Taken / free</strong> &mdash; name.com Core API v1 <code>domains:checkAvailability</code>, production, read-only.</li>
+    <li><strong>Registrar, nameservers, created, abuse contact</strong> &mdash; RDAP via the IANA bootstrap. A 404 means not registered and overrides a stale availability answer.</li>
+    <li><strong>Already yours / where it lands</strong> &mdash; DNS-over-HTTPS A/MX/NS lookups plus an HTTP redirect-chain probe (max 5 hops).</li>
+    <li><strong>Appears in Google</strong> &mdash; SerpApi, capped at {{ serpapi_max_queries }} queries per scan, cached 24h.</li>
+    <li><strong>One-line reason</strong> &mdash; a model call from the fact tuple only. It cannot change band or score.</li>
+  </ul>
+
+  <h2 class="text-lg font-semibold mt-6">Rule weights (documented as judgment)</h2>
+  <ul class="list-disc pl-5 text-sm space-y-1">
+    <li>Keyword class (combosquat): +3</li>
+    <li>Mail configured (MX): +3</li>
+    <li>Appears in Google: +2</li>
+    <li>Homoglyph or omission: +2</li>
+    <li>Created within 12 months: +1</li>
+    <li>Parked: &minus;1</li>
+    <li>Established, likely unrelated: &minus;3, sorts after every other stranger-held card</li>
+    <li>Forwards home &rarr; band "yours", regardless of score.</li>
+    <li>Purchasable &rarr; band "free", score from class priors only.</li>
+  </ul>
+  <p class="text-sm text-slate-500">These weights rank attacker economics as a judgment call, not a sourced formula. No source ranks permutation classes by attacker preference (dossier gap).</p>
+
+  <h2 class="text-lg font-semibold mt-6">"Mail configured" excludes placeholder MX</h2>
+  <p class="text-sm text-slate-500">
+    An MX record consisting only of <code>localhost</code> or a host inside a known parking
+    provider's zone (e.g. Sedo) does not count as mail configured, for score or for the takedown
+    notice draft &mdash; these are non-functional placeholder values a parking service publishes by
+    default, not evidence a domain can actually receive mail. This is judgment, not a sourced rule:
+    the dossier documents MX as a mail-interception risk signal in general (D-10) but has no entry on
+    parking-provider MX conventions specifically. RFC 7505 null MX (<code>0 .</code>) is excluded the
+    same way, on the RFC's own text.
+  </p>
+
+  <h2 class="text-lg font-semibold mt-6">"Established, likely unrelated"</h2>
+  <p class="text-sm text-slate-500">
+    A stranger-held candidate gets this treatment only if it is a live site with its own page title
+    <em>and</em> its registration is more than 10 years old at scan time. Both conditions are judgment,
+    not sourced facts: a 10-year-old registration and "has a title" are a proxy for "this is probably a dictionary-word
+    or acronym collision that existed long before this scan, not someone squatting this brand" &mdash; not proof
+    of unrelatedness. Mail-only, parked, dark, and undetermined candidates are never given this treatment,
+    since none of those show independent, ongoing use of the name the way a titled live site does.
+  </p>
+
+  <h2 class="text-lg font-semibold mt-6">Registrar budget</h2>
+  <p class="text-sm">{{ namecom_budget_used }} name.com calls used this hour (account cap: 3,000/hour, D-23).</p>
+  {% if serpapi_account and serpapi_account.plan_searches_left is not none %}
+    <p class="text-sm">SerpApi searches left this month: {{ serpapi_account.plan_searches_left }} (plan cap {{ serpapi_account.searches_per_month }}).</p>
+  {% endif %}
+  {% if snapshot_frozen_brands %}
+    <p class="text-sm text-slate-500 mt-1">For the curated demo brand{{ "s" if snapshot_frozen_brands|length > 1 else "" }} ({{ snapshot_frozen_brands|join(", ") }}) the watch history shown is the committed seed pair; live scans are not added to it.</p>
+  {% endif %}
+
+  <h2 class="text-lg font-semibold mt-6">Not covered</h2>
+  <p class="text-sm text-slate-500">Not covered: look-alikes on someone else's subdomain (brand.example.net), free-hosting pages, non-Latin homographs beyond our table, social handles. A determined attacker uses these too.</p>
+</main>
+{% endblock %}

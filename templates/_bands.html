@@ -1,0 +1,108 @@
+{% import "_macros.html" as m %}
+<div id="results">
+  {% set counts = scan.band_counts() %}
+  {% if scan.slowed_down %}
+    <p class="text-sm text-amber-600 mb-3">Slowing down for the registrar&hellip;</p>
+  {% endif %}
+  {% if scan.replay %}
+    <p class="text-sm text-slate-400 mb-3">{{ scan.replay_label }}</p>
+  {% else %}
+    <p class="text-sm text-slate-400 mb-3">{{ scanned_label }}</p>
+  {% endif %}
+  <section class="mb-8 border-l-4 border-red-600 pl-4">
+    <h2 class="text-xl font-semibold bg-red-50 text-red-900 px-2 py-1 rounded">
+      Strangers hold {{ counts.strangers }}{% if counts.strangers == 0 %}. Good.{% endif %}
+    </h2>
+    <ul class="mt-3 space-y-2">
+      {% for c in scan.cards if c.band and c.band.value == "strangers" %}
+        {{ m.card(c, scan.brand, serpapi_max_queries=serpapi_max_queries) }}
+      {% endfor %}
+    </ul>
+  </section>
+
+  <section class="mb-8 border-l-4 border-green-600 pl-4">
+    <h2 class="text-xl font-semibold bg-green-50 text-green-900 px-2 py-1 rounded">Forward to you {{ counts.yours }}</h2>
+    <ul class="mt-3 space-y-2">
+      {% for c in scan.cards if c.band and c.band.value == "yours" %}
+        {{ m.card(c, scan.brand) }}
+      {% endfor %}
+    </ul>
+  </section>
+
+  {% if scan.suggestions %}
+    <details class="mb-8 text-sm text-slate-500">
+      <summary class="cursor-pointer select-none underline decoration-dotted">
+        {{ scan.suggestions|length }} registrar-suggested names for this brand (name.com domains:search)
+      </summary>
+      <ul class="mt-2 pl-4 list-disc space-y-1">
+        {% for s in scan.suggestions %}
+          <li class="font-mono">
+            {{ s.domain_name }}
+            {% if s.purchasable and s.price %} &middot; ${{ "%.2f"|format(s.price) }}/yr{% elif s.purchasable == false %} &middot; taken{% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    </details>
+  {% endif %}
+
+  <section class="mb-8 border-l-4 border-amber-600 pl-4">
+    <h2 class="text-xl font-semibold bg-amber-50 text-amber-900 px-2 py-1 rounded">Free and dangerous {{ counts.free }}</h2>
+    {% if scan.prices.top5_sum %}
+      <p class="text-sm text-slate-500 mt-1">
+        {% if scan.prices.top5_priced_count < scan.prices.top5_total_count %}
+          Registering the {{ scan.prices.top5_priced_count }} of {{ scan.prices.top5_total_count }} priced today: ${{ "%.2f"|format(scan.prices.top5_sum) }}
+        {% else %}
+          Registering the top five today: ${{ "%.2f"|format(scan.prices.top5_sum) }}
+        {% endif %}
+        &middot; one <a class="underline" href="https://www.wipo.int/amc/en/domains/guide/" target="_blank" rel="noopener">UDRP case: USD 1,500 and about two months (WIPO)</a>.
+      </p>
+    {% endif %}
+    <form hx-post="/defend" hx-target="#defend-result" hx-swap="innerHTML">
+      <input type="hidden" name="brand" value="{{ scan.brand }}">
+      {% set free_cards = scan.cards|selectattr("band")|selectattr("band.value", "equalto", "free")|list %}
+      {% set free_visible = free_cards[:10] %}
+      {% set free_hidden = free_cards[10:] %}
+      <ul class="mt-3 space-y-2">
+        {% for c in free_visible %}
+          {{ m.card(c, scan.brand, preselected=(c.domain in defensive_domains)) }}
+        {% endfor %}
+      </ul>
+      {% if free_hidden %}
+        <details class="mt-3 text-sm text-slate-500">
+          <summary class="cursor-pointer select-none underline decoration-dotted">
+            and {{ free_hidden|length }} more, available to register today
+          </summary>
+          <ul class="mt-3 space-y-2">
+            {% for c in free_hidden %}
+              {{ m.card(c, scan.brand, preselected=(c.domain in defensive_domains)) }}
+            {% endfor %}
+          </ul>
+        </details>
+      {% endif %}
+      {% if counts.free > 0 %}
+        <button type="submit" class="mt-3 bg-slate-900 text-white rounded-md px-4 py-2 text-sm">
+          Defend (sandbox)
+        </button>
+      {% endif %}
+    </form>
+    <div id="defend-result" class="mt-3"></div>
+  </section>
+
+  <div id="notice-drawer" class="mb-8"></div>
+
+  <footer class="text-sm text-slate-500 space-y-1 border-t border-slate-200 pt-4">
+    <p>
+      {% if scan.footer.truncated_from %}{{ scan.footer.generated }} of {{ scan.footer.truncated_from }} candidates checked (top by risk prior){% else %}{{ scan.footer.generated }} generated{% endif %}
+      &middot; {{ scan.footer.answered }} answered by the registry &middot; {{ scan.footer.not_authoritative }} not authoritative (no RDAP server for this TLD)
+    </p>
+    <p class="text-slate-400">Not covered: look-alikes on someone else's subdomain (brand.example.net), free-hosting pages, non-Latin homographs beyond our table, social handles. A determined attacker uses these too.</p>
+    {% if watch_diff_line %}
+      <p class="bg-slate-50 border border-slate-200 rounded p-2">{{ watch_diff_line }}</p>
+    {% endif %}
+    <p><a class="underline" href="/r/{{ scan.brand }}">Permalink to this scan</a></p>
+    <form hx-post="/watch" hx-swap="none">
+      <input type="hidden" name="brand" value="{{ scan.brand }}">
+      <button type="submit" class="underline">Watch this brand</button>
+    </form>
+  </footer>
+</div>

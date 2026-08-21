@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% block title %}{% if initial and scan %}typo.watch — {{ scan.brand }}{% else %}typo.watch{% endif %}{% endblock %}
+{% block og %}
+  {% if initial and scan %}
+    {% set counts = scan.band_counts() %}
+    <meta property="og:title" content="{{ scan.brand }}: strangers hold {{ counts.strangers }}, forward to you {{ counts.yours }}, free and dangerous {{ counts.free }}">
+    <meta property="og:description" content="typo.watch — type your brand, see who already owns your typos.">
+    <meta property="og:type" content="website">
+  {% endif %}
+{% endblock %}
+{% block body %}
+<main class="max-w-2xl mx-auto px-4 py-16">
+  <form hx-post="/scan" hx-target="#results" hx-swap="innerHTML" hx-indicator="#form-indicator" class="flex gap-2">
+    <input
+      type="text"
+      name="brand"
+      placeholder="your-brand.com"
+      autofocus
+      required
+      class="flex-1 border border-slate-300 rounded-md px-4 py-3 text-lg font-mono focus:outline-none focus:ring-2 focus:ring-slate-400"
+    >
+    {% if replay %}<input type="hidden" name="replay" value="1">{% endif %}
+    <button type="submit" class="bg-slate-900 text-white rounded-md px-5 py-3 text-lg">Scan</button>
+  </form>
+  {% if replay %}<p class="text-xs text-slate-400 mt-1">Replay mode: every scan from this page uses cached data. Remove <code>?replay=1</code> from the URL for a live scan.</p>{% endif %}
+  <p id="form-indicator" class="htmx-indicator text-sm text-slate-400 mt-2">Asking the registry&hellip;</p>
+
+  <div id="results" class="mt-8">
+    {% if initial %}{% include "_bands.html" %}{% else %}
+      <p class="text-sm text-slate-500">Type your brand, see who already owns your typos, take the dangerous ones back in one click.</p>
+    {% endif %}
+  </div>
+
+  <p class="mt-16 text-xs text-slate-400">
+    <a class="underline" href="/methodology">Methodology</a>
+  </p>
+</main>
+{% endblock %}

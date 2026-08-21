@@ -1,0 +1,72 @@
+{% macro class_tag(cls) -%}
+<span class="inline-block text-xs font-mono uppercase tracking-wide text-slate-500 bg-slate-100 rounded px-1.5 py-0.5">{{ cls }}</span>
+{%- endmacro %}
+
+{% macro score_popover(score) -%}
+<details class="block w-full min-w-0 text-sm text-slate-600">
+  <summary class="cursor-pointer select-none underline decoration-dotted">score {{ score.total }}</summary>
+  <ul class="mt-1 pl-3 text-xs text-slate-500 space-y-0.5">
+    <li>keyword class: {{ "%+d"|format(score.keyword) }}</li>
+    <li>mail configured: {{ "%+d"|format(score.mx) }}</li>
+    <li>appears in Google: {{ "%+d"|format(score.search) }}</li>
+    <li>homoglyph / omission: {{ "%+d"|format(score.confusable) }}</li>
+    <li>created &lt; 12mo ago: {{ "%+d"|format(score.recent) }}</li>
+    <li>parked: {{ "%+d"|format(score.parked) }}</li>
+  </ul>
+  <p class="mt-1 text-xs text-slate-400">Weights are judgment, documented on the <a class="underline" href="/methodology">methodology page</a>.</p>
+</details>
+{%- endmacro %}
+
+{% macro card(c, brand, preselected=False, show_details=True, serpapi_max_queries=10) -%}
+<li class="border border-slate-200 rounded-lg p-3 bg-white" data-domain="{{ c.domain }}">
+  <div class="flex items-baseline justify-between gap-2 flex-wrap">
+    <span class="font-mono text-sm">{{ c.domain }}</span>
+    {{ class_tag(c.cls) }}
+  </div>
+
+  {% if c.band and c.band.value == "strangers" %}
+    <p class="text-sm mt-1">{{ c.land_line }}</p>
+    {% if show_details %}
+      {% if c.search.checked and c.search.appears %}
+        <span class="inline-block mt-1 text-xs bg-amber-50 text-amber-700 rounded px-1.5 py-0.5">appears in Google &mdash; &ldquo;{{ c.search.first_title }}&rdquo;</span>
+      {% elif not c.search.checked %}
+        <span class="inline-block mt-1 text-xs bg-slate-50 text-slate-500 rounded px-1.5 py-0.5">{{
+          "not searched (%d per scan)"|format(serpapi_max_queries) if c.search.reason == "cap"
+          else "search quota exhausted" if c.search.reason == "quota"
+          else "search not configured" if c.search.reason == "no_key"
+          else "search not checked"
+        }}</span>
+      {% endif %}
+      {% if c.reason %}<p class="text-xs text-slate-500 mt-1">{{ c.reason }}</p>{% endif %}
+      <div class="mt-2 flex items-center gap-3">
+        {{ score_popover(c.score) }}
+        <details class="block w-full min-w-0 text-sm text-slate-600">
+          <summary class="cursor-pointer select-none underline decoration-dotted">raw response</summary>
+          <pre class="mt-1 w-full min-w-0 whitespace-pre-wrap break-words text-xs bg-slate-50 border border-slate-200 rounded p-2">{{ c.model_dump_json(indent=2) }}</pre>
+        </details>
+        <a class="text-sm underline decoration-dotted" href="/notice/{{ c.domain }}?brand={{ brand }}" hx-get="/notice/{{ c.domain }}?brand={{ brand }}" hx-target="#notice-drawer" hx-swap="innerHTML">draft notice</a>
+      </div>
+    {% endif %}
+  {% elif c.band and c.band.value == "yours" %}
+    <p class="text-sm mt-1">{{ c.land_line }}</p>
+    <details class="mt-2 inline-block text-sm text-slate-600">
+      <summary class="cursor-pointer select-none underline decoration-dotted">redirect chain</summary>
+      <ol class="mt-1 pl-4 text-xs text-slate-500 list-decimal">
+        {% for hop in c.probe.chain %}<li>{{ hop }}</li>{% endfor %}
+        <li>{{ c.probe.final_host }}</li>
+      </ol>
+    </details>
+  {% elif c.band and c.band.value == "free" %}
+    <p class="text-sm mt-1">
+      {% if c.availability.price %}${{ "%.2f"|format(c.availability.price) }}/yr{% else %}price pending{% endif %}
+      &middot; {{ c.reason }}
+    </p>
+    <label class="mt-2 inline-flex items-center gap-2 text-sm">
+      <input type="checkbox" name="domains" value="{{ c.domain }}" class="rounded border-slate-300" {% if preselected %}checked{% endif %}>
+      defend this one
+    </label>
+  {% else %}
+    <p class="text-sm mt-1 text-slate-500">Registry answer pending.</p>
+  {% endif %}
+</li>
+{%- endmacro %}

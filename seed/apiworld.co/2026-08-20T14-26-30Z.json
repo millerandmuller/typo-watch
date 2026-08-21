@@ -1,0 +1,6639 @@
+{
+  "brand": "apiworld.co",
+  "scanned_at": "2026-08-20T14:26:30Z",
+  "cards": [
+    {
+      "domain": "account-apiworld.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "accountapiworld.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworld-account.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworld-billing.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworld-help.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworld-login.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworld-mail.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworld-pay.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworld-secure.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworld-support.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworld-verify.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworldaccount.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworldbilling.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworldhelp.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworldlogin.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworldmail.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworldpay.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworldsecure.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworldsupport.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworldverify.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "billing-apiworld.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "billingapiworld.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "help-apiworld.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "helpapiworld.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "login-apiworld.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "loginapiworld.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "mail-apiworld.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "mailapiworld.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "pay-apiworld.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "payapiworld.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "secure-apiworld.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "secureapiworld.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "support-apiworld.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "supportapiworld.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "verify-apiworld.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "verifyapiworld.co",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A combosquat variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiorld.co",
+      "cls": "omission",
+      "prior": 0.8,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 2,
+        "recent": 0,
+        "parked": 0,
+        "total": 2
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An omission variant of your domain, free to register today."
+    },
+    {
+      "domain": "apivvorld.co",
+      "cls": "homoglyph",
+      "prior": 0.9,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 2,
+        "recent": 0,
+        "parked": 0,
+        "total": 2
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A homoglyph variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiw0rld.co",
+      "cls": "homoglyph",
+      "prior": 0.9,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 2,
+        "recent": 0,
+        "parked": 0,
+        "total": 2
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A homoglyph variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiwold.co",
+      "cls": "omission",
+      "prior": 0.8,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 2,
+        "recent": 0,
+        "parked": 0,
+        "total": 2
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An omission variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiwor1d.co",
+      "cls": "homoglyph",
+      "prior": 0.9,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 2,
+        "recent": 0,
+        "parked": 0,
+        "total": 2
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A homoglyph variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiword.co",
+      "cls": "omission",
+      "prior": 0.8,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 2,
+        "recent": 0,
+        "parked": 0,
+        "total": 2
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An omission variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworl.co",
+      "cls": "omission",
+      "prior": 0.8,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 2,
+        "recent": 0,
+        "parked": 0,
+        "total": 2
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An omission variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworlcl.co",
+      "cls": "homoglyph",
+      "prior": 0.9,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 2,
+        "recent": 0,
+        "parked": 0,
+        "total": 2
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A homoglyph variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiwrld.co",
+      "cls": "omission",
+      "prior": 0.8,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 2,
+        "recent": 0,
+        "parked": 0,
+        "total": 2
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An omission variant of your domain, free to register today."
+    },
+    {
+      "domain": "apworld.co",
+      "cls": "omission",
+      "prior": 0.8,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 2,
+        "recent": 0,
+        "parked": 0,
+        "total": 2
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An omission variant of your domain, free to register today."
+    },
+    {
+      "domain": "aipworld.co",
+      "cls": "transposition",
+      "prior": 0.8,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A transposition variant of your domain, free to register today."
+    },
+    {
+      "domain": "aliworld.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "alpiworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "aoiworld.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "aopiworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiaorld.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiaworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apieorld.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "apieworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apijworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apikworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apioworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiowrld.co",
+      "cls": "transposition",
+      "prior": 0.8,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A transposition variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiqorld.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiqworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apisorld.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "apisworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiuworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiwaorld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiweorld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiwiorld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiwirld.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiwkorld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiwkrld.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiwlorld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiwlrld.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiwodld.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiwodrld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiwoeld.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiwoerld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiwofld.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiwofrld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiwoirld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiwokrld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiwolrd.co",
+      "cls": "transposition",
+      "prior": 0.8,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A transposition variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiwolrld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiwoprld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiwordl.co",
+      "cls": "transposition",
+      "prior": 0.8,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A transposition variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiwordld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworeld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworfld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworkd.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworkld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworlc.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworlcd.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworld.agency",
+      "cls": "tld-swap",
+      "prior": 0.65,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 5.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A tld-swap variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworld.app",
+      "cls": "tld-swap",
+      "prior": 0.65,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 14.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A tld-swap variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworld.net",
+      "cls": "tld-swap",
+      "prior": 0.65,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 7929.25,
+        "premium": true
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A tld-swap variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworld.solutions",
+      "cls": "tld-swap",
+      "prior": 0.65,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 5.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A tld-swap variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworld.watch",
+      "cls": "tld-swap",
+      "prior": 0.65,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A tld-swap variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworldc.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworlde.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworldf.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworldr.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworlds.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworldx.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworle.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworled.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworlf.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworlfd.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworlkd.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworlod.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworlpd.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworlr.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworlrd.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworls.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworlsd.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworlx.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworlxd.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworod.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworold.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworpd.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiworpld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiwortld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiwotld.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiwotrld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiwporld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiwprld.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiwqorld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiwrold.co",
+      "cls": "transposition",
+      "prior": 0.8,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A transposition variant of your domain, free to register today."
+    },
+    {
+      "domain": "apiwsorld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apjiworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apjworld.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "apkiworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apkworld.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "apliworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apoiworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apoworld.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "apuiworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "apuworld.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "apwiorld.co",
+      "cls": "transposition",
+      "prior": 0.8,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A transposition variant of your domain, free to register today."
+    },
+    {
+      "domain": "aqpiworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "aspiworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "awpiworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "azpiworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, free to register today."
+    },
+    {
+      "domain": "paiworld.co",
+      "cls": "transposition",
+      "prior": 0.8,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A transposition variant of your domain, free to register today."
+    },
+    {
+      "domain": "qpiworld.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "spiworld.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "wpiworld.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "zpiworld.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 4.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, free to register today."
+    },
+    {
+      "domain": "aiworld.co",
+      "cls": "omission",
+      "prior": 0.8,
+      "registered": true,
+      "authoritative": false,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [
+          "203.49.163.100"
+        ],
+        "mx": [
+          "aiworld-co.mail.protection.outlook.com"
+        ],
+        "chain": [],
+        "final_host": null,
+        "kind": "unknown",
+        "title": null
+      },
+      "search": {
+        "checked": true,
+        "appears": true,
+        "first_title": "Aluminium Industries"
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 3,
+        "search": 2,
+        "confusable": 2,
+        "recent": 0,
+        "parked": 0,
+        "total": 7
+      },
+      "band": "strangers",
+      "land_line": "Could not determine where this points.",
+      "reason": "An omission variant of your domain with mail configured found in search."
+    },
+    {
+      "domain": "apiworld.io",
+      "cls": "tld-swap",
+      "prior": 0.65,
+      "registered": true,
+      "authoritative": false,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [
+          "37.187.86.201"
+        ],
+        "mx": [
+          "mx02.mail.icloud.com",
+          "mx01.mail.icloud.com",
+          "smtp.apiworld.io"
+        ],
+        "chain": [],
+        "final_host": null,
+        "kind": "unknown",
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 3,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 3
+      },
+      "band": "strangers",
+      "land_line": "Could not determine where this points.",
+      "reason": "A tld-swap variant of your domain with mail configured."
+    },
+    {
+      "domain": "piworld.co",
+      "cls": "omission",
+      "prior": 0.8,
+      "registered": true,
+      "authoritative": false,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": "dark",
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 2,
+        "recent": 0,
+        "parked": 0,
+        "total": 2
+      },
+      "band": "strangers",
+      "land_line": "Nothing answers.",
+      "reason": "An omission variant of your domain."
+    },
+    {
+      "domain": "apiworld.org",
+      "cls": "tld-swap",
+      "prior": 0.65,
+      "registered": true,
+      "authoritative": false,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [
+          "208.91.197.27"
+        ],
+        "mx": [],
+        "chain": [
+          "http://apiworld.org/"
+        ],
+        "final_host": "apiworld.org",
+        "kind": "live-other",
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "total": 0
+      },
+      "band": "strangers",
+      "land_line": "Live site, no title captured.",
+      "reason": "A tld-swap variant of your domain."
+    }
+  ],
+  "footer": {
+    "generated": 150,
+    "answered": 150,
+    "not_authoritative": 4,
+    "truncated_from": 206
+  },
+  "prices": {
+    "top5_sum": 24.950000000000003,
+    "top5_domains": [
+      "account-apiworld.co",
+      "accountapiworld.co",
+      "apiworld-account.co",
+      "apiworld-billing.co",
+      "apiworld-help.co"
+    ]
+  },
+  "replay": false,
+  "replay_label": null,
+  "slowed_down": false
+}
