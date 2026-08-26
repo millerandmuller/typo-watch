@@ -572,6 +572,44 @@
 }
 
 /* ---------------------------------------------------------------------
+   Live-scan access gate (Round 6,
+   refinements/typo-watch-access-code-2026-08-26.md). Quiet, small --
+   deliberately not an error state visually. */
+.lg-gate-form {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 12px;
+}
+
+.lg-gate-input {
+  width: 180px;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 13px;
+  color: var(--lg-ink-full);
+  background: var(--lg-search-bg);
+  border: 1px solid var(--lg-search-border);
+  border-radius: 999px;
+  padding: 8px 16px;
+  outline: none;
+}
+.lg-gate-input::placeholder {
+  color: var(--lg-faint);
+}
+
+.lg-unlock-btn {
+  font-size: 13px;
+  padding: 8px 20px;
+}
+
+.lg-gate-note {
+  margin-top: 10px;
+  font-size: 12px;
+  color: var(--lg-faint);
+}
+
+/* ---------------------------------------------------------------------
    Responsive — the 5-column row grid holds at >=900px; below that the
    class column (col 3) drops and the land line wraps in its own column. */
 @media (max-width: 899px) {

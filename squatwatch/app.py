@@ -7,9 +7,11 @@ turns HTTP requests into calls on those modules and renders the result.
 
 from __future__ import annotations
 
+import hmac
+
 import httpx
 from fastapi import FastAPI, Form, Query, Request
-from fastapi.responses import HTMLResponse
+from fastapi.responses import HTMLResponse, RedirectResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 
@@ -27,6 +29,38 @@ _settings = get_settings()
 _cache = Cache(_settings.app.db_path, default_ttl_seconds=_settings.app.cache_ttl_seconds)
 _store = Store(_settings.app.db_path, _settings.app.seed_dir)
 
+# Round 6 (refinements/typo-watch-access-code-2026-08-26.md): the judge
+# access code for live scans travels as this cookie once granted, either
+# via GET /?code= or a correct code typed into the scan gate.
+ACCESS_COOKIE_NAME = "typowatch-access"
+ACCESS_COOKIE_MAX_AGE_SECONDS = 30 * 24 * 60 * 60
+
+
+def _code_matches(candidate: str | None, expected: str) -> bool:
+    """Constant-time compare -- the gate is a cost control, not a secret
+    worth an oracle, but there's no reason to leak timing regardless.
+
+    Compares as bytes, not str: hmac.compare_digest refuses two `str`
+    operands when either contains a non-ASCII character (raises
+    TypeError, examiner_report.md Round 6 adversarial finding P2) -- a
+    real risk here since judges paste the code from a PDF, where stray
+    Unicode is common. Byte comparison has no such restriction and is
+    still constant-time."""
+    if not candidate:
+        return False
+    return hmac.compare_digest(candidate.encode("utf-8"), expected.encode("utf-8"))
+
+
+def _set_access_cookie(response, code: str) -> None:
+    response.set_cookie(
+        ACCESS_COOKIE_NAME,
+        code,
+        max_age=ACCESS_COOKIE_MAX_AGE_SECONDS,
+        httponly=True,
+        secure=True,
+        samesite="lax",
+    )
+
 
 def _http_client() -> httpx.AsyncClient:
     return httpx.AsyncClient()
@@ -39,13 +73,58 @@ async def index(request: Request):
     `/scan/result?replay=1` endpoint — a presenter recovers from a slow
     or drifting live scan by reloading with `?replay=1` and submitting
     the same brand again, with no other code change available mid-take.
+
+    `?code=` (Round 6, refinements/typo-watch-access-code-2026-08-26.md)
+    is the judge's delivery path: a matching code sets the access cookie
+    and 303-redirects to `/` so the code leaves the URL bar and browser
+    history, preserving `?replay=1` if both are present. Only active
+    when SCAN_ACCESS_CODE is configured -- gate off means this whole
+    branch is a no-op and `GET /` behaves exactly as before.
     """
+    code_param = request.query_params.get("code")
+    if code_param is not None and _settings.app.scan_access_code:
+        target = "/?replay=1" if request.query_params.get("replay") else "/"
+        response = RedirectResponse(target, status_code=303)
+        if _code_matches(code_param, _settings.app.scan_access_code):
+            _set_access_cookie(response, _settings.app.scan_access_code)
+        return response
+
     replay = bool(request.query_params.get("replay"))
     return templates.TemplateResponse(request, "index.html", {"initial": False, "replay": replay})
 
 
 @app.post("/scan", response_class=HTMLResponse)
-async def scan_start(request: Request, brand: str = Form(...), replay: str = Form(None)):
+async def scan_start(
+    request: Request,
+    brand: str = Form(...),
+    replay: str = Form(None),
+    code: str = Form(None),
+):
+    resolved_replay = bool(replay) or _settings.app.replay_default
+
+    # Round 6 gate: exactly one chokepoint, a live scan with no valid
+    # code. Replay never reaches this branch (hard rule 1) and an empty
+    # SCAN_ACCESS_CODE disables it entirely (hard rule 3) -- the
+    # orchestrator (registry/search/model calls) is only ever invoked
+    # from /scan/result, which this route never triggers when it returns
+    # the gate partial instead of _progress.html.
+    grant_cookie = False
+    if not resolved_replay and _settings.app.scan_access_code:
+        cookie_valid = _code_matches(
+            request.cookies.get(ACCESS_COOKIE_NAME), _settings.app.scan_access_code
+        )
+        form_code_valid = _code_matches(code, _settings.app.scan_access_code)
+        if not (cookie_valid or form_code_valid):
+            return templates.TemplateResponse(
+                request,
+                "_scan_gate.html",
+                {"brand": brand, "wrong_code": bool(code)},
+            )
+        # A code typed into the gate unlocks and runs the scan in this
+        # same request -- no second prompt. A code already on the cookie
+        # needs no new Set-Cookie.
+        grant_cookie = form_code_valid and not cookie_valid
+
     try:
         parsed = engine.parse_brand(brand)
     except ValueError:
@@ -55,15 +134,18 @@ async def scan_start(request: Request, brand: str = Form(...), replay: str = For
             {"message": "Enter a domain like your-brand.com"},
         )
     candidates, _total = engine.generate(parsed.registrable, _settings.app.max_candidates)
-    return templates.TemplateResponse(
+    response = templates.TemplateResponse(
         request,
         "_progress.html",
         {
             "brand": parsed.registrable,
             "generated": len(candidates),
-            "replay": bool(replay) or _settings.app.replay_default,
+            "replay": resolved_replay,
         },
     )
+    if grant_cookie:
+        _set_access_cookie(response, _settings.app.scan_access_code)
+    return response
 
 
 @app.get("/scan/stage", response_class=HTMLResponse)

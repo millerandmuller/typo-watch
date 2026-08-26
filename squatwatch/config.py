@@ -131,6 +131,12 @@ class AppConfig:
             b.strip() for b in os.getenv("SNAPSHOT_FROZEN_BRANDS", "").split(",") if b.strip()
         )
     )
+    # Round 6 (refinements/typo-watch-access-code-2026-08-26.md): shared
+    # cost-gate code for a live (non-replay) POST /scan. Empty = gate off,
+    # so local dev, the test suite, and a fresh clone behave exactly as
+    # before by default -- the gate exists in production only because the
+    # Fly secret is set.
+    scan_access_code: str = field(default_factory=lambda: os.getenv("SCAN_ACCESS_CODE", ""))
 
 
 @dataclass(frozen=True)

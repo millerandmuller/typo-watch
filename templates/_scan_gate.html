@@ -1,0 +1,10 @@
+<div id="results">
+  <p class="lg-tagline">Live scans call the real registry, search, and model APIs, so they need an access code &mdash; it&rsquo;s in our Devpost submission.</p>
+  <form hx-post="/scan" hx-target="#results" hx-swap="innerHTML" class="lg-gate-form">
+    <input type="hidden" name="brand" value="{{ brand }}">
+    <input type="text" name="code" class="lg-gate-input" placeholder="access code" autocomplete="off" required>
+    <button type="submit" class="lg-pill-btn lg-unlock-btn">Unlock</button>
+  </form>
+  {% if wrong_code %}<p class="lg-gate-note">That code wasn&rsquo;t recognized.</p>{% endif %}
+  <p class="lg-gate-note">No code? The demo brand is open: <a class="lg-link" href="/r/devnetwork.com">devnetwork.com</a> &mdash; or browse the <a class="lg-link" href="/methodology">methodology</a>.</p>
+</div>
