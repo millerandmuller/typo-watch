@@ -1,5 +1,590 @@
 @import "tailwindcss";
 
+/* Round 5 — Ledger UI. Dark is the default independent of the OS setting;
+   mode is controlled purely by a `dark` class on <html> (see base.html's
+   inline head script), never `prefers-color-scheme`. */
+@custom-variant dark (&:where(.dark, .dark *));
+
+@font-face {
+  font-family: "IBM Plex Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/static/fonts/ibm-plex-mono-400.woff2") format("woff2");
+}
+@font-face {
+  font-family: "IBM Plex Mono";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/static/fonts/ibm-plex-mono-500.woff2") format("woff2");
+}
+@font-face {
+  font-family: "IBM Plex Mono";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/static/fonts/ibm-plex-mono-600.woff2") format("woff2");
+}
+
+/* ---------------------------------------------------------------------
+   Design tokens (refinements/typo-watch-ledger-ui-2026-08-26.md).
+   :root holds the light palette (the CSS fallback); .dark overrides it.
+   <html> always renders class="dark" from the server, so dark is what
+   paints unless the head script removes the class before first paint. */
+:root {
+  --lg-page-bg: radial-gradient(110% 80% at 50% 0%, #ffffff 0%, #f2f3f2 55%, #e9ebea 100%);
+  --lg-ink: #17191c;
+  --lg-ink-full: #17191c;
+  --lg-secondary: #2c2f33;
+  --lg-muted: #55595e;
+  --lg-faint: #65696e; /* darkened from the handoff's #85898e -- 11-12px mono
+    meta text at that value failed WCAG AA (2.9-3.5:1) against the page
+    gradient's lower stops; #65696e clears 4.5:1+ while staying visibly
+    quieter than --lg-muted (acceptance criterion 8) */
+  --lg-hairline: #dfe1df;
+  --lg-red: #c8443a;
+  --lg-green: #257d51;
+  --lg-amber: #a4741f;
+  --lg-btn-bg: #17191c;
+  --lg-btn-text: #f6f6f5;
+  --lg-search-bg: #ffffff;
+  --lg-search-border: #d8dad8;
+  --lg-search-shadow: 0 8px 24px rgba(23, 25, 28, 0.08);
+  --lg-row-hover: #00000006;
+  --lg-chip-amber-bg: rgba(164, 116, 31, 0.1);
+  --lg-chip-red-bg: rgba(200, 68, 58, 0.08);
+}
+
+:root.dark {
+  --lg-page-bg: radial-gradient(120% 90% at 50% 6%, #262e37 0%, #14181e 45%, #0b0e11 100%);
+  --lg-ink: #e6e9eb;
+  --lg-ink-full: #f2f4f5;
+  --lg-secondary: #cfd4d9;
+  --lg-muted: #8d97a1;
+  --lg-faint: #79828e; /* lightened from the handoff's #6b7480 -- same AA
+    fix as the light-mode faint token, mirrored (see :root comment) */
+  --lg-hairline: rgba(255, 255, 255, 0.1);
+  --lg-red: #ff7263;
+  --lg-green: #63cf95;
+  --lg-amber: #e9b95a;
+  --lg-btn-bg: #f2f4f5;
+  --lg-btn-text: #0c0e10;
+  --lg-search-bg: rgba(9, 12, 15, 0.85);
+  --lg-search-border: rgba(255, 255, 255, 0.11);
+  --lg-search-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+  --lg-row-hover: rgba(255, 255, 255, 0.03);
+  --lg-chip-amber-bg: rgba(233, 185, 90, 0.1);
+  --lg-chip-red-bg: rgba(255, 114, 99, 0.1);
+}
+
+/* ---------------------------------------------------------------------
+   Page shell */
+.lg-body {
+  background: var(--lg-page-bg);
+  /* fixed attachment bounds the gradient's sizing area to the viewport
+     instead of the full document height -- on a long, un-collapsed
+     strangers band (e.g. a ~9000px google.com scan) a scroll-attached
+     gradient this size fails to rasterize past a certain depth and the
+     page falls back to a blank white canvas (Round 5 demo-rehearsal
+     finding, examiner_report.md) */
+  background-attachment: fixed;
+  color: var(--lg-ink);
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  min-height: 100vh;
+}
+
+.lg-shell {
+  /* A1 (project_brief.md Section 9e): the handoff's "~960px content
+     width, 60px page padding" means padding OUTSIDE the 960px content
+     box, not inside it -- the old 960px max-width left only 840px of
+     content. Measured live against all four seed brands before
+     re-seeding: three (devnetwork.com, apiworld.co, name.com) need
+     ~951px for their count sentence, matching the handoff's own figure,
+     but google.com's real counts (119/8/23 -- a 3-digit stranger count)
+     need ~970px, already over a bare 960px content box. 1000px content
+     (1000 + 2*60 padding) covers the widest seed brand with headroom for
+     count drift on re-seed, not just the ~951px figure alone. */
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 44px clamp(20px, 6vw, 60px) 32px;
+}
+
+.lg-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.lg-wordmark {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 13px;
+  letter-spacing: 0.32em;
+  color: var(--lg-muted);
+}
+
+.lg-header-right {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+
+.lg-header-link {
+  font-size: 13px;
+  color: var(--lg-muted);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.lg-toggle {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 12px;
+  color: var(--lg-muted);
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+}
+.lg-toggle:hover {
+  color: var(--lg-ink);
+}
+
+/* ---------------------------------------------------------------------
+   Search bar (D2 entry) */
+.lg-search {
+  display: flex;
+  height: 62px;
+  margin-top: 36px;
+  border-radius: 999px;
+  box-shadow: var(--lg-search-shadow);
+}
+
+.lg-search-field {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  align-items: center;
+  padding: 0 30px;
+  background: var(--lg-search-bg);
+  border: 1px solid var(--lg-search-border);
+  border-right: none;
+  border-radius: 999px 0 0 999px;
+}
+
+.lg-search-field input {
+  width: 100%;
+  background: transparent;
+  border: none;
+  outline: none;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 22px;
+  color: var(--lg-ink-full);
+}
+.lg-search-field input::placeholder {
+  color: var(--lg-faint);
+}
+
+.lg-pill-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--lg-btn-bg);
+  color: var(--lg-btn-text);
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 500;
+  border: none;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.lg-scan-btn {
+  width: 158px;
+  flex: none;
+  font-size: 21px;
+  border-radius: 0 999px 999px 0;
+}
+
+.lg-tagline {
+  margin-top: 14px;
+  font-size: 14px;
+  color: var(--lg-secondary);
+}
+
+.lg-meta-line {
+  margin-top: 14px;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 12px;
+  color: var(--lg-faint);
+}
+.lg-meta-line.lg-meta-amber {
+  color: var(--lg-amber);
+}
+.lg-meta-line + .lg-meta-line {
+  margin-top: 4px;
+}
+
+/* ---------------------------------------------------------------------
+   Count reveal sentence */
+.lg-count-sentence {
+  margin-top: 38px;
+  /* A1 re-review (project_brief.md Section 9e, adversarial finding):
+     a fixed 34px held one line only once the viewport was wide enough
+     for .lg-shell's max-width to actually deliver its full 1000px
+     content box (>=~1100px) -- any "desktop" window from the 900px
+     breakpoint up to ~1071px still wrapped the Hero Moment, the single
+     highest-priority shot in the demo, on an ordinary non-maximized
+     recording window. Scaling the font down with viewport width (not
+     just the container's max-width) keeps the sentence on one line
+     across that whole range instead of only above one exact pixel
+     threshold; empirically verified one-line at 900/950/1000/1050/1071/
+     1090/1120/1200/1440px for both devnetwork.com and google.com (the
+     widest real seed brand). */
+  font-size: clamp(22px, calc(3.51vw - 6px), 34px);
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  line-height: 1.35;
+}
+.lg-num {
+  font-weight: 500;
+}
+.lg-num-red {
+  color: var(--lg-red);
+}
+.lg-num-green {
+  color: var(--lg-green);
+}
+.lg-num-amber {
+  color: var(--lg-amber);
+}
+
+/* ---------------------------------------------------------------------
+   Band headers */
+.lg-band-header {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 8px;
+  border-bottom: 2px solid var(--lg-ink);
+  padding-bottom: 8px;
+}
+.lg-band-section + .lg-band-section > .lg-band-header {
+  margin-top: 24px;
+}
+
+.lg-band-title {
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
+.lg-legend {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 11px;
+  color: var(--lg-faint);
+  letter-spacing: 0.02em;
+}
+
+.lg-defend-pill {
+  font-size: 13px;
+  padding: 7px 18px;
+}
+
+/* ---------------------------------------------------------------------
+   Rows */
+.lg-rows {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.lg-row {
+  display: grid;
+  grid-template-columns: 12px 250px 120px 1fr 130px;
+  column-gap: 18px;
+  align-items: center;
+  padding: 16px 0;
+  border-bottom: 1px solid var(--lg-hairline);
+}
+.lg-row:hover {
+  background: var(--lg-row-hover);
+}
+
+.lg-marker-circle {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex: none;
+}
+.lg-marker-circle.lg-red {
+  background: var(--lg-red);
+}
+.lg-marker-circle.lg-green {
+  background: var(--lg-green);
+}
+
+.lg-marker-square {
+  appearance: none;
+  -webkit-appearance: none;
+  width: 12px;
+  height: 12px;
+  border-radius: 3px;
+  border: 1px solid var(--lg-hairline);
+  background: transparent;
+  flex: none;
+  margin: 0;
+  cursor: pointer;
+}
+.lg-marker-square:checked {
+  background: var(--lg-amber);
+  border-color: var(--lg-amber);
+}
+
+.lg-domain {
+  min-width: 0;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 16px;
+  color: var(--lg-ink-full);
+  overflow-wrap: anywhere;
+}
+
+.lg-class-tag {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 11px;
+  color: var(--lg-muted);
+  text-transform: lowercase;
+}
+
+.lg-land-line {
+  font-size: 14px;
+  color: var(--lg-secondary);
+  overflow-wrap: anywhere;
+}
+
+.lg-evidence-trigger {
+  display: block;
+  text-align: right;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 11px;
+  color: var(--lg-muted);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  cursor: pointer;
+  list-style: none;
+}
+.lg-evidence-trigger::-webkit-details-marker {
+  display: none;
+}
+
+.lg-price {
+  text-align: right;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 13px;
+  color: var(--lg-ink-full);
+}
+
+.lg-evidence-cell[open] {
+  grid-column: 1 / -1;
+}
+/* Safety net (Round 5 examiner finding): a scraped page title with no
+   whitespace (garbled/mojibake encoding, no break points) can otherwise
+   establish an oversized intrinsic width for this cell even while
+   closed. overflow-wrap on the body/pre/chip text below is the real
+   fix; this hard-caps the closed cell to its 130px column regardless. */
+.lg-evidence-cell:not([open]) {
+  max-width: 130px;
+  overflow: hidden;
+}
+
+.lg-evidence-body {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px dashed var(--lg-hairline);
+  font-size: 13px;
+  color: var(--lg-secondary);
+  overflow-wrap: anywhere;
+}
+.lg-evidence-body > * + * {
+  margin-top: 8px;
+}
+
+.lg-chip {
+  display: inline-block;
+  max-width: 100%;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 11px;
+  border: 1px solid var(--lg-hairline);
+  border-radius: 999px;
+  padding: 3px 9px;
+  overflow-wrap: anywhere;
+}
+.lg-chip.lg-chip-amber {
+  color: var(--lg-amber);
+  background: var(--lg-chip-amber-bg);
+  border-color: transparent;
+}
+.lg-chip.lg-chip-muted {
+  color: var(--lg-faint);
+}
+
+.lg-score-list {
+  margin-top: 4px;
+  padding-left: 14px;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 11px;
+  color: var(--lg-faint);
+  list-style: disc;
+}
+.lg-score-list li + li {
+  margin-top: 2px;
+}
+
+.lg-fine-print {
+  font-size: 11px;
+  color: var(--lg-faint);
+}
+
+.lg-evidence-pre {
+  margin-top: 4px;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 11px;
+  color: var(--lg-faint);
+  overflow-wrap: anywhere;
+  background: color-mix(in srgb, var(--lg-ink) 4%, transparent);
+  border: 1px solid var(--lg-hairline);
+  border-radius: 6px;
+  padding: 8px 10px;
+}
+
+.lg-link {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.lg-mono-list {
+  margin-top: 4px;
+  padding-left: 14px;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 11px;
+  color: var(--lg-faint);
+}
+
+.lg-empty-row {
+  padding: 16px 0;
+  border-bottom: 1px solid var(--lg-hairline);
+  font-size: 14px;
+  color: var(--lg-muted);
+}
+
+.lg-collapse-summary {
+  display: block;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 12px;
+  color: var(--lg-faint);
+  padding: 12px 0;
+  cursor: pointer;
+  list-style: none;
+}
+.lg-collapse-summary::-webkit-details-marker {
+  display: none;
+}
+
+/* ---------------------------------------------------------------------
+   Footer */
+.lg-footer {
+  margin-top: 32px;
+  display: grid;
+  gap: 8px;
+}
+.lg-footer-coverage {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 12px;
+  color: var(--lg-faint);
+}
+.lg-footer-prevention {
+  font-size: 13px;
+  color: var(--lg-secondary);
+}
+.lg-footer-not-covered {
+  font-size: 12px;
+  color: var(--lg-faint);
+}
+.lg-footer-watchdiff {
+  font-size: 13px;
+  color: var(--lg-secondary);
+  border: 1px solid var(--lg-hairline);
+  border-radius: 8px;
+  padding: 8px 12px;
+}
+.lg-footer-links {
+  font-size: 13px;
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+/* ---------------------------------------------------------------------
+   Prose surfaces (methodology, 404, notice drawer, defend result) */
+.lg-prose h1 {
+  font-size: 24px;
+  font-weight: 600;
+  margin-top: 16px;
+}
+.lg-prose h2 {
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 28px;
+}
+.lg-prose ul {
+  margin-top: 10px;
+  padding-left: 20px;
+  font-size: 14px;
+  list-style: disc;
+}
+.lg-prose li + li {
+  margin-top: 6px;
+}
+.lg-prose p {
+  font-size: 14px;
+  color: var(--lg-secondary);
+}
+.lg-prose p + p {
+  margin-top: 8px;
+}
+.lg-prose p.lg-muted {
+  color: var(--lg-faint);
+}
+.lg-prose code {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.92em;
+}
+
+.lg-panel {
+  border: 1px solid var(--lg-hairline);
+  border-radius: 10px;
+  padding: 14px 16px;
+  background: color-mix(in srgb, var(--lg-ink) 3%, transparent);
+}
+
+/* ---------------------------------------------------------------------
+   Responsive — the 5-column row grid holds at >=900px; below that the
+   class column (col 3) drops and the land line wraps in its own column. */
+@media (max-width: 899px) {
+  .lg-row {
+    grid-template-columns: 12px minmax(0, 45%) 1fr 130px;
+  }
+  .lg-class-tag {
+    display: none;
+  }
+}
+
+/* ---------------------------------------------------------------------
+   htmx */
 .htmx-indicator {
   opacity: 0;
   transition: opacity 150ms ease-in;

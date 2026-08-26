@@ -2,41 +2,47 @@
 <div id="results">
   {% set counts = scan.band_counts() %}
   {% if scan.slowed_down %}
-    <p class="text-sm text-amber-600 mb-3">Slowing down for the registrar&hellip;</p>
+    <p class="lg-meta-line lg-meta-amber">Slowing down for the registrar&hellip;</p>
   {% endif %}
   {% if scan.replay %}
-    <p class="text-sm text-slate-400 mb-3">{{ scan.replay_label }}</p>
+    <p class="lg-meta-line">{{ scan.replay_label }}</p>
   {% else %}
-    <p class="text-sm text-slate-400 mb-3">{{ scanned_label }}</p>
+    <p class="lg-meta-line">{{ scanned_label }}</p>
   {% endif %}
-  <section class="mb-8 border-l-4 border-red-600 pl-4">
-    <h2 class="text-xl font-semibold bg-red-50 text-red-900 px-2 py-1 rounded">
-      Strangers hold {{ counts.strangers }}{% if counts.strangers == 0 %}. Good.{% endif %}
-    </h2>
-    <ul class="mt-3 space-y-2">
+
+  {{ m.count_sentence(counts) }}
+
+  <section class="lg-band-section">
+    {% call m.band_header("Strangers hold " ~ counts.strangers ~ (". Good." if counts.strangers == 0 else "")) %}
+      <span class="lg-legend">DOMAIN &middot; CLASS &middot; WHERE YOUR CUSTOMERS LAND &middot; EVIDENCE</span>
+    {% endcall %}
+    <ul class="lg-rows">
       {% for c in scan.cards if c.band and c.band.value == "strangers" %}
         {{ m.card(c, scan.brand, serpapi_max_queries=serpapi_max_queries) }}
       {% endfor %}
     </ul>
   </section>
 
-  <section class="mb-8 border-l-4 border-green-600 pl-4">
-    <h2 class="text-xl font-semibold bg-green-50 text-green-900 px-2 py-1 rounded">Forward to you {{ counts.yours }}</h2>
-    <ul class="mt-3 space-y-2">
-      {% for c in scan.cards if c.band and c.band.value == "yours" %}
-        {{ m.card(c, scan.brand) }}
-      {% endfor %}
-    </ul>
+  <section class="lg-band-section">
+    {{ m.band_header("Forward to you " ~ counts.yours) }}
+    {% set yours_cards = scan.cards|selectattr("band")|selectattr("band.value", "equalto", "yours")|list %}
+    {% if yours_cards %}
+      <ul class="lg-rows">
+        {% for c in yours_cards %}
+          {{ m.card(c, scan.brand) }}
+        {% endfor %}
+      </ul>
+    {% else %}
+      <p class="lg-empty-row">None of your look-alikes point back to you yet.</p>
+    {% endif %}
   </section>
 
   {% if scan.suggestions %}
-    <details class="mb-8 text-sm text-slate-500">
-      <summary class="cursor-pointer select-none underline decoration-dotted">
-        {{ scan.suggestions|length }} registrar-suggested names for this brand (name.com domains:search)
-      </summary>
-      <ul class="mt-2 pl-4 list-disc space-y-1">
+    <details>
+      <summary class="lg-collapse-summary">{{ scan.suggestions|length }} registrar-suggested names for this brand (name.com domains:search)</summary>
+      <ul class="lg-mono-list">
         {% for s in scan.suggestions %}
-          <li class="font-mono">
+          <li>
             {{ s.domain_name }}
             {% if s.purchasable and s.price %} &middot; ${{ "%.2f"|format(s.price) }}/yr{% elif s.purchasable == false %} &middot; taken{% endif %}
           </li>
@@ -45,44 +51,35 @@
     </details>
   {% endif %}
 
-  <section class="mb-8 border-l-4 border-amber-600 pl-4">
-    <h2 class="text-xl font-semibold bg-amber-50 text-amber-900 px-2 py-1 rounded">Free and dangerous {{ counts.free }}</h2>
-    {% if scan.prices.top5_sum %}
-      <p class="text-sm text-slate-500 mt-1">
-        {% if scan.prices.top5_priced_count < scan.prices.top5_total_count %}
-          Registering the {{ scan.prices.top5_priced_count }} of {{ scan.prices.top5_total_count }} priced today: ${{ "%.2f"|format(scan.prices.top5_sum) }}
+  <section class="lg-band-section">
+    {% call m.band_header("Free and dangerous " ~ counts.free) %}
+      {% if counts.free > 0 %}
+        {% if scan.prices.top5_sum %}
+          <button type="submit" form="defend-form" class="lg-pill-btn lg-defend-pill">Defend top 5 &middot; ${{ "%.2f"|format(scan.prices.top5_sum) }} &middot; sandbox</button>
         {% else %}
-          Registering the top five today: ${{ "%.2f"|format(scan.prices.top5_sum) }}
+          <button type="submit" form="defend-form" class="lg-pill-btn lg-defend-pill">Defend (sandbox)</button>
         {% endif %}
-        &middot; one <a class="underline" href="https://www.wipo.int/amc/en/domains/guide/" target="_blank" rel="noopener">UDRP case: USD 1,500 and about two months (WIPO)</a>.
-      </p>
-    {% endif %}
-    <form hx-post="/defend" hx-target="#defend-result" hx-swap="innerHTML">
+      {% endif %}
+    {% endcall %}
+    <form id="defend-form" hx-post="/defend" hx-target="#defend-result" hx-swap="innerHTML">
       <input type="hidden" name="brand" value="{{ scan.brand }}">
       {% set free_cards = scan.cards|selectattr("band")|selectattr("band.value", "equalto", "free")|list %}
       {% set free_visible = free_cards[:10] %}
       {% set free_hidden = free_cards[10:] %}
-      <ul class="mt-3 space-y-2">
+      <ul class="lg-rows">
         {% for c in free_visible %}
           {{ m.card(c, scan.brand, preselected=(c.domain in defensive_domains)) }}
         {% endfor %}
       </ul>
       {% if free_hidden %}
-        <details class="mt-3 text-sm text-slate-500">
-          <summary class="cursor-pointer select-none underline decoration-dotted">
-            and {{ free_hidden|length }} more, available to register today
-          </summary>
-          <ul class="mt-3 space-y-2">
+        <details>
+          <summary class="lg-collapse-summary">and {{ free_hidden|length }} more, available to register today &#9662;</summary>
+          <ul class="lg-rows">
             {% for c in free_hidden %}
               {{ m.card(c, scan.brand, preselected=(c.domain in defensive_domains)) }}
             {% endfor %}
           </ul>
         </details>
-      {% endif %}
-      {% if counts.free > 0 %}
-        <button type="submit" class="mt-3 bg-slate-900 text-white rounded-md px-4 py-2 text-sm">
-          Defend (sandbox)
-        </button>
       {% endif %}
     </form>
     <div id="defend-result" class="mt-3"></div>
@@ -90,19 +87,31 @@
 
   <div id="notice-drawer" class="mb-8"></div>
 
-  <footer class="text-sm text-slate-500 space-y-1 border-t border-slate-200 pt-4">
-    <p>
+  <footer class="lg-footer">
+    <p class="lg-footer-coverage">
       {% if scan.footer.truncated_from %}{{ scan.footer.generated }} of {{ scan.footer.truncated_from }} candidates checked (top by risk prior){% else %}{{ scan.footer.generated }} generated{% endif %}
       &middot; {{ scan.footer.answered }} answered by the registry &middot; {{ scan.footer.not_authoritative }} not authoritative (no RDAP server for this TLD)
     </p>
-    <p class="text-slate-400">Not covered: look-alikes on someone else's subdomain (brand.example.net), free-hosting pages, non-Latin homographs beyond our table, social handles. A determined attacker uses these too.</p>
-    {% if watch_diff_line %}
-      <p class="bg-slate-50 border border-slate-200 rounded p-2">{{ watch_diff_line }}</p>
+    {% if scan.prices.top5_sum %}
+      <p class="lg-footer-prevention">
+        {% if scan.prices.top5_priced_count < scan.prices.top5_total_count %}
+          Registering the {{ scan.prices.top5_priced_count }} of {{ scan.prices.top5_total_count }} priced today: ${{ "%.2f"|format(scan.prices.top5_sum) }}
+        {% else %}
+          Registering the top five today: ${{ "%.2f"|format(scan.prices.top5_sum) }}
+        {% endif %}
+        &middot; one <a class="lg-link" href="https://www.wipo.int/amc/en/domains/guide/" target="_blank" rel="noopener">UDRP case: USD 1,500 and about two months (WIPO)</a>.
+      </p>
     {% endif %}
-    <p><a class="underline" href="/r/{{ scan.brand }}">Permalink to this scan</a></p>
-    <form hx-post="/watch" hx-swap="none">
-      <input type="hidden" name="brand" value="{{ scan.brand }}">
-      <button type="submit" class="underline">Watch this brand</button>
-    </form>
+    <p class="lg-footer-not-covered">Not covered: look-alikes on someone else's subdomain (brand.example.net), free-hosting pages, non-Latin homographs beyond our table, social handles. A determined attacker uses these too.</p>
+    {% if watch_diff_line %}
+      <p class="lg-footer-watchdiff">{{ watch_diff_line }}</p>
+    {% endif %}
+    <div class="lg-footer-links">
+      <a class="lg-link" href="/r/{{ scan.brand }}">Permalink to this scan</a>
+      <form hx-post="/watch" hx-swap="none">
+        <input type="hidden" name="brand" value="{{ scan.brand }}">
+        <button type="submit" class="lg-link bg-transparent border-0 p-0 cursor-pointer font-[inherit] text-[13px]">Watch this brand</button>
+      </form>
+    </div>
   </footer>
 </div>

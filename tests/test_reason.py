@@ -11,6 +11,7 @@ from squatwatch.reason import (
     _deterministic_reason,
     _fact_tuple,
     _mentions_search,
+    _strip_rank_explanation,
     write_reasons,
 )
 
@@ -279,6 +280,154 @@ def test_mentions_search_catches_ordinary_verb_inflections():
     missed them entirely."""
     assert _mentions_search("People searching for your brand will land on this page instead.")
     assert _mentions_search("This page is now searchable and ranks for your brand name online.")
+
+
+def test_strip_rank_explanation_trims_the_three_observed_sightings():
+    """A3 (project_brief.md Section 9e): three verified sightings of the
+    model narrating its own rank despite the system prompt's instruction
+    not to. Each must be trimmed to its factual remainder, not replaced
+    wholesale with the deterministic template."""
+    frozen_hero = (
+        "This domain has mail configured and appears in search, which is "
+        "why it lands in the strangers group with a low score."
+    )
+    assert (
+        _strip_rank_explanation(frozen_hero)
+        == "This domain has mail configured and appears in search."
+    )
+
+    denetwork = (
+        "This domain has mail configured, but it still falls into the "
+        "strangers group with a low score."
+    )
+    assert _strip_rank_explanation(denetwork) == "This domain has mail configured."
+
+    live_scan = (
+        "This domain has mail configured, which puts it in the stranger "
+        "band with a middling score."
+    )
+    assert _strip_rank_explanation(live_scan) == "This domain has mail configured."
+
+
+def test_strip_rank_explanation_handles_variants_found_in_the_pre_a3_seed_data():
+    """A3: before re-seeding, a live check of the pre-fix seed snapshots
+    (seed/*/2026-08-21T*.json) found the model violating the "never
+    explain rank" instruction far more often than the three documented
+    sightings, using words the first draft of this guard's keyword list
+    didn't cover ("category", "tier", "scores", "ranked") and clause
+    shapes a single-connector match didn't handle (the explanation
+    introduced by "giving"/"landing" rather than "which/but/so/and", or
+    a real unrelated fact clause sitting BEFORE the explanation clause).
+    A representative sample of those real strings, fixed here so the
+    guard doesn't regress to under-matching the shape it was actually
+    seen failing on."""
+    # "giving it a low score" -- no which/but/so/and connector at all,
+    # and a real fact clause must survive untouched.
+    assert _strip_rank_explanation(
+        "This is a lookalike domain using a swapped ending, and while it "
+        "can receive email, it does not show up in search, giving it a "
+        "low score."
+    ) == (
+        "This is a lookalike domain using a swapped ending, and while it "
+        "can receive email, it does not show up in search."
+    )
+    # "scores"/"ranks" verb inflections, not the bare "score"/"rank" noun.
+    assert _strip_rank_explanation(
+        "This domain isn't set up to receive email and doesn't appear in "
+        "search, so it scores very low as a stranger."
+    ) == "This domain isn't set up to receive email and doesn't appear in search."
+    # a genuine unrelated fact clause ("fairly recent registration") sits
+    # BEFORE the rank-explanation clause -- must survive, not be
+    # swallowed by a single greedy first-connector-to-last-keyword match.
+    assert _strip_rank_explanation(
+        "It has mail servers set up and appears in search, but it's a "
+        "fairly recent registration, so it scores even lower and sits in "
+        "the strangers group."
+    ) == "It has mail servers set up and appears in search, but it's a fairly recent registration."
+
+
+def test_strip_rank_explanation_catches_classification_and_placement_synonyms():
+    """Adversarial re-review (P3): "classification"/"placement" are
+    plausible near-synonyms for "band"/"group"/"rank" not seen in the
+    real corpus but not covered by the original keyword list either."""
+    assert _strip_rank_explanation(
+        "This domain has mail configured, which affects its classification here."
+    ) == "This domain has mail configured."
+    assert _strip_rank_explanation(
+        "This domain has mail configured, given its placement among strangers."
+    ) == "This domain has mail configured."
+
+
+def test_strip_rank_explanation_catches_standalone_standing_but_not_long_standing():
+    """Adversarial re-review (P3): "standing" alone is a plausible rank
+    synonym ("low standing"), but "long-standing registration" is a
+    legitimate, unrelated way to describe an old domain -- the guard
+    must catch the first and leave the second alone."""
+    assert _strip_rank_explanation(
+        "This domain has mail configured, and its standing among strangers is low."
+    ) == "This domain has mail configured."
+    untouched = "This is a long-standing registration from 1998 with mail configured."
+    assert _strip_rank_explanation(untouched) == untouched
+
+
+def test_strip_rank_explanation_leaves_a_clean_factual_sentence_untouched():
+    clean = "A homoglyph variant of your domain with mail configured, found in search."
+    assert _strip_rank_explanation(clean) == clean
+
+
+def test_strip_rank_explanation_falls_back_when_the_sentence_is_only_a_rank_explanation():
+    """A sentence with no leading factual clause to keep -- just a rank
+    explanation -- must return "" so the caller falls back to the
+    deterministic sentence, rather than shipping an empty or fragment
+    reason."""
+    only_explanation = "It lands in the strangers group with a low score."
+    assert _strip_rank_explanation(only_explanation) == ""
+
+
+@pytest.mark.asyncio
+async def test_guard_strips_rank_explanation_end_to_end():
+    """The A3 guard must fire inside the real write_reasons path, not
+    just in the standalone _strip_rank_explanation unit check, and must
+    apply even when search WAS checked (unlike the A1 search guard)."""
+    card = _card("a.com", 5, search=SearchInfo(checked=True, appears=True, first_title="Example"))
+    cfg = AnthropicConfig(api_key="fake-key-for-mock-only")
+
+    async def fake_create(**kwargs):
+        return _mock_response(
+            {
+                "a.com": (
+                    "This domain appears in search, which puts it in the "
+                    "stranger band with a middling score."
+                )
+            }
+        )
+
+    mock_client = MagicMock()
+    mock_client.messages.create = AsyncMock(side_effect=fake_create)
+
+    with patch("anthropic.AsyncAnthropic", return_value=mock_client):
+        await write_reasons([card], cfg)
+
+    assert card.reason == "This domain appears in search."
+    assert "band" not in card.reason
+    assert "score" not in card.reason
+
+
+@pytest.mark.asyncio
+async def test_guard_falls_back_to_deterministic_when_rank_explanation_is_the_whole_sentence():
+    card = _card("a.com", 5, search=SearchInfo(checked=True, appears=True, first_title="Example"))
+    cfg = AnthropicConfig(api_key="fake-key-for-mock-only")
+
+    async def fake_create(**kwargs):
+        return _mock_response({"a.com": "It lands in the strangers group with a low score."})
+
+    mock_client = MagicMock()
+    mock_client.messages.create = AsyncMock(side_effect=fake_create)
+
+    with patch("anthropic.AsyncAnthropic", return_value=mock_client):
+        await write_reasons([card], cfg)
+
+    assert card.reason == _deterministic_reason(card)
 
 
 @pytest.mark.asyncio

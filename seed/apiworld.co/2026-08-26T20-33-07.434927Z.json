@@ -1,16 +1,16 @@
 {
-  "brand": "devnetwork.com",
-  "scanned_at": "2026-08-21T02:34:55.664879Z",
+  "brand": "apiworld.co",
+  "scanned_at": "2026-08-26T20:33:07.434927Z",
   "cards": [
     {
-      "domain": "account-devnetwork.com",
+      "domain": "account-apiworld.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -41,6 +41,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -48,14 +49,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "accountdevnetwork.com",
+      "domain": "accountapiworld.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -86,6 +87,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -93,14 +95,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "billing-devnetwork.com",
+      "domain": "apiworld-account.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -131,6 +133,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -138,14 +141,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "billingdevnetwork.com",
+      "domain": "apiworld-billing.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -176,6 +179,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -183,14 +187,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "devnetwork-account.com",
+      "domain": "apiworld-help.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -221,6 +225,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -228,14 +233,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "devnetwork-billing.com",
+      "domain": "apiworld-login.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -266,6 +271,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -273,14 +279,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "devnetwork-help.com",
+      "domain": "apiworld-mail.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -311,6 +317,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -318,14 +325,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "devnetwork-login.com",
+      "domain": "apiworld-pay.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -356,6 +363,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -363,14 +371,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "devnetwork-mail.com",
+      "domain": "apiworld-secure.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -401,6 +409,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -408,14 +417,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "devnetwork-pay.com",
+      "domain": "apiworld-support.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -446,6 +455,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -453,14 +463,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "devnetwork-secure.com",
+      "domain": "apiworld-verify.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -491,6 +501,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -498,14 +509,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "devnetwork-support.com",
+      "domain": "apiworldaccount.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -536,6 +547,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -543,14 +555,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "devnetwork-verify.com",
+      "domain": "apiworldbilling.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -581,6 +593,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -588,14 +601,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "devnetworkaccount.com",
+      "domain": "apiworldhelp.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -626,6 +639,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -633,14 +647,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "devnetworkbilling.com",
+      "domain": "apiworldlogin.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -671,6 +685,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -678,14 +693,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "devnetworkhelp.com",
+      "domain": "apiworldmail.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -716,6 +731,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -723,14 +739,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "devnetworklogin.com",
+      "domain": "apiworldpay.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -761,6 +777,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -768,14 +785,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "devnetworkmail.com",
+      "domain": "apiworldsecure.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -806,6 +823,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -813,14 +831,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "devnetworkpay.com",
+      "domain": "apiworldsupport.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -851,6 +869,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -858,14 +877,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "devnetworksecure.com",
+      "domain": "apiworldverify.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -896,6 +915,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -903,14 +923,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "devnetworksupport.com",
+      "domain": "billing-apiworld.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -941,6 +961,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -948,14 +969,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "devnetworkverify.com",
+      "domain": "billingapiworld.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -986,6 +1007,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -993,14 +1015,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "help-devnetwork.com",
+      "domain": "help-apiworld.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -1031,6 +1053,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -1038,14 +1061,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "helpdevnetwork.com",
+      "domain": "helpapiworld.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -1076,6 +1099,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -1083,14 +1107,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "login-devnetwork.com",
+      "domain": "login-apiworld.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -1121,6 +1145,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -1128,14 +1153,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "logindevnetwork.com",
+      "domain": "loginapiworld.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -1166,6 +1191,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -1173,14 +1199,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "mail-devnetwork.com",
+      "domain": "mail-apiworld.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -1211,6 +1237,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -1218,14 +1245,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "maildevnetwork.com",
+      "domain": "mailapiworld.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -1256,6 +1283,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -1263,14 +1291,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "pay-devnetwork.com",
+      "domain": "pay-apiworld.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -1301,6 +1329,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -1308,14 +1337,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "paydevnetwork.com",
+      "domain": "payapiworld.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -1346,6 +1375,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -1353,14 +1383,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "secure-devnetwork.com",
+      "domain": "secure-apiworld.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -1391,6 +1421,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -1398,14 +1429,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "securedevnetwork.com",
+      "domain": "secureapiworld.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -1436,6 +1467,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -1443,14 +1475,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "support-devnetwork.com",
+      "domain": "support-apiworld.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -1481,6 +1513,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -1488,14 +1521,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "supportdevnetwork.com",
+      "domain": "supportapiworld.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -1526,6 +1559,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -1533,14 +1567,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "verify-devnetwork.com",
+      "domain": "verify-apiworld.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -1571,6 +1605,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -1578,14 +1613,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "verifydevnetwork.com",
+      "domain": "verifyapiworld.co",
       "cls": "combosquat",
       "prior": 0.85,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -1616,6 +1651,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
@@ -1623,14 +1659,14 @@
       "reason": "A combosquat variant of your domain, available to register today."
     },
     {
-      "domain": "clevnetwork.com",
-      "cls": "homoglyph",
-      "prior": 0.9,
+      "domain": "apiorld.co",
+      "cls": "omission",
+      "prior": 0.8,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -1661,6 +1697,53 @@
         "confusable": 2,
         "recent": 0,
         "parked": 0,
+        "established": 0,
+        "total": 2
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An omission variant of your domain, available to register today."
+    },
+    {
+      "domain": "apivvorld.co",
+      "cls": "homoglyph",
+      "prior": 0.9,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 2,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
         "total": 2
       },
       "band": "free",
@@ -1668,104 +1751,14 @@
       "reason": "A homoglyph variant of your domain, available to register today."
     },
     {
-      "domain": "devetwork.com",
-      "cls": "omission",
-      "prior": 0.8,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 2,
-        "recent": 0,
-        "parked": 0,
-        "total": 2
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "An omission variant of your domain, available to register today."
-    },
-    {
-      "domain": "devnetork.com",
-      "cls": "omission",
-      "prior": 0.8,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 2,
-        "recent": 0,
-        "parked": 0,
-        "total": 2
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "An omission variant of your domain, available to register today."
-    },
-    {
-      "domain": "devnetvvork.com",
+      "domain": "apiw0rld.co",
       "cls": "homoglyph",
       "prior": 0.9,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -1796,6 +1789,7 @@
         "confusable": 2,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 2
       },
       "band": "free",
@@ -1803,14 +1797,14 @@
       "reason": "A homoglyph variant of your domain, available to register today."
     },
     {
-      "domain": "devnetw0rk.com",
-      "cls": "homoglyph",
-      "prior": 0.9,
+      "domain": "apiwold.co",
+      "cls": "omission",
+      "prior": 0.8,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -1841,6 +1835,53 @@
         "confusable": 2,
         "recent": 0,
         "parked": 0,
+        "established": 0,
+        "total": 2
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An omission variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiwor1d.co",
+      "cls": "homoglyph",
+      "prior": 0.9,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 2,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
         "total": 2
       },
       "band": "free",
@@ -1848,14 +1889,14 @@
       "reason": "A homoglyph variant of your domain, available to register today."
     },
     {
-      "domain": "devnetwok.com",
+      "domain": "apiword.co",
       "cls": "omission",
       "prior": 0.8,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -1886,6 +1927,7 @@
         "confusable": 2,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 2
       },
       "band": "free",
@@ -1893,14 +1935,14 @@
       "reason": "An omission variant of your domain, available to register today."
     },
     {
-      "domain": "devnetwor.com",
+      "domain": "apiworl.co",
       "cls": "omission",
       "prior": 0.8,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -1931,6 +1973,7 @@
         "confusable": 2,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 2
       },
       "band": "free",
@@ -1938,14 +1981,14 @@
       "reason": "An omission variant of your domain, available to register today."
     },
     {
-      "domain": "devnetwrk.com",
-      "cls": "omission",
-      "prior": 0.8,
+      "domain": "apiworlcl.co",
+      "cls": "homoglyph",
+      "prior": 0.9,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -1976,21 +2019,22 @@
         "confusable": 2,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 2
       },
       "band": "free",
       "land_line": null,
-      "reason": "An omission variant of your domain, available to register today."
+      "reason": "A homoglyph variant of your domain, available to register today."
     },
     {
-      "domain": "devnework.com",
+      "domain": "apiwrld.co",
       "cls": "omission",
       "prior": 0.8,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -2021,6 +2065,7 @@
         "confusable": 2,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 2
       },
       "band": "free",
@@ -2028,14 +2073,14 @@
       "reason": "An omission variant of your domain, available to register today."
     },
     {
-      "domain": "devntwork.com",
+      "domain": "apworld.co",
       "cls": "omission",
       "prior": 0.8,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -2066,6 +2111,7 @@
         "confusable": 2,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 2
       },
       "band": "free",
@@ -2073,644 +2119,14 @@
       "reason": "An omission variant of your domain, available to register today."
     },
     {
-      "domain": "cdevnetwork.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "An insertion variant of your domain, available to register today."
-    },
-    {
-      "domain": "cevnetwork.com",
-      "cls": "replacement",
-      "prior": 0.7,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "A replacement variant of your domain, available to register today."
-    },
-    {
-      "domain": "dcevnetwork.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "An insertion variant of your domain, available to register today."
-    },
-    {
-      "domain": "ddevnetwork.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "An insertion variant of your domain, available to register today."
-    },
-    {
-      "domain": "ddvnetwork.com",
-      "cls": "replacement",
-      "prior": 0.7,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "A replacement variant of your domain, available to register today."
-    },
-    {
-      "domain": "debvnetwork.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "An insertion variant of your domain, available to register today."
-    },
-    {
-      "domain": "decnetwork.com",
-      "cls": "replacement",
-      "prior": 0.7,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 4249.25,
-        "premium": true
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "A replacement variant of your domain, available to register today."
-    },
-    {
-      "domain": "decvnetwork.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "An insertion variant of your domain, available to register today."
-    },
-    {
-      "domain": "dedvnetwork.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "An insertion variant of your domain, available to register today."
-    },
-    {
-      "domain": "deevnetwork.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "An insertion variant of your domain, available to register today."
-    },
-    {
-      "domain": "defnetwork.com",
-      "cls": "replacement",
-      "prior": 0.7,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 22994.25,
-        "premium": true
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "A replacement variant of your domain, available to register today."
-    },
-    {
-      "domain": "defvnetwork.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "An insertion variant of your domain, available to register today."
-    },
-    {
-      "domain": "degnetwork.com",
-      "cls": "replacement",
-      "prior": 0.7,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "A replacement variant of your domain, available to register today."
-    },
-    {
-      "domain": "degvnetwork.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "An insertion variant of your domain, available to register today."
-    },
-    {
-      "domain": "denvetwork.com",
+      "domain": "aipworld.co",
       "cls": "transposition",
       "prior": 0.8,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -2741,6 +2157,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -2748,104 +2165,14 @@
       "reason": "A transposition variant of your domain, available to register today."
     },
     {
-      "domain": "dervnetwork.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "An insertion variant of your domain, available to register today."
-    },
-    {
-      "domain": "desvnetwork.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "An insertion variant of your domain, available to register today."
-    },
-    {
-      "domain": "devbetwork.com",
+      "domain": "aliworld.co",
       "cls": "replacement",
       "prior": 0.7,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -2876,6 +2203,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -2883,14 +2211,14 @@
       "reason": "A replacement variant of your domain, available to register today."
     },
     {
-      "domain": "devbnetwork.com",
+      "domain": "alpiworld.co",
       "cls": "insertion",
       "prior": 0.6,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -2921,6 +2249,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -2928,14 +2257,14 @@
       "reason": "An insertion variant of your domain, available to register today."
     },
     {
-      "domain": "devcnetwork.com",
-      "cls": "insertion",
-      "prior": 0.6,
+      "domain": "aoiworld.co",
+      "cls": "replacement",
+      "prior": 0.7,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -2966,6 +2295,53 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, available to register today."
+    },
+    {
+      "domain": "aopiworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -2973,14 +2349,336 @@
       "reason": "An insertion variant of your domain, available to register today."
     },
     {
-      "domain": "deventwork.com",
+      "domain": "apiaorld.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiaworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apieorld.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, available to register today."
+    },
+    {
+      "domain": "apieworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apijworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apikworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apioworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiowrld.co",
       "cls": "transposition",
       "prior": 0.8,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -3011,6 +2709,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -3018,104 +2717,14 @@
       "reason": "A transposition variant of your domain, available to register today."
     },
     {
-      "domain": "devfnetwork.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "An insertion variant of your domain, available to register today."
-    },
-    {
-      "domain": "devgnetwork.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "An insertion variant of your domain, available to register today."
-    },
-    {
-      "domain": "devhetwork.com",
+      "domain": "apiqorld.co",
       "cls": "replacement",
       "prior": 0.7,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -3146,6 +2755,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -3153,14 +2763,14 @@
       "reason": "A replacement variant of your domain, available to register today."
     },
     {
-      "domain": "devhnetwork.com",
+      "domain": "apiqworld.co",
       "cls": "insertion",
       "prior": 0.6,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -3191,6 +2801,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -3198,14 +2809,14 @@
       "reason": "An insertion variant of your domain, available to register today."
     },
     {
-      "domain": "devjetwork.com",
+      "domain": "apisorld.co",
       "cls": "replacement",
       "prior": 0.7,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -3236,6 +2847,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -3243,14 +2855,14 @@
       "reason": "A replacement variant of your domain, available to register today."
     },
     {
-      "domain": "devjnetwork.com",
+      "domain": "apisworld.co",
       "cls": "insertion",
       "prior": 0.6,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -3281,6 +2893,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -3288,14 +2901,14 @@
       "reason": "An insertion variant of your domain, available to register today."
     },
     {
-      "domain": "devmetwork.com",
-      "cls": "replacement",
-      "prior": 0.7,
+      "domain": "apiuworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -3326,6 +2939,191 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiwaorld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiweorld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiwiorld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiwirld.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -3333,14 +3131,14 @@
       "reason": "A replacement variant of your domain, available to register today."
     },
     {
-      "domain": "devmnetwork.com",
+      "domain": "apiwkorld.co",
       "cls": "insertion",
       "prior": 0.6,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -3371,6 +3169,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -3378,104 +3177,14 @@
       "reason": "An insertion variant of your domain, available to register today."
     },
     {
-      "domain": "devnbetwork.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "An insertion variant of your domain, available to register today."
-    },
-    {
-      "domain": "devndetwork.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "An insertion variant of your domain, available to register today."
-    },
-    {
-      "domain": "devndtwork.com",
+      "domain": "apiwkrld.co",
       "cls": "replacement",
       "prior": 0.7,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -3506,6 +3215,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -3513,14 +3223,14 @@
       "reason": "A replacement variant of your domain, available to register today."
     },
     {
-      "domain": "devnedtwork.com",
+      "domain": "apiwlorld.co",
       "cls": "insertion",
       "prior": 0.6,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -3551,6 +3261,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -3558,59 +3269,14 @@
       "reason": "An insertion variant of your domain, available to register today."
     },
     {
-      "domain": "devneftwork.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "An insertion variant of your domain, available to register today."
-    },
-    {
-      "domain": "devnefwork.com",
+      "domain": "apiwlrld.co",
       "cls": "replacement",
       "prior": 0.7,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -3641,6 +3307,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -3648,59 +3315,14 @@
       "reason": "A replacement variant of your domain, available to register today."
     },
     {
-      "domain": "devnegtwork.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "An insertion variant of your domain, available to register today."
-    },
-    {
-      "domain": "devnegwork.com",
+      "domain": "apiwodld.co",
       "cls": "replacement",
       "prior": 0.7,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -3731,6 +3353,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -3738,14 +3361,14 @@
       "reason": "A replacement variant of your domain, available to register today."
     },
     {
-      "domain": "devnertwork.com",
+      "domain": "apiwodrld.co",
       "cls": "insertion",
       "prior": 0.6,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -3776,6 +3399,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -3783,14 +3407,14 @@
       "reason": "An insertion variant of your domain, available to register today."
     },
     {
-      "domain": "devnerwork.com",
+      "domain": "apiwoeld.co",
       "cls": "replacement",
       "prior": 0.7,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -3821,6 +3445,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -3828,14 +3453,14 @@
       "reason": "A replacement variant of your domain, available to register today."
     },
     {
-      "domain": "devnestwork.com",
+      "domain": "apiwoerld.co",
       "cls": "insertion",
       "prior": 0.6,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -3866,6 +3491,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -3873,14 +3499,14 @@
       "reason": "An insertion variant of your domain, available to register today."
     },
     {
-      "domain": "devnetaork.com",
+      "domain": "apiwofld.co",
       "cls": "replacement",
       "prior": 0.7,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -3911,6 +3537,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -3918,14 +3545,14 @@
       "reason": "A replacement variant of your domain, available to register today."
     },
     {
-      "domain": "devnetawork.com",
+      "domain": "apiwofrld.co",
       "cls": "insertion",
       "prior": 0.6,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -3956,6 +3583,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -3963,59 +3591,14 @@
       "reason": "An insertion variant of your domain, available to register today."
     },
     {
-      "domain": "devneteork.com",
-      "cls": "replacement",
-      "prior": 0.7,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "A replacement variant of your domain, available to register today."
-    },
-    {
-      "domain": "devnetework.com",
+      "domain": "apiwoirld.co",
       "cls": "insertion",
       "prior": 0.6,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -4046,6 +3629,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -4053,14 +3637,14 @@
       "reason": "An insertion variant of your domain, available to register today."
     },
     {
-      "domain": "devnetfwork.com",
+      "domain": "apiwokrld.co",
       "cls": "insertion",
       "prior": 0.6,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -4091,6 +3675,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -4098,59 +3683,14 @@
       "reason": "An insertion variant of your domain, available to register today."
     },
     {
-      "domain": "devnetgwork.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "An insertion variant of your domain, available to register today."
-    },
-    {
-      "domain": "devnetowrk.com",
+      "domain": "apiwolrd.co",
       "cls": "transposition",
       "prior": 0.8,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -4181,6 +3721,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -4188,59 +3729,14 @@
       "reason": "A transposition variant of your domain, available to register today."
     },
     {
-      "domain": "devnetqork.com",
-      "cls": "replacement",
-      "prior": 0.7,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "A replacement variant of your domain, available to register today."
-    },
-    {
-      "domain": "devnetqwork.com",
+      "domain": "apiwolrld.co",
       "cls": "insertion",
       "prior": 0.6,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -4271,6 +3767,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -4278,14 +3775,14 @@
       "reason": "An insertion variant of your domain, available to register today."
     },
     {
-      "domain": "devnetrwork.com",
+      "domain": "apiwoprld.co",
       "cls": "insertion",
       "prior": 0.6,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -4316,6 +3813,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -4323,779 +3821,14 @@
       "reason": "An insertion variant of your domain, available to register today."
     },
     {
-      "domain": "devnetsork.com",
-      "cls": "replacement",
-      "prior": 0.7,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "A replacement variant of your domain, available to register today."
-    },
-    {
-      "domain": "devnetswork.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "An insertion variant of your domain, available to register today."
-    },
-    {
-      "domain": "devnetwaork.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "An insertion variant of your domain, available to register today."
-    },
-    {
-      "domain": "devnetweork.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "An insertion variant of your domain, available to register today."
-    },
-    {
-      "domain": "devnetwiork.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "An insertion variant of your domain, available to register today."
-    },
-    {
-      "domain": "devnetwirk.com",
-      "cls": "replacement",
-      "prior": 0.7,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "A replacement variant of your domain, available to register today."
-    },
-    {
-      "domain": "devnetwkork.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "An insertion variant of your domain, available to register today."
-    },
-    {
-      "domain": "devnetwkrk.com",
-      "cls": "replacement",
-      "prior": 0.7,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "A replacement variant of your domain, available to register today."
-    },
-    {
-      "domain": "devnetwlork.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "An insertion variant of your domain, available to register today."
-    },
-    {
-      "domain": "devnetwlrk.com",
-      "cls": "replacement",
-      "prior": 0.7,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "A replacement variant of your domain, available to register today."
-    },
-    {
-      "domain": "devnetwodk.com",
-      "cls": "replacement",
-      "prior": 0.7,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "A replacement variant of your domain, available to register today."
-    },
-    {
-      "domain": "devnetwodrk.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "An insertion variant of your domain, available to register today."
-    },
-    {
-      "domain": "devnetwoek.com",
-      "cls": "replacement",
-      "prior": 0.7,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "A replacement variant of your domain, available to register today."
-    },
-    {
-      "domain": "devnetwoerk.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "An insertion variant of your domain, available to register today."
-    },
-    {
-      "domain": "devnetwofk.com",
-      "cls": "replacement",
-      "prior": 0.7,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "A replacement variant of your domain, available to register today."
-    },
-    {
-      "domain": "devnetwofrk.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "An insertion variant of your domain, available to register today."
-    },
-    {
-      "domain": "devnetwoirk.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "An insertion variant of your domain, available to register today."
-    },
-    {
-      "domain": "devnetwokr.com",
+      "domain": "apiwordl.co",
       "cls": "transposition",
       "prior": 0.8,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -5126,6 +3859,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -5133,14 +3867,14 @@
       "reason": "A transposition variant of your domain, available to register today."
     },
     {
-      "domain": "devnetwori.com",
-      "cls": "replacement",
-      "prior": 0.7,
+      "domain": "apiwordld.co",
+      "cls": "insertion",
+      "prior": 0.6,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -5171,21 +3905,22 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "A replacement variant of your domain, available to register today."
+      "reason": "An insertion variant of your domain, available to register today."
     },
     {
-      "domain": "devnetworj.com",
-      "cls": "replacement",
-      "prior": 0.7,
+      "domain": "apiworeld.co",
+      "cls": "insertion",
+      "prior": 0.6,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -5216,6 +3951,99 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiworfld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiworkd.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -5223,7 +4051,145 @@
       "reason": "A replacement variant of your domain, available to register today."
     },
     {
-      "domain": "devnetwork.agency",
+      "domain": "apiworkld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiworlc.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiworlcd.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiworld.agency",
       "cls": "tld-swap",
       "prior": 0.65,
       "registered": false,
@@ -5261,6 +4227,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -5268,104 +4235,60 @@
       "reason": "A tld-swap variant of your domain, available to register today."
     },
     {
-      "domain": "devnetwork.app",
-      "cls": "tld-swap",
-      "prior": 0.65,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": "https://rdap.verisign.com/com/v1/domain/devnetwork.app"
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "A tld-swap variant of your domain, available to register today."
-    },
-    {
-      "domain": "devnetwork.co",
-      "cls": "tld-swap",
-      "prior": 0.65,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": "https://rdap.verisign.com/com/v1/domain/devnetwork.co"
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "A tld-swap variant of your domain, available to register today."
-    },
-    {
-      "domain": "devnetwork.io",
+      "domain": "apiworld.app",
       "cls": "tld-swap",
       "prior": 0.65,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 10675.45,
+        "price": 14.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A tld-swap variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiworld.net",
+      "cls": "tld-swap",
+      "prior": 0.65,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 7929.25,
         "premium": true
       },
       "rdap": {
@@ -5396,6 +4319,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -5403,97 +4327,7 @@
       "reason": "A tld-swap variant of your domain, available to register today."
     },
     {
-      "domain": "devnetwork.net",
-      "cls": "tld-swap",
-      "prior": 0.65,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": "https://rdap.verisign.com/com/v1/domain/devnetwork.net"
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "A tld-swap variant of your domain, available to register today."
-    },
-    {
-      "domain": "devnetwork.org",
-      "cls": "tld-swap",
-      "prior": 0.65,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": "https://rdap.verisign.com/com/v1/domain/devnetwork.org"
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "A tld-swap variant of your domain, available to register today."
-    },
-    {
-      "domain": "devnetwork.solutions",
+      "domain": "apiworld.solutions",
       "cls": "tld-swap",
       "prior": 0.65,
       "registered": false,
@@ -5531,6 +4365,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -5538,7 +4373,7 @@
       "reason": "A tld-swap variant of your domain, available to register today."
     },
     {
-      "domain": "devnetwork.watch",
+      "domain": "apiworld.watch",
       "cls": "tld-swap",
       "prior": 0.65,
       "registered": false,
@@ -5576,6 +4411,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -5583,14 +4419,14 @@
       "reason": "A tld-swap variant of your domain, available to register today."
     },
     {
-      "domain": "devnetworl.com",
-      "cls": "replacement",
-      "prior": 0.7,
+      "domain": "apiworldc.co",
+      "cls": "insertion",
+      "prior": 0.6,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -5621,21 +4457,22 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "A replacement variant of your domain, available to register today."
+      "reason": "An insertion variant of your domain, available to register today."
     },
     {
-      "domain": "devnetworm.com",
-      "cls": "replacement",
-      "prior": 0.7,
+      "domain": "apiworlde.co",
+      "cls": "insertion",
+      "prior": 0.6,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -5666,21 +4503,22 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "A replacement variant of your domain, available to register today."
+      "reason": "An insertion variant of your domain, available to register today."
     },
     {
-      "domain": "devnetworo.com",
-      "cls": "replacement",
-      "prior": 0.7,
+      "domain": "apiworldf.co",
+      "cls": "insertion",
+      "prior": 0.6,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -5711,21 +4549,22 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "A replacement variant of your domain, available to register today."
+      "reason": "An insertion variant of your domain, available to register today."
     },
     {
-      "domain": "devnetwotk.com",
-      "cls": "replacement",
-      "prior": 0.7,
+      "domain": "apiworldr.co",
+      "cls": "insertion",
+      "prior": 0.6,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -5756,21 +4595,22 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "A replacement variant of your domain, available to register today."
+      "reason": "An insertion variant of your domain, available to register today."
     },
     {
-      "domain": "devnetwprk.com",
-      "cls": "replacement",
-      "prior": 0.7,
+      "domain": "apiworlds.co",
+      "cls": "insertion",
+      "prior": 0.6,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -5801,6 +4641,99 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiworldx.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiworle.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -5808,14 +4741,1026 @@
       "reason": "A replacement variant of your domain, available to register today."
     },
     {
-      "domain": "devnetwrok.com",
+      "domain": "apiworled.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiworlf.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiworlfd.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiworlkd.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiworlod.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiworlpd.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiworlr.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiworlrd.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiworls.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiworlsd.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiworlx.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiworlxd.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiworod.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiworold.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiworpd.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiworpld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiwortld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiwotld.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiwotrld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiwporld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiwprld.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiwqorld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apiwrold.co",
       "cls": "transposition",
       "prior": 0.8,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -5846,6 +5791,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -5853,14 +5799,14 @@
       "reason": "A transposition variant of your domain, available to register today."
     },
     {
-      "domain": "devnewtork.com",
-      "cls": "transposition",
-      "prior": 0.8,
+      "domain": "apiwsorld.co",
+      "cls": "insertion",
+      "prior": 0.6,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -5891,6 +5837,467 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apjiworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apjworld.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, available to register today."
+    },
+    {
+      "domain": "apkiworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apkworld.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, available to register today."
+    },
+    {
+      "domain": "apliworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apoiworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apoworld.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, available to register today."
+    },
+    {
+      "domain": "apuiworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "apuworld.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, available to register today."
+    },
+    {
+      "domain": "apwiorld.co",
+      "cls": "transposition",
+      "prior": 0.8,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -5898,14 +6305,14 @@
       "reason": "A transposition variant of your domain, available to register today."
     },
     {
-      "domain": "devneywork.com",
-      "cls": "replacement",
-      "prior": 0.7,
+      "domain": "aqpiworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -5936,21 +6343,22 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "A replacement variant of your domain, available to register today."
+      "reason": "An insertion variant of your domain, available to register today."
     },
     {
-      "domain": "devnrtwork.com",
-      "cls": "replacement",
-      "prior": 0.7,
+      "domain": "aspiworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -5981,21 +6389,22 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "A replacement variant of your domain, available to register today."
+      "reason": "An insertion variant of your domain, available to register today."
     },
     {
-      "domain": "devnstwork.com",
-      "cls": "replacement",
-      "prior": 0.7,
+      "domain": "awpiworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -6026,21 +6435,68 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "A replacement variant of your domain, available to register today."
+      "reason": "An insertion variant of your domain, available to register today."
     },
     {
-      "domain": "devntework.com",
+      "domain": "azpiworld.co",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "paiworld.co",
       "cls": "transposition",
       "prior": 0.8,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -6071,6 +6527,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -6078,14 +6535,14 @@
       "reason": "A transposition variant of your domain, available to register today."
     },
     {
-      "domain": "devnwtwork.com",
+      "domain": "qpiworld.co",
       "cls": "replacement",
       "prior": 0.7,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -6116,6 +6573,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -6123,14 +6581,14 @@
       "reason": "A replacement variant of your domain, available to register today."
     },
     {
-      "domain": "dsvnetwork.com",
+      "domain": "spiworld.co",
       "cls": "replacement",
       "prior": 0.7,
       "registered": false,
       "authoritative": true,
       "availability": {
         "purchasable": true,
-        "price": 12.99,
+        "price": 29.99,
         "premium": null
       },
       "rdap": {
@@ -6161,6 +6619,7 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
@@ -6168,305 +6627,177 @@
       "reason": "A replacement variant of your domain, available to register today."
     },
     {
-      "domain": "dvenetwork.com",
-      "cls": "transposition",
+      "domain": "wpiworld.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, available to register today."
+    },
+    {
+      "domain": "zpiworld.co",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 29.99,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A replacement variant of your domain, available to register today."
+    },
+    {
+      "domain": "aiworld.co",
+      "cls": "omission",
       "prior": 0.8,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "A transposition variant of your domain, available to register today."
-    },
-    {
-      "domain": "dwvnetwork.com",
-      "cls": "replacement",
-      "prior": 0.7,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "A replacement variant of your domain, available to register today."
-    },
-    {
-      "domain": "edvnetwork.com",
-      "cls": "transposition",
-      "prior": 0.8,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 224.25,
-        "premium": true
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "A transposition variant of your domain, available to register today."
-    },
-    {
-      "domain": "eevnetwork.com",
-      "cls": "replacement",
-      "prior": 0.7,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "A replacement variant of your domain, available to register today."
-    },
-    {
-      "domain": "fevnetwork.com",
-      "cls": "replacement",
-      "prior": 0.7,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "A replacement variant of your domain, available to register today."
-    },
-    {
-      "domain": "xevnetwork.com",
-      "cls": "replacement",
-      "prior": 0.7,
-      "registered": false,
-      "authoritative": true,
-      "availability": {
-        "purchasable": true,
-        "price": 12.99,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": null,
-        "nameservers": [],
-        "created": null,
-        "abuse_email": null,
-        "source": null
-      },
-      "probe": {
-        "a": [],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": null,
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "free",
-      "land_line": null,
-      "reason": "A replacement variant of your domain, available to register today."
-    },
-    {
-      "domain": "drvnetwork.com",
-      "cls": "replacement",
-      "prior": 0.7,
       "registered": true,
-      "authoritative": true,
+      "authoritative": false,
       "availability": {
         "purchasable": false,
         "price": null,
         "premium": null
       },
       "rdap": {
-        "registrar": "NameCheap, Inc.",
-        "nameservers": [
-          "dns1.registrar-servers.com",
-          "dns2.registrar-servers.com"
-        ],
-        "created": "2026-07-14T18:30:15Z",
-        "abuse_email": "abuse@namecheap.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/drvnetwork.com"
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
       },
       "probe": {
-        "a": [],
+        "a": [
+          "203.49.163.100"
+        ],
         "mx": [
-          "mx1.privateemail.com",
-          "mx2.privateemail.com"
+          "aiworld-co.mail.protection.outlook.com"
         ],
         "chain": [],
         "final_host": null,
-        "kind": "mail-only",
+        "kind": "unknown",
+        "title": null
+      },
+      "search": {
+        "checked": true,
+        "appears": true,
+        "first_title": "Aluminium Industries",
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 3,
+        "search": 2,
+        "confusable": 2,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 7
+      },
+      "band": "strangers",
+      "land_line": "Could not determine where this points.",
+      "reason": "This domain has mail servers configured and shows up in Google search results, with no creation date on record and the site is not parked."
+    },
+    {
+      "domain": "apiworld.io",
+      "cls": "tld-swap",
+      "prior": 0.65,
+      "registered": true,
+      "authoritative": false,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [
+          "37.187.86.201"
+        ],
+        "mx": [
+          "smtp.apiworld.io",
+          "mx01.mail.icloud.com",
+          "mx02.mail.icloud.com"
+        ],
+        "chain": [],
+        "final_host": null,
+        "kind": "unknown",
         "title": null
       },
       "search": {
@@ -6480,90 +6811,32 @@
         "mx": 3,
         "search": 0,
         "confusable": 0,
-        "recent": 1,
+        "recent": 0,
         "parked": 0,
-        "total": 4
+        "established": 0,
+        "total": 3
       },
       "band": "strangers",
-      "land_line": "Can receive your customers' email. No website.",
-      "reason": "This was registered recently, has mail servers set up, and doesn't show up in search, which is why it lands in the strangers group with a low score."
+      "land_line": "Could not determine where this points.",
+      "reason": "This domain has mail servers configured but does not appear in Google search results, has no creation date on record, and is not parked."
     },
     {
-      "domain": "evnetwork.com",
+      "domain": "piworld.co",
       "cls": "omission",
       "prior": 0.8,
       "registered": true,
-      "authoritative": true,
+      "authoritative": false,
       "availability": {
         "purchasable": false,
         "price": null,
         "premium": null
       },
       "rdap": {
-        "registrar": "GoDaddy.com, LLC",
-        "nameservers": [
-          "ns1.domain-is-4-sale-at-domainmarket.com",
-          "ns2.domainmarket.com"
-        ],
-        "created": "2003-10-24T18:06:03Z",
-        "abuse_email": "abuse@godaddy.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/evnetwork.com"
-      },
-      "probe": {
-        "a": [
-          "44.195.229.203",
-          "52.200.66.12"
-        ],
-        "mx": [],
-        "chain": [
-          "http://evnetwork.com/",
-          "https://evnetwork.com"
-        ],
-        "final_host": "evnetwork.com",
-        "kind": "parked",
-        "title": null
-      },
-      "search": {
-        "checked": true,
-        "appears": false,
-        "first_title": null,
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 2,
-        "recent": 0,
-        "parked": -1,
-        "total": 1
-      },
-      "band": "strangers",
-      "land_line": "Parked for sale.",
-      "reason": "This one has no mail servers configured, is parked, and doesn't appear in search, which is why it gets the lowest score among these."
-    },
-    {
-      "domain": "debnetwork.com",
-      "cls": "replacement",
-      "prior": 0.7,
-      "registered": true,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": "Squarespace Domains II LLC",
-        "nameservers": [
-          "ns-cloud-d1.googledomains.com",
-          "ns-cloud-d2.googledomains.com",
-          "ns-cloud-d3.googledomains.com",
-          "ns-cloud-d4.googledomains.com"
-        ],
-        "created": "2022-01-13T09:24:14Z",
-        "abuse_email": "abuse-complaints@squarespace.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/debnetwork.com"
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
       },
       "probe": {
         "a": [],
@@ -6583,257 +6856,81 @@
         "keyword": 0,
         "mx": 0,
         "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "strangers",
-      "land_line": "Nothing answers.",
-      "reason": "This domain has no mail server set up and doesn't show up in Google search, so it looks like an unrelated stranger domain with no active presence."
-    },
-    {
-      "domain": "denetwork.com",
-      "cls": "omission",
-      "prior": 0.8,
-      "registered": true,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": "Alpine Domains Inc.",
-        "nameservers": [
-          "ns1.power-dns.com",
-          "ns2.power-dns.com",
-          "ns3.power-dns.com"
-        ],
-        "created": "2010-10-07T18:53:39Z",
-        "abuse_email": "domainadmin@alpinedomains.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/denetwork.com"
-      },
-      "probe": {
-        "a": [
-          "16.54.82.202",
-          "15.156.220.22"
-        ],
-        "mx": [
-          "mx1.ewebdevelopment.com",
-          "mx2.ewebdevelopment.com"
-        ],
-        "chain": [
-          "http://denetwork.com/"
-        ],
-        "final_host": "denetwork.com",
-        "kind": "live-other",
-        "title": "Denetwork.com -\n        Ready for Development"
-      },
-      "search": {
-        "checked": true,
-        "appears": true,
-        "first_title": "Denetwork.com - Ready for Development",
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 3,
-        "search": 2,
         "confusable": 2,
         "recent": 0,
         "parked": 0,
-        "total": 4
-      },
-      "band": "strangers",
-      "land_line": "Established site since 2010, probably unrelated to you.",
-      "reason": "It's an old domain with mail servers active and it does appear in search, but it still falls into the strangers group with a low score."
-    },
-    {
-      "domain": "dvnetwork.com",
-      "cls": "omission",
-      "prior": 0.8,
-      "registered": true,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": "TurnCommerce, Inc. DBA NameBright.com",
-        "nameservers": [
-          "aspen.ns.cloudflare.com",
-          "gordon.ns.cloudflare.com"
-        ],
-        "created": "1998-09-12T04:00:00Z",
-        "abuse_email": "support@namebright.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/dvnetwork.com"
-      },
-      "probe": {
-        "a": [
-          "172.67.166.51",
-          "104.21.82.244"
-        ],
-        "mx": [
-          "route2.mx.cloudflare.net",
-          "route1.mx.cloudflare.net",
-          "route3.mx.cloudflare.net"
-        ],
-        "chain": [
-          "http://dvnetwork.com/"
-        ],
-        "final_host": "dvnetwork.com",
-        "kind": "live-other",
-        "title": "Dvnetwork.com — Purpose-built. Network-backed. | An eCorp Venture"
-      },
-      "search": {
-        "checked": true,
-        "appears": true,
-        "first_title": "Dvnetwork.com — Purpose-built. Network-backed. | An eCorp ...",
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 3,
-        "search": 2,
-        "confusable": 2,
-        "recent": 0,
-        "parked": 0,
-        "total": 4
-      },
-      "band": "strangers",
-      "land_line": "Established site since 1998, probably unrelated to you.",
-      "reason": "This is a very old domain with mail servers configured and it shows up in search, yet it's still scored low as a stranger."
-    },
-    {
-      "domain": "sevnetwork.com",
-      "cls": "replacement",
-      "prior": 0.7,
-      "registered": true,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": "Gname.com Pte. Ltd.",
-        "nameservers": [
-          "dns1.namecheaphosting.com",
-          "dns2.namecheaphosting.com"
-        ],
-        "created": "2015-07-26T14:58:39Z",
-        "abuse_email": "complaint@gname.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/sevnetwork.com"
-      },
-      "probe": {
-        "a": [
-          "198.54.115.129"
-        ],
-        "mx": [
-          "mx1-hosting.jellyfish.systems",
-          "mx2-hosting.jellyfish.systems",
-          "mx3-hosting.jellyfish.systems"
-        ],
-        "chain": [
-          "http://sevnetwork.com/",
-          "https://sevnetwork.com/",
-          "https://olderamericansmonth.com/",
-          "https://jutodyson.com/"
-        ],
-        "final_host": "jutodyson.com",
-        "kind": "live-other",
-        "title": "JUALTOTO: Link Resmi Situs Bandar Toto Macau Dengan Pasaran Terlengkap Saat Ini"
-      },
-      "search": {
-        "checked": true,
-        "appears": true,
-        "first_title": "JUALTOTO: Link Resmi Situs Bandar Toto Macau Dengan ...",
-        "reason": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 3,
-        "search": 2,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
+        "established": 0,
         "total": 2
       },
       "band": "strangers",
-      "land_line": "Established site since 2015, probably unrelated to you.",
-      "reason": "It has mail servers set up and appears in search, but it's a fairly recent registration, so it scores even lower and sits in the strangers group."
+      "land_line": "Nothing answers.",
+      "reason": "This domain has no mail servers configured, does not appear in Google search results, has no creation date on record, and is not parked."
     },
     {
-      "domain": "revnetwork.com",
-      "cls": "replacement",
-      "prior": 0.7,
+      "domain": "apiworld.org",
+      "cls": "tld-swap",
+      "prior": 0.65,
       "registered": true,
-      "authoritative": true,
+      "authoritative": false,
       "availability": {
         "purchasable": false,
         "price": null,
         "premium": null
       },
       "rdap": {
-        "registrar": "TurnCommerce, Inc. DBA NameBright.com",
-        "nameservers": [
-          "dexter.ns.cloudflare.com",
-          "grannbo.ns.cloudflare.com"
-        ],
-        "created": "2005-04-30T18:36:18Z",
-        "abuse_email": "support@namebright.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/revnetwork.com"
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
       },
       "probe": {
         "a": [
-          "104.21.92.57",
-          "172.67.187.18"
+          "208.91.197.27"
         ],
         "mx": [],
         "chain": [
-          "http://revnetwork.com/",
-          "https://revnetwork.com/"
+          "http://apiworld.org/"
         ],
-        "final_host": "revnetwork.com",
+        "final_host": "apiworld.org",
         "kind": "live-other",
-        "title": "REV Network — RevNetwork.com | REVNetwork.com"
+        "title": null
       },
       "search": {
         "checked": true,
-        "appears": true,
-        "first_title": "REV Network — RevNetwork.com | REVNetwork.com",
+        "appears": false,
+        "first_title": null,
         "reason": null
       },
       "score": {
         "keyword": 0,
         "mx": 0,
-        "search": 2,
+        "search": 0,
         "confusable": 0,
         "recent": 0,
         "parked": 0,
-        "total": -1
+        "established": 0,
+        "total": 0
       },
       "band": "strangers",
-      "land_line": "Established site since 2005, probably unrelated to you.",
-      "reason": "This one has no mail server configured either, but it does appear in Google search, and being registered back in 2005 it's still ranked as an unrelated stranger domain, actually scoring slightly lower than the other."
+      "land_line": "Live site, no title captured.",
+      "reason": "This domain has no mail servers configured, does not appear in Google search results, has no creation date on record, and is not parked."
     }
   ],
   "footer": {
     "generated": 150,
     "answered": 150,
-    "not_authoritative": 0,
-    "truncated_from": 251
+    "not_authoritative": 4,
+    "truncated_from": 206
   },
   "prices": {
-    "top5_sum": 64.95,
+    "top5_sum": 149.95,
     "top5_domains": [
-      "account-devnetwork.com",
-      "accountdevnetwork.com",
-      "billing-devnetwork.com",
-      "billingdevnetwork.com",
-      "devnetwork-account.com"
+      "account-apiworld.co",
+      "accountapiworld.co",
+      "apiworld-account.co",
+      "apiworld-billing.co",
+      "apiworld-help.co"
     ],
     "top5_priced_count": 5,
     "top5_total_count": 5
@@ -6843,54 +6940,54 @@
   "slowed_down": false,
   "suggestions": [
     {
-      "domain_name": "devnetwork.com",
+      "domain_name": "apiworld.com",
       "purchasable": false,
       "price": null
     },
     {
-      "domain_name": "devnetwork.net",
+      "domain_name": "apiworld.net",
+      "purchasable": true,
+      "price": 7929.25
+    },
+    {
+      "domain_name": "apiworld.org",
       "purchasable": false,
       "price": null
     },
     {
-      "domain_name": "devnetwork.org",
-      "purchasable": false,
-      "price": null
+      "domain_name": "apiworld.earth",
+      "purchasable": true,
+      "price": 22.99
     },
     {
-      "domain_name": "devnetwork.software",
+      "domain_name": "apiworld.software",
       "purchasable": true,
       "price": 29.99
     },
     {
-      "domain_name": "devnetwork.engineer",
+      "domain_name": "apiworld.group",
       "purchasable": true,
-      "price": 17.99
+      "price": 10.99
     },
     {
-      "domain_name": "devnetwork.forum",
+      "domain_name": "apiworld.forum",
       "purchasable": true,
       "price": 1.99
     },
     {
-      "domain_name": "devnetwork.dev",
+      "domain_name": "apiworld.global",
+      "purchasable": true,
+      "price": 59.99
+    },
+    {
+      "domain_name": "apiworld.app",
       "purchasable": true,
       "price": 14.99
     },
     {
-      "domain_name": "devnetwork.engineering",
+      "domain_name": "apiworld.travel",
       "purchasable": true,
-      "price": 11.99
-    },
-    {
-      "domain_name": "devnetwork.computer",
-      "purchasable": true,
-      "price": 33.99
-    },
-    {
-      "domain_name": "devnetwork.technology",
-      "purchasable": true,
-      "price": 17.99
+      "price": 29.99
     }
   ]
 }

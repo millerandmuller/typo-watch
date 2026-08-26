@@ -77,8 +77,8 @@ _BATCH_SCHEMA = {
 }
 
 _SYSTEM_PROMPT = (
-    "You write one short, plain-spoken sentence per domain explaining why it "
-    "ranks as it does, for a small-shop IT admin, not a security researcher. "
+    "You write one short, plain-spoken sentence per domain stating the "
+    "facts about it, for a small-shop IT admin, not a security researcher. "
     "Use only the facts given for that domain — never invent a fact, a "
     "percentage, or an attacker's intent. No exclamation marks. No words like "
     "'threat actor' or 'attack surface'. Second person is fine ('your "
@@ -86,7 +86,12 @@ _SYSTEM_PROMPT = (
     "The 'google_search' fact is one of three states: 'appears', 'does not "
     "appear', or 'not checked'. If it is 'not checked', say plainly that "
     "search could not be checked for this domain — never say it does or "
-    "doesn't appear in search, and never explain why it is ranked where it is."
+    "doesn't appear in search. "
+    "State facts only. Never mention the domain's band, group, ranking, or "
+    "score, and never explain or justify why it is ranked, grouped, or "
+    "scored where it is — that decision is made by rules elsewhere, not by "
+    "you, and a sentence that argues for or against the placement is wrong "
+    "even if the facts in it are correct."
 )
 
 
@@ -152,6 +157,90 @@ _SEARCH_MENTION_PATTERNS = tuple(
 def _mentions_search(text: str) -> bool:
     lowered = text.lower()
     return any(pattern.search(lowered) for pattern in _SEARCH_MENTION_PATTERNS)
+
+
+# A3 (project_brief.md Section 9e): three verified sightings of the model
+# appending a rank-explanation clause despite the system prompt's plain
+# instruction not to -- "...which is why it lands in the strangers group
+# with a low score" (frozen hero card), "...but it still falls into the
+# strangers group with a low score" (denetwork.com), "...which puts it in
+# the stranger band with a middling score" (a fresh live scan's top
+# card). The clause is causally wrong (band membership comes from
+# registration, not score) and reads as the tool disputing its own
+# ranking in the exact close-up the Proof beat films.
+#
+# A first version of this guard matched a single trailing clause
+# introduced by a fixed connector word ("which"/"but"/"so"/"and"
+# immediately after the last comma). Re-checked live against the actual
+# stored seed data (not just the three documented sightings) before
+# re-seeding, that version both under- and over-matched: real generated
+# reasons use "category"/"tier"/"scores"/"ranked"/"scored" as often as
+# "band"/"group"/"score", introduce the clause with words the fixed list
+# didn't cover ("giving it a low score", "landing it at the bottom of"),
+# and sometimes put a real, unrelated fact (an earlier "but"/"so" clause)
+# BEFORE the actual rank-explanation clause, which a single greedy match
+# from the first connector to the last keyword swallowed along with the
+# explanation. Splitting on commas and dropping only the CLAUSES that
+# individually mention a rank keyword -- keeping every other clause,
+# regardless of position -- fixes both: it catches the explanation
+# wherever it sits and never touches a clause that doesn't mention rank/
+# band/group/score/category/tier. Verified against every reason string in
+# the four brands' pre-A3 seed snapshots (`seed/*/2026-08-21T*.json`), not
+# just the three documented sightings.
+#
+# Residual, documented limitation (same posture as _mentions_search's own
+# note below): when a real fact is woven INTO the same clause as the rank
+# explanation with no comma of its own ("...despite being registered back
+# in 2002" tacked onto a "which puts it..." clause), that fact is lost
+# along with the clause it rode in on, rather than surgically extracted.
+# Accepted rather than chased further -- the alternative (sub-clause
+# parsing on "despite"/"although") trades a rare, minor fact loss for a
+# much more fragile guard, and the sharpened system prompt above is the
+# primary defense; this guard is the secondary net.
+#
+# Re-review (adversarial probe): "classification"/"placement"/"standing"
+# aren't in the real corpus checked above, but are plausible near-synonyms
+# for the same forbidden claim, so added defensively. "standing" alone is
+# a genuine false-positive risk -- "long-standing registration" is a
+# plausible, legitimate way for the model to describe an old domain, and
+# the hyphen still creates a \b word boundary before "standing" -- so it
+# requires a real word-or-sentence boundary (space/comma/start), not a
+# hyphen, immediately before it.
+_RANK_KEYWORD_PATTERN = re.compile(
+    r"\b(?:bands?|groups?|grouped|grouping|categor(?:y|ies)|tiers?|"
+    r"scores?|scored|scoring|ranks?|ranked|ranking|"
+    r"classification|placement)\b|(?<![-\w])standing\b",
+    re.IGNORECASE,
+)
+
+_LEADING_CONJUNCTION = re.compile(r"^(?:and|but|so|yet|which|that)\s+", re.IGNORECASE)
+
+
+def _mentions_rank_explanation(text: str) -> bool:
+    return bool(_RANK_KEYWORD_PATTERN.search(text))
+
+
+def _strip_rank_explanation(text: str) -> str:
+    """Drop every comma-separated clause that mentions a rank/band/
+    group/score/category/tier keyword, keeping every other clause in its
+    original order. Returns "" if nothing survives (either the whole
+    sentence was one un-splittable rank explanation, or every clause
+    mentioned it) -- the caller falls back to the deterministic sentence
+    in that case."""
+    if not _mentions_rank_explanation(text):
+        return text
+    stripped = text.rstrip()
+    had_period = stripped.endswith(".")
+    body = stripped[:-1] if had_period else stripped
+    clauses = [c.strip() for c in body.split(",")]
+    kept = [c for c in clauses if c and not _mentions_rank_explanation(c)]
+    if not kept:
+        return ""
+    joined = _LEADING_CONJUNCTION.sub("", ", ".join(kept), count=1)
+    if not joined:
+        return ""
+    joined = joined[0].upper() + joined[1:]
+    return joined + "." if had_period else joined
 
 
 def _deterministic_reason(card: Card) -> str:
@@ -235,14 +324,21 @@ async def _write_chunk(chunk: list[Card], config: AnthropicConfig, brand: str) -
 
     for c in chunk:
         model_reason = by_domain.get(c.domain)
+        if not model_reason:
+            c.reason = _deterministic_reason(c)
+            continue
         # A1 guard: a model reason that mentions search/Google/index on a
         # card whose search was never checked is a hallucinated claim
         # (the honesty boundary, Section 8) -- replace it with the
         # deterministic sentence, which itself says "search not checked".
-        if model_reason and not c.search.checked and _mentions_search(model_reason):
+        if not c.search.checked and _mentions_search(model_reason):
             c.reason = _deterministic_reason(c)
-        else:
-            c.reason = model_reason if model_reason else _deterministic_reason(c)
+            continue
+        # A3 guard: strip a trailing band/group/score/rank-explanation
+        # clause regardless of search-checked status -- the model must
+        # never narrate why a card is ranked where it is.
+        trimmed = _strip_rank_explanation(model_reason)
+        c.reason = trimmed if trimmed else _deterministic_reason(c)
     return True
 
 

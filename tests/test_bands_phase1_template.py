@@ -95,13 +95,14 @@ def test_swap1_chains_into_scan_result2_via_hx_get():
 
 
 def test_swap1_bands_already_show_red_green_amber_colours():
-    """A6 (project_brief.md Section 9c): swap 1 is already coloured, not
-    just the final swap-2 render, since it's the first thing a live scan
-    shows on stage."""
+    """A6 (project_brief.md Section 9c), superseded by Round 5 (Section 9d):
+    band identity now comes from the coloured count-reveal sentence and a
+    coloured verdict marker per row instead of a left border + header
+    tint. Swap 1 is already coloured this way, not just the final swap-2
+    render, since it's the first thing a live scan shows on stage."""
     html = _render([_stranger_card("s1.com"), _yours_card("y1.com"), _free_card("f1.com")])
-    assert "border-red-600" in html
-    assert "bg-red-50" in html
-    assert "border-green-600" in html
-    assert "bg-green-50" in html
-    assert "border-amber-600" in html
-    assert "bg-amber-50" in html
+    assert '<span class="lg-num lg-num-red">1</span>' in html
+    assert '<span class="lg-num lg-num-green">1</span>' in html
+    assert '<span class="lg-num lg-num-amber">1</span>' in html
+    assert 'lg-marker-circle lg-red' in html
+    assert 'lg-marker-circle lg-green' in html

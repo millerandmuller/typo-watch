@@ -1,6 +1,6 @@
 {
   "brand": "name.com",
-  "scanned_at": "2026-08-20T14:25:57Z",
+  "scanned_at": "2026-08-26T20:32:18.919041Z",
   "cards": [
     {
       "domain": "account-name.com",
@@ -31,7 +31,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 3,
@@ -40,11 +41,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
       "land_line": null,
-      "reason": "A combosquat variant of your domain, free to register today."
+      "reason": "A combosquat variant of your domain, available to register today."
     },
     {
       "domain": "accountname.com",
@@ -75,7 +77,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 3,
@@ -84,11 +87,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
       "land_line": null,
-      "reason": "A combosquat variant of your domain, free to register today."
+      "reason": "A combosquat variant of your domain, available to register today."
     },
     {
       "domain": "billing-name.com",
@@ -119,7 +123,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 3,
@@ -128,11 +133,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
       "land_line": null,
-      "reason": "A combosquat variant of your domain, free to register today."
+      "reason": "A combosquat variant of your domain, available to register today."
     },
     {
       "domain": "billingname.com",
@@ -163,7 +169,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 3,
@@ -172,11 +179,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
       "land_line": null,
-      "reason": "A combosquat variant of your domain, free to register today."
+      "reason": "A combosquat variant of your domain, available to register today."
     },
     {
       "domain": "help-name.com",
@@ -207,7 +215,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 3,
@@ -216,11 +225,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
       "land_line": null,
-      "reason": "A combosquat variant of your domain, free to register today."
+      "reason": "A combosquat variant of your domain, available to register today."
     },
     {
       "domain": "login-name.com",
@@ -251,7 +261,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 3,
@@ -260,11 +271,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
       "land_line": null,
-      "reason": "A combosquat variant of your domain, free to register today."
+      "reason": "A combosquat variant of your domain, available to register today."
     },
     {
       "domain": "loginname.com",
@@ -295,7 +307,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 3,
@@ -304,11 +317,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
       "land_line": null,
-      "reason": "A combosquat variant of your domain, free to register today."
+      "reason": "A combosquat variant of your domain, available to register today."
     },
     {
       "domain": "mailname.com",
@@ -339,7 +353,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 3,
@@ -348,11 +363,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
       "land_line": null,
-      "reason": "A combosquat variant of your domain, free to register today."
+      "reason": "A combosquat variant of your domain, available to register today."
     },
     {
       "domain": "name-account.com",
@@ -383,7 +399,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 3,
@@ -392,11 +409,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
       "land_line": null,
-      "reason": "A combosquat variant of your domain, free to register today."
+      "reason": "A combosquat variant of your domain, available to register today."
     },
     {
       "domain": "name-billing.com",
@@ -427,7 +445,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 3,
@@ -436,11 +455,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
       "land_line": null,
-      "reason": "A combosquat variant of your domain, free to register today."
+      "reason": "A combosquat variant of your domain, available to register today."
     },
     {
       "domain": "name-help.com",
@@ -471,7 +491,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 3,
@@ -480,11 +501,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
       "land_line": null,
-      "reason": "A combosquat variant of your domain, free to register today."
+      "reason": "A combosquat variant of your domain, available to register today."
     },
     {
       "domain": "name-login.com",
@@ -515,7 +537,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 3,
@@ -524,11 +547,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
       "land_line": null,
-      "reason": "A combosquat variant of your domain, free to register today."
+      "reason": "A combosquat variant of your domain, available to register today."
     },
     {
       "domain": "name-mail.com",
@@ -559,7 +583,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 3,
@@ -568,11 +593,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
       "land_line": null,
-      "reason": "A combosquat variant of your domain, free to register today."
+      "reason": "A combosquat variant of your domain, available to register today."
     },
     {
       "domain": "name-pay.com",
@@ -603,7 +629,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 3,
@@ -612,11 +639,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
       "land_line": null,
-      "reason": "A combosquat variant of your domain, free to register today."
+      "reason": "A combosquat variant of your domain, available to register today."
     },
     {
       "domain": "name-verify.com",
@@ -647,7 +675,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 3,
@@ -656,11 +685,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
       "land_line": null,
-      "reason": "A combosquat variant of your domain, free to register today."
+      "reason": "A combosquat variant of your domain, available to register today."
     },
     {
       "domain": "namebilling.com",
@@ -691,7 +721,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 3,
@@ -700,11 +731,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
       "land_line": null,
-      "reason": "A combosquat variant of your domain, free to register today."
+      "reason": "A combosquat variant of your domain, available to register today."
     },
     {
       "domain": "namehelp.com",
@@ -735,7 +767,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 3,
@@ -744,11 +777,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
       "land_line": null,
-      "reason": "A combosquat variant of your domain, free to register today."
+      "reason": "A combosquat variant of your domain, available to register today."
     },
     {
       "domain": "namelogin.com",
@@ -779,7 +813,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 3,
@@ -788,11 +823,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
       "land_line": null,
-      "reason": "A combosquat variant of your domain, free to register today."
+      "reason": "A combosquat variant of your domain, available to register today."
     },
     {
       "domain": "namesupport.com",
@@ -823,7 +859,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 3,
@@ -832,11 +869,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
       "land_line": null,
-      "reason": "A combosquat variant of your domain, free to register today."
+      "reason": "A combosquat variant of your domain, available to register today."
     },
     {
       "domain": "nameverify.com",
@@ -867,7 +905,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 3,
@@ -876,11 +915,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
       "land_line": null,
-      "reason": "A combosquat variant of your domain, free to register today."
+      "reason": "A combosquat variant of your domain, available to register today."
     },
     {
       "domain": "pay-name.com",
@@ -911,7 +951,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 3,
@@ -920,11 +961,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
       "land_line": null,
-      "reason": "A combosquat variant of your domain, free to register today."
+      "reason": "A combosquat variant of your domain, available to register today."
     },
     {
       "domain": "payname.com",
@@ -955,7 +997,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 3,
@@ -964,11 +1007,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
       "land_line": null,
-      "reason": "A combosquat variant of your domain, free to register today."
+      "reason": "A combosquat variant of your domain, available to register today."
     },
     {
       "domain": "secure-name.com",
@@ -999,7 +1043,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 3,
@@ -1008,11 +1053,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
       "land_line": null,
-      "reason": "A combosquat variant of your domain, free to register today."
+      "reason": "A combosquat variant of your domain, available to register today."
     },
     {
       "domain": "support-name.com",
@@ -1043,7 +1089,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 3,
@@ -1052,11 +1099,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
       "land_line": null,
-      "reason": "A combosquat variant of your domain, free to register today."
+      "reason": "A combosquat variant of your domain, available to register today."
     },
     {
       "domain": "supportname.com",
@@ -1087,7 +1135,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 3,
@@ -1096,11 +1145,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
       "land_line": null,
-      "reason": "A combosquat variant of your domain, free to register today."
+      "reason": "A combosquat variant of your domain, available to register today."
     },
     {
       "domain": "verify-name.com",
@@ -1131,7 +1181,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 3,
@@ -1140,11 +1191,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
       "land_line": null,
-      "reason": "A combosquat variant of your domain, free to register today."
+      "reason": "A combosquat variant of your domain, available to register today."
     },
     {
       "domain": "verifyname.com",
@@ -1175,7 +1227,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 3,
@@ -1184,11 +1237,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "free",
       "land_line": null,
-      "reason": "A combosquat variant of your domain, free to register today."
+      "reason": "A combosquat variant of your domain, available to register today."
     },
     {
       "domain": "bame.com",
@@ -1219,7 +1273,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 0,
@@ -1228,11 +1283,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "A replacement variant of your domain, free to register today."
+      "reason": "A replacement variant of your domain, available to register today."
     },
     {
       "domain": "bname.com",
@@ -1263,7 +1319,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 0,
@@ -1272,11 +1329,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "An insertion variant of your domain, free to register today."
+      "reason": "An insertion variant of your domain, available to register today."
     },
     {
       "domain": "jname.com",
@@ -1307,7 +1365,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 0,
@@ -1316,11 +1375,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "An insertion variant of your domain, free to register today."
+      "reason": "An insertion variant of your domain, available to register today."
     },
     {
       "domain": "n-ame.com",
@@ -1351,7 +1411,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 0,
@@ -1360,11 +1421,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "A hyphenation variant of your domain, free to register today."
+      "reason": "A hyphenation variant of your domain, available to register today."
     },
     {
       "domain": "naem.com",
@@ -1395,7 +1457,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 0,
@@ -1404,11 +1467,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "A transposition variant of your domain, free to register today."
+      "reason": "A transposition variant of your domain, available to register today."
     },
     {
       "domain": "najme.com",
@@ -1439,7 +1503,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 0,
@@ -1448,11 +1513,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "An insertion variant of your domain, free to register today."
+      "reason": "An insertion variant of your domain, available to register today."
     },
     {
       "domain": "nam-e.com",
@@ -1483,7 +1549,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 0,
@@ -1492,11 +1559,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "A hyphenation variant of your domain, free to register today."
+      "reason": "A hyphenation variant of your domain, available to register today."
     },
     {
       "domain": "nama.com",
@@ -1527,7 +1595,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 0,
@@ -1536,11 +1605,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "A vowel-swap variant of your domain, free to register today."
+      "reason": "A vowel-swap variant of your domain, available to register today."
     },
     {
       "domain": "namd.com",
@@ -1571,7 +1641,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 0,
@@ -1580,11 +1651,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "A replacement variant of your domain, free to register today."
+      "reason": "A replacement variant of your domain, available to register today."
     },
     {
       "domain": "name.agency",
@@ -1615,7 +1687,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 0,
@@ -1624,11 +1697,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "A tld-swap variant of your domain, free to register today."
+      "reason": "A tld-swap variant of your domain, available to register today."
     },
     {
       "domain": "name.app",
@@ -1659,7 +1733,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 0,
@@ -1668,11 +1743,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "A tld-swap variant of your domain, free to register today."
+      "reason": "A tld-swap variant of your domain, available to register today."
     },
     {
       "domain": "name.co",
@@ -1703,7 +1779,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 0,
@@ -1712,11 +1789,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "A tld-swap variant of your domain, free to register today."
+      "reason": "A tld-swap variant of your domain, available to register today."
     },
     {
       "domain": "name.io",
@@ -1747,7 +1825,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 0,
@@ -1756,11 +1835,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "A tld-swap variant of your domain, free to register today."
+      "reason": "A tld-swap variant of your domain, available to register today."
     },
     {
       "domain": "name.net",
@@ -1791,7 +1871,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 0,
@@ -1800,11 +1881,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "A tld-swap variant of your domain, free to register today."
+      "reason": "A tld-swap variant of your domain, available to register today."
     },
     {
       "domain": "name.org",
@@ -1835,7 +1917,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 0,
@@ -1844,11 +1927,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "A tld-swap variant of your domain, free to register today."
+      "reason": "A tld-swap variant of your domain, available to register today."
     },
     {
       "domain": "name.solutions",
@@ -1879,7 +1963,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 0,
@@ -1888,11 +1973,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "A tld-swap variant of your domain, free to register today."
+      "reason": "A tld-swap variant of your domain, available to register today."
     },
     {
       "domain": "name.watch",
@@ -1923,7 +2009,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 0,
@@ -1932,11 +2019,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "A tld-swap variant of your domain, free to register today."
+      "reason": "A tld-swap variant of your domain, available to register today."
     },
     {
       "domain": "namje.com",
@@ -1967,7 +2055,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 0,
@@ -1976,11 +2065,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "An insertion variant of your domain, free to register today."
+      "reason": "An insertion variant of your domain, available to register today."
     },
     {
       "domain": "namme.com",
@@ -2011,7 +2101,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 0,
@@ -2020,11 +2111,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "A repetition variant of your domain, free to register today."
+      "reason": "A repetition variant of your domain, available to register today."
     },
     {
       "domain": "namne.com",
@@ -2055,7 +2147,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 0,
@@ -2064,11 +2157,58 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "An insertion variant of your domain, free to register today."
+      "reason": "An insertion variant of your domain, available to register today."
+    },
+    {
+      "domain": "namo.com",
+      "cls": "vowel-swap",
+      "prior": 0.5,
+      "registered": false,
+      "authoritative": true,
+      "availability": {
+        "purchasable": true,
+        "price": 286350.0,
+        "premium": true
+      },
+      "rdap": {
+        "registrar": null,
+        "nameservers": [],
+        "created": null,
+        "abuse_email": null,
+        "source": null
+      },
+      "probe": {
+        "a": [],
+        "mx": [],
+        "chain": [],
+        "final_host": null,
+        "kind": null,
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": null
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "free",
+      "land_line": null,
+      "reason": "A vowel-swap variant of your domain, available to register today."
     },
     {
       "domain": "namse.com",
@@ -2099,7 +2239,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 0,
@@ -2108,11 +2249,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "An insertion variant of your domain, free to register today."
+      "reason": "An insertion variant of your domain, available to register today."
     },
     {
       "domain": "nane.com",
@@ -2143,7 +2285,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 0,
@@ -2152,11 +2295,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "A replacement variant of your domain, free to register today."
+      "reason": "A replacement variant of your domain, available to register today."
     },
     {
       "domain": "naoe.com",
@@ -2187,7 +2331,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 0,
@@ -2196,11 +2341,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "A bitsquatting variant of your domain, free to register today."
+      "reason": "A bitsquatting variant of your domain, available to register today."
     },
     {
       "domain": "nasme.com",
@@ -2231,7 +2377,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 0,
@@ -2240,11 +2387,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "An insertion variant of your domain, free to register today."
+      "reason": "An insertion variant of your domain, available to register today."
     },
     {
       "domain": "nazme.com",
@@ -2275,7 +2423,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 0,
@@ -2284,11 +2433,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "An insertion variant of your domain, free to register today."
+      "reason": "An insertion variant of your domain, available to register today."
     },
     {
       "domain": "ncme.com",
@@ -2319,7 +2469,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 0,
@@ -2328,11 +2479,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "A bitsquatting variant of your domain, free to register today."
+      "reason": "A bitsquatting variant of your domain, available to register today."
     },
     {
       "domain": "nmae.com",
@@ -2363,7 +2515,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 0,
@@ -2372,11 +2525,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "A transposition variant of your domain, free to register today."
+      "reason": "A transposition variant of your domain, available to register today."
     },
     {
       "domain": "nname.com",
@@ -2407,7 +2561,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 0,
@@ -2416,11 +2571,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "A repetition variant of your domain, free to register today."
+      "reason": "A repetition variant of your domain, available to register today."
     },
     {
       "domain": "nqme.com",
@@ -2451,7 +2607,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 0,
@@ -2460,11 +2617,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "A replacement variant of your domain, free to register today."
+      "reason": "A replacement variant of your domain, available to register today."
     },
     {
       "domain": "nzame.com",
@@ -2495,7 +2653,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 0,
@@ -2504,11 +2663,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "An insertion variant of your domain, free to register today."
+      "reason": "An insertion variant of your domain, available to register today."
     },
     {
       "domain": "oame.com",
@@ -2539,7 +2699,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 0,
@@ -2548,11 +2709,120 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "free",
       "land_line": null,
-      "reason": "A bitsquatting variant of your domain, free to register today."
+      "reason": "A bitsquatting variant of your domain, available to register today."
+    },
+    {
+      "domain": "mail-name.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": true,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": "NameCheap, Inc.",
+        "nameservers": [
+          "ns1.mail-name.com",
+          "ns2.mail-name.com"
+        ],
+        "created": "2026-04-21T16:09:14Z",
+        "abuse_email": "abuse@namecheap.com",
+        "source": "https://rdap.verisign.com/com/v1/domain/mail-name.com"
+      },
+      "probe": {
+        "a": [],
+        "mx": [
+          "mx.mail-name.com"
+        ],
+        "chain": [],
+        "final_host": null,
+        "kind": "mail-only",
+        "title": null
+      },
+      "search": {
+        "checked": true,
+        "appears": true,
+        "first_title": "mail name Resources and Information.: mail-name.com",
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 3,
+        "search": 2,
+        "confusable": 0,
+        "recent": 1,
+        "parked": 0,
+        "established": 0,
+        "total": 9
+      },
+      "band": "strangers",
+      "land_line": "Can receive your customers' email. No website.",
+      "reason": "This combosquat domain was created on April 21, 2026, has mail servers configured, is not parked, and appears in Google search results."
+    },
+    {
+      "domain": "namesecure.com",
+      "cls": "combosquat",
+      "prior": 0.85,
+      "registered": true,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": "NameSecure L.L.C.",
+        "nameservers": [
+          "heidi.ns.cloudflare.com",
+          "rex.ns.cloudflare.com"
+        ],
+        "created": "1996-10-06T04:00:00Z",
+        "abuse_email": "domain.operations@web.com",
+        "source": "https://rdap.verisign.com/com/v1/domain/namesecure.com"
+      },
+      "probe": {
+        "a": [
+          "162.159.138.41",
+          "162.159.137.41"
+        ],
+        "mx": [
+          "namesecure-com.mail.eo.outlook.com"
+        ],
+        "chain": [
+          "http://namesecure.com/",
+          "https://namesecure.com/"
+        ],
+        "final_host": "namesecure.com",
+        "kind": "unknown",
+        "title": null
+      },
+      "search": {
+        "checked": true,
+        "appears": true,
+        "first_title": "NameSecure: Log In",
+        "reason": null
+      },
+      "score": {
+        "keyword": 3,
+        "mx": 3,
+        "search": 2,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 8
+      },
+      "band": "strangers",
+      "land_line": "Could not determine where this points.",
+      "reason": "This combosquat domain was created on October 6, 1996, has mail servers configured, is not parked, and appears in Google search results."
     },
     {
       "domain": "securename.com",
@@ -2596,7 +2866,8 @@
       "search": {
         "checked": true,
         "appears": true,
-        "first_title": "SecureName, Inc."
+        "first_title": "SecureName, Inc.",
+        "reason": null
       },
       "score": {
         "keyword": 3,
@@ -2605,178 +2876,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 8
       },
       "band": "strangers",
       "land_line": "Live site, no title captured.",
-      "reason": "A combosquat variant of your domain with mail configured found in search."
-    },
-    {
-      "domain": "mail-name.com",
-      "cls": "combosquat",
-      "prior": 0.85,
-      "registered": true,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": "NameCheap, Inc.",
-        "nameservers": [
-          "ns1.mail-name.com",
-          "ns2.mail-name.com"
-        ],
-        "created": "2026-04-21T16:09:14Z",
-        "abuse_email": "abuse@namecheap.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/mail-name.com"
-      },
-      "probe": {
-        "a": [],
-        "mx": [
-          "mx.mail-name.com"
-        ],
-        "chain": [],
-        "final_host": null,
-        "kind": "mail-only",
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null
-      },
-      "score": {
-        "keyword": 3,
-        "mx": 3,
-        "search": 0,
-        "confusable": 0,
-        "recent": 1,
-        "parked": 0,
-        "total": 7
-      },
-      "band": "strangers",
-      "land_line": "Can receive your customers' email. No website.",
-      "reason": "A combosquat variant of your domain with mail configured."
-    },
-    {
-      "domain": "narne.com",
-      "cls": "homoglyph",
-      "prior": 0.9,
-      "registered": true,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": "Network Solutions, LLC",
-        "nameservers": [
-          "ns1.md-23.webhostbox.net",
-          "ns2.md-23.webhostbox.net"
-        ],
-        "created": "1998-01-12T05:00:00Z",
-        "abuse_email": "domain.operations@web.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/narne.com"
-      },
-      "probe": {
-        "a": [
-          "208.91.199.124"
-        ],
-        "mx": [
-          "mail.narne.com"
-        ],
-        "chain": [
-          "http://narne.com/",
-          "https://www.narne.com/"
-        ],
-        "final_host": "www.narne.com",
-        "kind": "live-other",
-        "title": "Narne Group &#8211; Shaping Desires &amp; Homes"
-      },
-      "search": {
-        "checked": true,
-        "appears": true,
-        "first_title": "Narne"
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 3,
-        "search": 2,
-        "confusable": 2,
-        "recent": 0,
-        "parked": 0,
-        "total": 7
-      },
-      "band": "strangers",
-      "land_line": "Live site titled ‘Narne Group &#8211; Shaping Desires &amp; Homes’.",
-      "reason": "A homoglyph variant of your domain with mail configured found in search."
-    },
-    {
-      "domain": "nme.com",
-      "cls": "omission",
-      "prior": 0.8,
-      "registered": true,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": "Amazon Registrar, Inc.",
-        "nameservers": [
-          "ns-1202.awsdns-22.org",
-          "ns-1706.awsdns-21.co.uk",
-          "ns-347.awsdns-43.com",
-          "ns-712.awsdns-25.net"
-        ],
-        "created": "1996-02-27T05:00:00Z",
-        "abuse_email": "trustandsafety@support.aws.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/nme.com"
-      },
-      "probe": {
-        "a": [
-          "13.249.205.50",
-          "13.249.205.40",
-          "13.249.205.120",
-          "13.249.205.113"
-        ],
-        "mx": [
-          "aspmx.l.google.com",
-          "aspmx2.googlemail.com",
-          "aspmx3.googlemail.com",
-          "alt1.aspmx.l.google.com",
-          "alt2.aspmx.l.google.com"
-        ],
-        "chain": [
-          "http://nme.com/",
-          "https://nme.com/",
-          "https://www.nme.com/"
-        ],
-        "final_host": "www.nme.com",
-        "kind": "live-other",
-        "title": "NME | Music, Film, TV, Gaming &amp; Pop Culture News"
-      },
-      "search": {
-        "checked": true,
-        "appears": true,
-        "first_title": "NME Video"
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 3,
-        "search": 2,
-        "confusable": 2,
-        "recent": 0,
-        "parked": 0,
-        "total": 7
-      },
-      "band": "strangers",
-      "land_line": "Live site titled ‘NME | Music, Film, TV, Gaming &amp; Pop Culture News’.",
-      "reason": "An omission variant of your domain with mail configured found in search."
+      "reason": "This combosquat domain was created on February 14, 2002, has mail servers configured, is not parked, and appears in Google search results."
     },
     {
       "domain": "helpname.com",
@@ -2815,9 +2920,10 @@
         "title": null
       },
       "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null
+        "checked": true,
+        "appears": false,
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 3,
@@ -2826,11 +2932,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 6
       },
       "band": "strangers",
       "land_line": "Could not determine where this points.",
-      "reason": "A combosquat variant of your domain with mail configured."
+      "reason": "This combosquat domain was created on September 22, 2001, has mail servers configured, is not parked, and does not appear in Google search results."
     },
     {
       "domain": "name-support.com",
@@ -2866,9 +2973,10 @@
         "title": null
       },
       "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null
+        "checked": true,
+        "appears": false,
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 3,
@@ -2877,11 +2985,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 6
       },
       "band": "strangers",
       "land_line": "Can receive your customers' email. No website.",
-      "reason": "A combosquat variant of your domain with mail configured."
+      "reason": "This combosquat domain was created on March 27, 2000, has mail servers configured, is not parked, and does not appear in Google search results."
     },
     {
       "domain": "nameaccount.com",
@@ -2921,9 +3030,10 @@
         "title": null
       },
       "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null
+        "checked": true,
+        "appears": false,
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 3,
@@ -2932,285 +3042,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 6
       },
       "band": "strangers",
       "land_line": "Can receive your customers' email. No website.",
-      "reason": "A combosquat variant of your domain with mail configured."
-    },
-    {
-      "domain": "namesecure.com",
-      "cls": "combosquat",
-      "prior": 0.85,
-      "registered": true,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": "NameSecure L.L.C.",
-        "nameservers": [
-          "heidi.ns.cloudflare.com",
-          "rex.ns.cloudflare.com"
-        ],
-        "created": "1996-10-06T04:00:00Z",
-        "abuse_email": "domain.operations@web.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/namesecure.com"
-      },
-      "probe": {
-        "a": [
-          "162.159.137.41",
-          "162.159.138.41"
-        ],
-        "mx": [
-          "namesecure-com.mail.eo.outlook.com"
-        ],
-        "chain": [
-          "http://namesecure.com/",
-          "https://namesecure.com/"
-        ],
-        "final_host": "namesecure.com",
-        "kind": "mail-only",
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null
-      },
-      "score": {
-        "keyword": 3,
-        "mx": 3,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 6
-      },
-      "band": "strangers",
-      "land_line": "Can receive your customers' email. No website.",
-      "reason": "A combosquat variant of your domain with mail configured."
-    },
-    {
-      "domain": "ame.com",
-      "cls": "omission",
-      "prior": 0.8,
-      "registered": true,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": "Network Solutions, LLC",
-        "nameservers": [
-          "ns69.worldnic.com",
-          "ns70.worldnic.com"
-        ],
-        "created": "1994-11-16T05:00:00Z",
-        "abuse_email": "domain.operations@web.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/ame.com"
-      },
-      "probe": {
-        "a": [
-          "104.19.232.38",
-          "104.19.233.38"
-        ],
-        "mx": [
-          "usb-smtp-inbound-1.mimecast.com",
-          "usb-smtp-inbound-2.mimecast.com"
-        ],
-        "chain": [
-          "http://ame.com/",
-          "https://ame.com/",
-          "https://hennigworldwide.com/"
-        ],
-        "final_host": "hennigworldwide.com",
-        "kind": "live-other",
-        "title": "Machine Tool Peripherals & Specialty Products | Hennig"
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 3,
-        "search": 0,
-        "confusable": 2,
-        "recent": 0,
-        "parked": 0,
-        "total": 5
-      },
-      "band": "strangers",
-      "land_line": "Live site titled ‘Machine Tool Peripherals & Specialty Products | Hennig’.",
-      "reason": "An omission variant of your domain with mail configured."
-    },
-    {
-      "domain": "nam.com",
-      "cls": "omission",
-      "prior": 0.8,
-      "registered": true,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": "Tucows Domains Inc.",
-        "nameservers": [
-          "ns1.digimedia.com",
-          "ns2.digimedia.com"
-        ],
-        "created": "1997-12-30T05:00:00Z",
-        "abuse_email": "domainabuse@tucows.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/nam.com"
-      },
-      "probe": {
-        "a": [
-          "54.235.96.128"
-        ],
-        "mx": [
-          "0.0.0.0"
-        ],
-        "chain": [
-          "http://nam.com/",
-          "http://www.nam.com/"
-        ],
-        "final_host": "www.nam.com",
-        "kind": "live-other",
-        "title": "nam.com"
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 3,
-        "search": 0,
-        "confusable": 2,
-        "recent": 0,
-        "parked": 0,
-        "total": 5
-      },
-      "band": "strangers",
-      "land_line": "Live site titled ‘nam.com’.",
-      "reason": "An omission variant of your domain with mail configured."
-    },
-    {
-      "domain": "nwme.com",
-      "cls": "replacement",
-      "prior": 0.7,
-      "registered": true,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": "GoDaddy.com, LLC",
-        "nameservers": [
-          "ns111d.hostwhitelabel.com",
-          "ns211d.hostwhitelabel.com",
-          "ns311d.hostwhitelabel.com"
-        ],
-        "created": "2004-04-27T19:06:21Z",
-        "abuse_email": "abuse@godaddy.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/nwme.com"
-      },
-      "probe": {
-        "a": [
-          "104.152.168.44"
-        ],
-        "mx": [
-          "mail.nwme.com"
-        ],
-        "chain": [
-          "http://nwme.com/"
-        ],
-        "final_host": "nwme.com",
-        "kind": "live-other",
-        "title": "NWME &#8211; Global distributor of mobile devices and accessories."
-      },
-      "search": {
-        "checked": true,
-        "appears": true,
-        "first_title": "NWME – Global distributor of mobile devices and accessories."
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 3,
-        "search": 2,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 5
-      },
-      "band": "strangers",
-      "land_line": "Live site titled ‘NWME &#8211; Global distributor of mobile devices and accessories.’.",
-      "reason": "A replacement variant of your domain with mail configured found in search."
-    },
-    {
-      "domain": "nae.com",
-      "cls": "omission",
-      "prior": 0.8,
-      "registered": true,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": "GoDaddy Online Services Cayman Islands Ltd.",
-        "nameservers": [
-          "lunlun.ns.giantpanda.com",
-          "yangyang.ns.giantpanda.com"
-        ],
-        "created": "2000-11-01T11:32:25Z",
-        "abuse_email": "abuse@uniregistry.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/nae.com"
-      },
-      "probe": {
-        "a": [
-          "96.126.111.165",
-          "66.175.209.179",
-          "45.79.167.180",
-          "45.33.83.100"
-        ],
-        "mx": [],
-        "chain": [
-          "http://nae.com/"
-        ],
-        "final_host": "nae.com",
-        "kind": "live-other",
-        "title": null
-      },
-      "search": {
-        "checked": true,
-        "appears": true,
-        "first_title": "Checking your browser..."
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 2,
-        "confusable": 2,
-        "recent": 0,
-        "parked": 0,
-        "total": 4
-      },
-      "band": "strangers",
-      "land_line": "Live site, no title captured.",
-      "reason": "An omission variant of your domain found in search."
+      "reason": "This domain was created on 2004-05-13, has mail servers configured, is not parked, and does not appear in Google search results."
     },
     {
       "domain": "nawme.com",
@@ -3250,30 +3087,32 @@
         ],
         "final_host": "nawme.com",
         "kind": "live-other",
-        "title": "Nawme | Premium Sleep Mask for Deep, Comfortable Sleep"
+        "title": "Nawme | 3D Blackout Sleep Mask for Deeper Sleep"
       },
       "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null
+        "checked": true,
+        "appears": true,
+        "first_title": "Nawme | Premium Sleep Mask for Deep, Comfortable Sleep",
+        "reason": null
       },
       "score": {
         "keyword": 0,
         "mx": 3,
-        "search": 0,
+        "search": 2,
         "confusable": 0,
         "recent": 1,
         "parked": 0,
-        "total": 4
+        "established": 0,
+        "total": 6
       },
       "band": "strangers",
-      "land_line": "Live site titled ‘Nawme | Premium Sleep Mask for Deep, Comfortable Sleep’.",
-      "reason": "An insertion variant of your domain with mail configured."
+      "land_line": "Live site titled ‘Nawme | 3D Blackout Sleep Mask for Deeper Sleep’.",
+      "reason": "This domain was created on 2026-05-04, has mail servers configured, is not parked, and appears in Google search results."
     },
     {
-      "domain": "anme.com",
-      "cls": "transposition",
-      "prior": 0.8,
+      "domain": "na-e.com",
+      "cls": "bitsquatting",
+      "prior": 0.3,
       "registered": true,
       "authoritative": true,
       "availability": {
@@ -3282,50 +3121,50 @@
         "premium": null
       },
       "rdap": {
-        "registrar": "GoDaddy.com, LLC",
+        "registrar": "Ascio Technologies, Inc. Danmark - Filial af Ascio technologies, Inc. USA",
         "nameservers": [
-          "ns69.domaincontrol.com",
-          "ns70.domaincontrol.com"
+          "ns.hostpoint.ch",
+          "ns2.hostpoint.ch",
+          "ns3.hostpoint.ch"
         ],
-        "created": "2001-11-15T20:05:32Z",
-        "abuse_email": "abuse@godaddy.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/anme.com"
+        "created": "2007-08-13T16:30:16Z",
+        "abuse_email": "abuse@ascio.com",
+        "source": "https://rdap.verisign.com/com/v1/domain/na-e.com"
       },
       "probe": {
         "a": [
-          "15.197.225.128",
-          "3.33.251.168"
+          "217.26.54.31"
         ],
         "mx": [
-          "smtp.secureserver.net",
-          "mailstore1.secureserver.net"
+          "mx1.mail.hostpoint.ch",
+          "mx2.mail.hostpoint.ch"
         ],
         "chain": [
-          "http://anme.com/",
-          "http://anmefounders.com",
-          "https://anmefounders.com/"
+          "http://na-e.com/"
         ],
-        "final_host": "anmefounders.com",
-        "kind": "live-other",
-        "title": "ANME Founders Show 2026 | B2B Adult Trade Show | Los Angeles"
+        "final_host": null,
+        "kind": "unknown",
+        "title": null
       },
       "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null
+        "checked": true,
+        "appears": true,
+        "first_title": "Formel für die perfekten Wimpern: na'e Kosmetik",
+        "reason": null
       },
       "score": {
         "keyword": 0,
         "mx": 3,
-        "search": 0,
+        "search": 2,
         "confusable": 0,
         "recent": 0,
         "parked": 0,
-        "total": 3
+        "established": 0,
+        "total": 5
       },
       "band": "strangers",
-      "land_line": "Live site titled ‘ANME Founders Show 2026 | B2B Adult Trade Show | Los Angeles’.",
-      "reason": "A transposition variant of your domain with mail configured."
+      "land_line": "Could not determine where this points.",
+      "reason": "This domain was created on 2007-08-13, has mail servers configured, is not parked, and appears in Google search results."
     },
     {
       "domain": "fame.com",
@@ -3365,9 +3204,10 @@
         "title": null
       },
       "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null
+        "checked": true,
+        "appears": false,
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 0,
@@ -3376,11 +3216,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "strangers",
       "land_line": "Could not determine where this points.",
-      "reason": "A bitsquatting variant of your domain with mail configured."
+      "reason": "This domain was created on 1992-01-08, has mail servers configured, is not parked, and does not appear in Google search results."
     },
     {
       "domain": "hame.com",
@@ -3416,9 +3257,10 @@
         "title": null
       },
       "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null
+        "checked": true,
+        "appears": false,
+        "first_title": null,
+        "reason": null
       },
       "score": {
         "keyword": 0,
@@ -3427,175 +3269,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "strangers",
       "land_line": "Could not determine where this points.",
-      "reason": "A replacement variant of your domain with mail configured."
-    },
-    {
-      "domain": "mname.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": true,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": "Gabia, Inc.",
-        "nameservers": [
-          "ns1.afternic.com",
-          "ns2.afternic.com"
-        ],
-        "created": "2004-04-03T20:08:09Z",
-        "abuse_email": "abuse@gabia.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/mname.com"
-      },
-      "probe": {
-        "a": [
-          "76.223.54.146",
-          "13.248.169.48"
-        ],
-        "mx": [
-          ""
-        ],
-        "chain": [
-          "http://mname.com/"
-        ],
-        "final_host": "mname.com",
-        "kind": "live-other",
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 3,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 3
-      },
-      "band": "strangers",
-      "land_line": "Live site, no title captured.",
-      "reason": "An insertion variant of your domain with mail configured."
-    },
-    {
-      "domain": "na-e.com",
-      "cls": "bitsquatting",
-      "prior": 0.3,
-      "registered": true,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": "Ascio Technologies, Inc. Danmark - Filial af Ascio technologies, Inc. USA",
-        "nameservers": [
-          "ns.hostpoint.ch",
-          "ns2.hostpoint.ch",
-          "ns3.hostpoint.ch"
-        ],
-        "created": "2007-08-13T16:30:16Z",
-        "abuse_email": "abuse@ascio.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/na-e.com"
-      },
-      "probe": {
-        "a": [
-          "217.26.54.31"
-        ],
-        "mx": [
-          "mx2.mail.hostpoint.ch",
-          "mx1.mail.hostpoint.ch"
-        ],
-        "chain": [
-          "http://na-e.com/",
-          "https://na-e.com/",
-          "https://www.na-e.com/"
-        ],
-        "final_host": "www.na-e.com",
-        "kind": "live-other",
-        "title": "na&#039;e Kosmetik | Formel für die perfekten Wimpern"
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 3,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 3
-      },
-      "band": "strangers",
-      "land_line": "Live site titled ‘na&#039;e Kosmetik | Formel für die perfekten Wimpern’.",
-      "reason": "A bitsquatting variant of your domain with mail configured."
-    },
-    {
-      "domain": "naie.com",
-      "cls": "bitsquatting",
-      "prior": 0.3,
-      "registered": true,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": "Spaceship, Inc.",
-        "nameservers": [
-          "5014.ns1.abovedomains.com",
-          "5014.ns2.abovedomains.com"
-        ],
-        "created": "2001-07-13T13:03:25Z",
-        "abuse_email": "abuse@spaceship.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/naie.com"
-      },
-      "probe": {
-        "a": [
-          "103.224.182.248"
-        ],
-        "mx": [
-          "park-mx.above.com"
-        ],
-        "chain": [
-          "http://naie.com/"
-        ],
-        "final_host": "naie.com",
-        "kind": "live-other",
-        "title": "naie.com"
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 3,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 3
-      },
-      "band": "strangers",
-      "land_line": "Live site titled ‘naie.com’.",
-      "reason": "A bitsquatting variant of your domain with mail configured."
+      "reason": "This domain was created on 1998-07-30, has mail servers configured, is not parked, and does not appear in Google search results."
     },
     {
       "domain": "naje.com",
@@ -3634,7 +3313,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": "cap"
       },
       "score": {
         "keyword": 0,
@@ -3643,11 +3323,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "strangers",
       "land_line": "Could not determine where this points.",
-      "reason": "A replacement variant of your domain with mail configured."
+      "reason": "A replacement variant of your domain with mail configured search not checked."
     },
     {
       "domain": "nakme.com",
@@ -3678,8 +3359,8 @@
           "66.228.37.215"
         ],
         "mx": [
-          "in1-smtp.messagingengine.com",
-          "in2-smtp.messagingengine.com"
+          "in2-smtp.messagingengine.com",
+          "in1-smtp.messagingengine.com"
         ],
         "chain": [],
         "final_host": null,
@@ -3689,7 +3370,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": "cap"
       },
       "score": {
         "keyword": 0,
@@ -3698,65 +3380,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "strangers",
       "land_line": "Could not determine where this points.",
-      "reason": "An insertion variant of your domain with mail configured."
-    },
-    {
-      "domain": "namde.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": true,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": "Megazone Corp., dba HOSTING.KR",
-        "nameservers": [
-          "ns1.afternic.com",
-          "ns2.afternic.com"
-        ],
-        "created": "2009-01-18T05:44:48Z",
-        "abuse_email": "abuse@hosting.kr",
-        "source": "https://rdap.verisign.com/com/v1/domain/namde.com"
-      },
-      "probe": {
-        "a": [
-          "76.223.54.146",
-          "13.248.169.48"
-        ],
-        "mx": [
-          ""
-        ],
-        "chain": [
-          "http://namde.com/"
-        ],
-        "final_host": "namde.com",
-        "kind": "live-other",
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 3,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 3
-      },
-      "band": "strangers",
-      "land_line": "Live site, no title captured.",
-      "reason": "An insertion variant of your domain with mail configured."
+      "reason": "An insertion variant of your domain with mail configured search not checked."
     },
     {
       "domain": "name-secure.com",
@@ -3790,7 +3419,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": "cap"
       },
       "score": {
         "keyword": 3,
@@ -3799,132 +3429,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "strangers",
       "land_line": "Nothing answers.",
-      "reason": "A combosquat variant of your domain."
-    },
-    {
-      "domain": "named.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": true,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": "GoDaddy.com, LLC",
-        "nameservers": [
-          "cory.ns.cloudflare.com",
-          "emily.ns.cloudflare.com"
-        ],
-        "created": "1996-02-29T05:00:00Z",
-        "abuse_email": "abuse@godaddy.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/named.com"
-      },
-      "probe": {
-        "a": [
-          "15.165.13.51",
-          "43.200.138.48"
-        ],
-        "mx": [
-          "aspmx.l.google.com",
-          "alt3.aspmx.l.google.com",
-          "alt4.aspmx.l.google.com",
-          "alt1.aspmx.l.google.com",
-          "alt2.aspmx.l.google.com"
-        ],
-        "chain": [
-          "http://named.com/",
-          "https://named.com/",
-          "https://xn--950bo4em5v.kr",
-          "https://www.xn--950bo4em5v.kr/"
-        ],
-        "final_host": "www.xn--950bo4em5v.kr",
-        "kind": "live-other",
-        "title": "Named | 네임드"
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 3,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 3
-      },
-      "band": "strangers",
-      "land_line": "Live site titled ‘Named | 네임드’.",
-      "reason": "An insertion variant of your domain with mail configured."
-    },
-    {
-      "domain": "namee.com",
-      "cls": "repetition",
-      "prior": 0.5,
-      "registered": true,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": "GoDaddy.com, LLC",
-        "nameservers": [
-          "ns-cloud-b1.googledomains.com",
-          "ns-cloud-b2.googledomains.com",
-          "ns-cloud-b3.googledomains.com",
-          "ns-cloud-b4.googledomains.com"
-        ],
-        "created": "2002-03-24T20:37:59Z",
-        "abuse_email": "abuse@godaddy.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/namee.com"
-      },
-      "probe": {
-        "a": [
-          "34.116.166.35"
-        ],
-        "mx": [
-          "alt1.aspmx.l.google.com",
-          "alt3.aspmx.l.google.com",
-          "aspmx.l.google.com",
-          "alt4.aspmx.l.google.com",
-          "alt2.aspmx.l.google.com"
-        ],
-        "chain": [
-          "http://namee.com/",
-          "https://namee.com/"
-        ],
-        "final_host": "namee.com",
-        "kind": "live-other",
-        "title": "Personalized Books for Kids &amp; Families | NAMEE"
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 3,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 3
-      },
-      "band": "strangers",
-      "land_line": "Live site titled ‘Personalized Books for Kids &amp; Families | NAMEE’.",
-      "reason": "A repetition variant of your domain with mail configured."
+      "reason": "A combosquat variant of your domain search not checked."
     },
     {
       "domain": "namemail.com",
@@ -3962,7 +3472,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": "cap"
       },
       "score": {
         "keyword": 3,
@@ -3971,11 +3482,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "strangers",
       "land_line": "Could not determine where this points.",
-      "reason": "A combosquat variant of your domain."
+      "reason": "A combosquat variant of your domain search not checked."
     },
     {
       "domain": "namepay.com",
@@ -4012,7 +3524,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": "cap"
       },
       "score": {
         "keyword": 3,
@@ -4021,11 +3534,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "strangers",
       "land_line": "Nothing answers.",
-      "reason": "A combosquat variant of your domain."
+      "reason": "A combosquat variant of your domain search not checked."
     },
     {
       "domain": "names.com",
@@ -4050,8 +3564,8 @@
       },
       "probe": {
         "a": [
-          "172.67.73.233",
           "104.26.10.194",
+          "172.67.73.233",
           "104.26.11.194"
         ],
         "mx": [
@@ -4062,13 +3576,14 @@
           "https://names.com/"
         ],
         "final_host": "names.com",
-        "kind": "mail-only",
+        "kind": "unknown",
         "title": null
       },
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": "cap"
       },
       "score": {
         "keyword": 0,
@@ -4077,292 +3592,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "strangers",
-      "land_line": "Can receive your customers' email. No website.",
-      "reason": "An insertion variant of your domain with mail configured."
-    },
-    {
-      "domain": "namg.com",
-      "cls": "bitsquatting",
-      "prior": 0.3,
-      "registered": true,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": "Cloudflare, Inc.",
-        "nameservers": [
-          "cecelia.ns.cloudflare.com",
-          "chad.ns.cloudflare.com"
-        ],
-        "created": "1997-08-28T04:00:00Z",
-        "abuse_email": "registrar-abuse@cloudflare.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/namg.com"
-      },
-      "probe": {
-        "a": [
-          "104.18.30.91",
-          "104.18.31.91"
-        ],
-        "mx": [
-          "acrisure-com.mail.protection.outlook.com"
-        ],
-        "chain": [
-          "http://namg.com/"
-        ],
-        "final_host": "namg.com",
-        "kind": "live-other",
-        "title": "About Us"
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 3,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 3
-      },
-      "band": "strangers",
-      "land_line": "Live site titled ‘About Us’.",
-      "reason": "A bitsquatting variant of your domain with mail configured."
-    },
-    {
-      "domain": "nami.com",
-      "cls": "vowel-swap",
-      "prior": 0.5,
-      "registered": true,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": "eName Technology Co., Ltd.",
-        "nameservers": [
-          "vip3.alidns.com",
-          "vip4.alidns.com"
-        ],
-        "created": "1996-04-19T04:00:00Z",
-        "abuse_email": "abuse@ename.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/nami.com"
-      },
-      "probe": {
-        "a": [
-          "120.27.157.223"
-        ],
-        "mx": [
-          "hzmx01.mxmail.netease.com",
-          "hzmx02.mxmail.netease.com"
-        ],
-        "chain": [
-          "http://nami.com/",
-          "https://nami.com/",
-          "https://www.nami.com/",
-          "https://www.nami.com/zh"
-        ],
-        "final_host": "www.nami.com",
-        "kind": "live-other",
-        "title": "纳米数据 - 亚洲领先的体育赛事数据服务商，提供世界杯及足球篮球数据 API"
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 3,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 3
-      },
-      "band": "strangers",
-      "land_line": "Live site titled ‘纳米数据 - 亚洲领先的体育赛事数据服务商，提供世界杯及足球篮球数据 API’.",
-      "reason": "A vowel-swap variant of your domain with mail configured."
-    },
-    {
-      "domain": "namke.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": true,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": "Easyspace Limited",
-        "nameservers": [
-          "ns5.webhostingpad.com",
-          "ns6.webhostingpad.com"
-        ],
-        "created": "2001-01-15T17:30:54Z",
-        "abuse_email": "abuse@easyspace.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/namke.com"
-      },
-      "probe": {
-        "a": [
-          "162.244.94.41"
-        ],
-        "mx": [
-          "namke.com"
-        ],
-        "chain": [
-          "http://namke.com/"
-        ],
-        "final_host": "namke.com",
-        "kind": "live-other",
-        "title": "namke communications &#8211; audio visual creativity"
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 3,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 3
-      },
-      "band": "strangers",
-      "land_line": "Live site titled ‘namke communications &#8211; audio visual creativity’.",
-      "reason": "An insertion variant of your domain with mail configured."
-    },
-    {
-      "domain": "namm.com",
-      "cls": "bitsquatting",
-      "prior": 0.3,
-      "registered": true,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": "Amazon Registrar, Inc.",
-        "nameservers": [
-          "ns-1489.awsdns-58.org",
-          "ns-1802.awsdns-33.co.uk",
-          "ns-662.awsdns-18.net",
-          "ns-82.awsdns-10.com"
-        ],
-        "created": "1995-05-29T04:00:00Z",
-        "abuse_email": "trustandsafety@support.aws.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/namm.com"
-      },
-      "probe": {
-        "a": [
-          "54.149.62.76"
-        ],
-        "mx": [
-          "d121426a.ess.barracudanetworks.com",
-          "d121426b.ess.barracudanetworks.com"
-        ],
-        "chain": [
-          "http://namm.com/",
-          "https://www.namm.org"
-        ],
-        "final_host": "www.namm.org",
-        "kind": "mail-only",
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 3,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 3
-      },
-      "band": "strangers",
-      "land_line": "Can receive your customers' email. No website.",
-      "reason": "A bitsquatting variant of your domain with mail configured."
-    },
-    {
-      "domain": "namr.com",
-      "cls": "replacement",
-      "prior": 0.7,
-      "registered": true,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": "GoDaddy.com, LLC",
-        "nameservers": [
-          "ns67.domaincontrol.com",
-          "ns68.domaincontrol.com"
-        ],
-        "created": "2002-08-04T09:43:21Z",
-        "abuse_email": "abuse@godaddy.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/namr.com"
-      },
-      "probe": {
-        "a": [
-          "51.159.129.94"
-        ],
-        "mx": [
-          "com.mail.protection.outlook.com",
-          "aspmx2.googlemail.com",
-          "alt2.aspmx.l.google.com",
-          "aspmx.l.google.com",
-          "aspmx3.googlemail.com",
-          "aspmx.l.google.com"
-        ],
-        "chain": [
-          "http://namr.com/",
-          "https://namr.com/",
-          "https://namr.com/fr/"
-        ],
-        "final_host": "namr.com",
-        "kind": "live-other",
-        "title": "L&#039;IA pour décider de l&#039;avenir de l&#039;habitat | namR"
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 3,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 3
-      },
-      "band": "strangers",
-      "land_line": "Live site titled ‘L&#039;IA pour décider de l&#039;avenir de l&#039;habitat | namR’.",
-      "reason": "A replacement variant of your domain with mail configured."
+      "land_line": "Could not determine where this points.",
+      "reason": "An insertion variant of your domain with mail configured search not checked."
     },
     {
       "domain": "nams.com",
@@ -4397,13 +3632,14 @@
           "http://nams.com/"
         ],
         "final_host": "nams.com",
-        "kind": "mail-only",
+        "kind": "unknown",
         "title": null
       },
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": "cap"
       },
       "score": {
         "keyword": 0,
@@ -4412,11 +3648,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "strangers",
-      "land_line": "Can receive your customers' email. No website.",
-      "reason": "A replacement variant of your domain with mail configured."
+      "land_line": "Could not determine where this points.",
+      "reason": "A replacement variant of your domain with mail configured search not checked."
     },
     {
       "domain": "namw.com",
@@ -4454,7 +3691,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": "cap"
       },
       "score": {
         "keyword": 0,
@@ -4463,11 +3701,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "strangers",
       "land_line": "Could not determine where this points.",
-      "reason": "A replacement variant of your domain with mail configured."
+      "reason": "A replacement variant of your domain with mail configured search not checked."
     },
     {
       "domain": "naqme.com",
@@ -4507,7 +3746,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": "cap"
       },
       "score": {
         "keyword": 0,
@@ -4516,65 +3756,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "strangers",
       "land_line": "Live site, no title captured.",
-      "reason": "An insertion variant of your domain with mail configured."
-    },
-    {
-      "domain": "neme.com",
-      "cls": "vowel-swap",
-      "prior": 0.5,
-      "registered": true,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": "123-Reg Limited",
-        "nameservers": [
-          "ns3.networkdns.biz",
-          "ns4.networkdns.biz"
-        ],
-        "created": "1999-02-26T05:00:00Z",
-        "abuse_email": "abuse@123-reg.co.uk",
-        "source": "https://rdap.verisign.com/com/v1/domain/neme.com"
-      },
-      "probe": {
-        "a": [
-          "178.216.247.24"
-        ],
-        "mx": [
-          "neme.com"
-        ],
-        "chain": [
-          "http://neme.com/",
-          "https://neme.co.uk/"
-        ],
-        "final_host": "neme.co.uk",
-        "kind": "live-other",
-        "title": "Home | NEME"
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 3,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 3
-      },
-      "band": "strangers",
-      "land_line": "Live site titled ‘Home | NEME’.",
-      "reason": "A vowel-swap variant of your domain with mail configured."
+      "reason": "An insertion variant of your domain with mail configured search not checked."
     },
     {
       "domain": "nhame.com",
@@ -4612,7 +3799,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": "cap"
       },
       "score": {
         "keyword": 0,
@@ -4621,11 +3809,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "strangers",
       "land_line": "Can receive your customers' email. No website.",
-      "reason": "An insertion variant of your domain with mail configured."
+      "reason": "An insertion variant of your domain with mail configured search not checked."
     },
     {
       "domain": "njame.com",
@@ -4663,7 +3852,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": "cap"
       },
       "score": {
         "keyword": 0,
@@ -4672,11 +3862,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "strangers",
       "land_line": "Could not determine where this points.",
-      "reason": "An insertion variant of your domain with mail configured."
+      "reason": "An insertion variant of your domain with mail configured search not checked."
     },
     {
       "domain": "nome.com",
@@ -4714,7 +3905,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": "cap"
       },
       "score": {
         "keyword": 0,
@@ -4723,16 +3915,17 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 3
       },
       "band": "strangers",
       "land_line": "Could not determine where this points.",
-      "reason": "A vowel-swap variant of your domain with mail configured."
+      "reason": "A vowel-swap variant of your domain with mail configured search not checked."
     },
     {
-      "domain": "nume.com",
-      "cls": "vowel-swap",
-      "prior": 0.5,
+      "domain": "nae.com",
+      "cls": "omission",
+      "prior": 0.8,
       "registered": true,
       "authoritative": true,
       "availability": {
@@ -4741,255 +3934,49 @@
         "premium": null
       },
       "rdap": {
-        "registrar": "Moniker Online Services LLC",
+        "registrar": "GoDaddy Online Services Cayman Islands Ltd.",
         "nameservers": [
-          "ns3.afternic.com",
-          "ns4.afternic.com"
+          "lunlun.ns.giantpanda.com",
+          "yangyang.ns.giantpanda.com"
         ],
-        "created": "2001-05-05T10:42:05Z",
-        "abuse_email": "abuse@moniker.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/nume.com"
+        "created": "2000-11-01T11:32:25Z",
+        "abuse_email": "abuse@uniregistry.com",
+        "source": "https://rdap.verisign.com/com/v1/domain/nae.com"
       },
       "probe": {
         "a": [
-          "13.248.169.48",
-          "76.223.54.146"
+          "66.175.209.179",
+          "96.126.111.165",
+          "45.33.83.100",
+          "45.79.167.180"
         ],
-        "mx": [
-          ""
-        ],
+        "mx": [],
         "chain": [
-          "http://nume.com/"
+          "http://nae.com/"
         ],
-        "final_host": "nume.com",
+        "final_host": "nae.com",
         "kind": "live-other",
         "title": null
       },
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 3,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 3
-      },
-      "band": "strangers",
-      "land_line": "Live site, no title captured.",
-      "reason": "A vowel-swap variant of your domain with mail configured."
-    },
-    {
-      "domain": "jame.com",
-      "cls": "replacement",
-      "prior": 0.7,
-      "registered": true,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": "GoDaddy.com, LLC",
-        "nameservers": [
-          "ns77.domaincontrol.com",
-          "ns78.domaincontrol.com"
-        ],
-        "created": "2000-08-10T02:47:55Z",
-        "abuse_email": "abuse@godaddy.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/jame.com"
-      },
-      "probe": {
-        "a": [
-          "3.33.130.190",
-          "15.197.148.33"
-        ],
-        "mx": [],
-        "chain": [
-          "http://jame.com/"
-        ],
-        "final_host": "jame.com",
-        "kind": "live-other",
-        "title": null
-      },
-      "search": {
-        "checked": true,
-        "appears": true,
-        "first_title": "James"
+        "first_title": null,
+        "reason": "cap"
       },
       "score": {
         "keyword": 0,
         "mx": 0,
-        "search": 2,
-        "confusable": 0,
+        "search": 0,
+        "confusable": 2,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 2
       },
       "band": "strangers",
       "land_line": "Live site, no title captured.",
-      "reason": "A replacement variant of your domain found in search."
-    },
-    {
-      "domain": "nake.com",
-      "cls": "replacement",
-      "prior": 0.7,
-      "registered": true,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": "NameSilo, LLC",
-        "nameservers": [
-          "ns1.smartname.com",
-          "ns2.smartname.com"
-        ],
-        "created": "1998-04-21T04:00:00Z",
-        "abuse_email": "abuse@namesilo.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/nake.com"
-      },
-      "probe": {
-        "a": [
-          "15.197.204.56",
-          "3.33.243.145"
-        ],
-        "mx": [],
-        "chain": [],
-        "final_host": null,
-        "kind": "unknown",
-        "title": null
-      },
-      "search": {
-        "checked": true,
-        "appears": true,
-        "first_title": "https://www.nake.com/"
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 2,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 2
-      },
-      "band": "strangers",
-      "land_line": "Could not determine where this points.",
-      "reason": "A replacement variant of your domain found in search."
-    },
-    {
-      "domain": "namwe.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": true,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": "Name.com, Inc.",
-        "nameservers": [
-          "ns1.sedoparking.com",
-          "ns2.sedoparking.com"
-        ],
-        "created": "2010-11-03T19:00:20Z",
-        "abuse_email": "abuse@name.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/namwe.com"
-      },
-      "probe": {
-        "a": [
-          "64.190.63.222"
-        ],
-        "mx": [
-          "localhost"
-        ],
-        "chain": [
-          "http://namwe.com/"
-        ],
-        "final_host": "namwe.com",
-        "kind": "parked",
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 3,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": -1,
-        "total": 2
-      },
-      "band": "strangers",
-      "land_line": "Parked for sale.",
-      "reason": "An insertion variant of your domain with mail configured currently parked."
-    },
-    {
-      "domain": "nsme.com",
-      "cls": "replacement",
-      "prior": 0.7,
-      "registered": true,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": "GoDaddy.com, LLC",
-        "nameservers": [
-          "ns1.sedoparking.com",
-          "ns2.sedoparking.com"
-        ],
-        "created": "2001-05-07T23:45:29Z",
-        "abuse_email": "abuse@godaddy.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/nsme.com"
-      },
-      "probe": {
-        "a": [
-          "64.190.63.222"
-        ],
-        "mx": [
-          "localhost"
-        ],
-        "chain": [
-          "http://nsme.com/"
-        ],
-        "final_host": "nsme.com",
-        "kind": "parked",
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 3,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": -1,
-        "total": 2
-      },
-      "band": "strangers",
-      "land_line": "Parked for sale.",
-      "reason": "A replacement variant of your domain with mail configured currently parked."
+      "reason": "An omission variant of your domain search not checked."
     },
     {
       "domain": "hname.com",
@@ -5028,7 +4015,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": "cap"
       },
       "score": {
         "keyword": 0,
@@ -5037,11 +4025,66 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "strangers",
       "land_line": "Could not determine where this points.",
-      "reason": "An insertion variant of your domain."
+      "reason": "An insertion variant of your domain search not checked."
+    },
+    {
+      "domain": "jame.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": true,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": "GoDaddy.com, LLC",
+        "nameservers": [
+          "ns77.domaincontrol.com",
+          "ns78.domaincontrol.com"
+        ],
+        "created": "2000-08-10T02:47:55Z",
+        "abuse_email": "abuse@godaddy.com",
+        "source": "https://rdap.verisign.com/com/v1/domain/jame.com"
+      },
+      "probe": {
+        "a": [
+          "3.33.130.190",
+          "15.197.148.33"
+        ],
+        "mx": [],
+        "chain": [
+          "http://jame.com/"
+        ],
+        "final_host": "jame.com",
+        "kind": "live-other",
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": "cap"
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "strangers",
+      "land_line": "Live site, no title captured.",
+      "reason": "A replacement variant of your domain search not checked."
     },
     {
       "domain": "lame.com",
@@ -5079,7 +4122,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": "cap"
       },
       "score": {
         "keyword": 0,
@@ -5088,11 +4132,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "strangers",
       "land_line": "Could not determine where this points.",
-      "reason": "A bitsquatting variant of your domain."
+      "reason": "A bitsquatting variant of your domain search not checked."
     },
     {
       "domain": "mame.com",
@@ -5130,7 +4175,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": "cap"
       },
       "score": {
         "keyword": 0,
@@ -5139,11 +4185,66 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "strangers",
       "land_line": "Could not determine where this points.",
-      "reason": "A replacement variant of your domain."
+      "reason": "A replacement variant of your domain search not checked."
+    },
+    {
+      "domain": "mname.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": true,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": "Gabia, Inc.",
+        "nameservers": [
+          "ns1.afternic.com",
+          "ns2.afternic.com"
+        ],
+        "created": "2004-04-03T20:08:09Z",
+        "abuse_email": "abuse@gabia.com",
+        "source": "https://rdap.verisign.com/com/v1/domain/mname.com"
+      },
+      "probe": {
+        "a": [
+          "76.223.54.146",
+          "13.248.169.48"
+        ],
+        "mx": [],
+        "chain": [
+          "http://mname.com/"
+        ],
+        "final_host": "mname.com",
+        "kind": "live-other",
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": "cap"
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "strangers",
+      "land_line": "Live site, no title captured.",
+      "reason": "An insertion variant of your domain search not checked."
     },
     {
       "domain": "na-me.com",
@@ -5181,7 +4282,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": "cap"
       },
       "score": {
         "keyword": 0,
@@ -5190,11 +4292,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "strangers",
       "land_line": "Live site, no title captured.",
-      "reason": "A hyphenation variant of your domain."
+      "reason": "A hyphenation variant of your domain search not checked."
     },
     {
       "domain": "naame.com",
@@ -5235,7 +4338,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": "cap"
       },
       "score": {
         "keyword": 0,
@@ -5244,16 +4348,17 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "strangers",
       "land_line": "Could not determine where this points.",
-      "reason": "A repetition variant of your domain."
+      "reason": "A repetition variant of your domain search not checked."
     },
     {
-      "domain": "naee.com",
-      "cls": "bitsquatting",
-      "prior": 0.3,
+      "domain": "nake.com",
+      "cls": "replacement",
+      "prior": 0.7,
       "registered": true,
       "authoritative": true,
       "availability": {
@@ -5262,31 +4367,31 @@
         "premium": null
       },
       "rdap": {
-        "registrar": "GoDaddy.com, LLC",
+        "registrar": "NameSilo, LLC",
         "nameservers": [
-          "ns15.up99plus.com",
-          "ns16.up99plus.com"
+          "ns1.smartname.com",
+          "ns2.smartname.com"
         ],
-        "created": "2001-11-17T19:53:01Z",
-        "abuse_email": "abuse@godaddy.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/naee.com"
+        "created": "1998-04-21T04:00:00Z",
+        "abuse_email": "abuse@namesilo.com",
+        "source": "https://rdap.verisign.com/com/v1/domain/nake.com"
       },
       "probe": {
         "a": [
-          "95.216.63.199"
+          "15.197.204.56",
+          "3.33.243.145"
         ],
         "mx": [],
-        "chain": [
-          "http://naee.com/"
-        ],
-        "final_host": "naee.com",
-        "kind": "live-other",
-        "title": "Domain Name For Sale - contact: info@nucom.com"
+        "chain": [],
+        "final_host": null,
+        "kind": "unknown",
+        "title": null
       },
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": "cap"
       },
       "score": {
         "keyword": 0,
@@ -5295,16 +4400,17 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "strangers",
-      "land_line": "Live site titled ‘Domain Name For Sale - contact: info@nucom.com’.",
-      "reason": "A bitsquatting variant of your domain."
+      "land_line": "Could not determine where this points.",
+      "reason": "A replacement variant of your domain search not checked."
     },
     {
-      "domain": "nale.com",
-      "cls": "bitsquatting",
-      "prior": 0.3,
+      "domain": "namde.com",
+      "cls": "insertion",
+      "prior": 0.6,
       "registered": true,
       "authoritative": true,
       "availability": {
@@ -5313,31 +4419,33 @@
         "premium": null
       },
       "rdap": {
-        "registrar": "eName Technology Co., Ltd.",
+        "registrar": "Megazone Corp., dba HOSTING.KR",
         "nameservers": [
-          "ns1.ename.net",
-          "ns2.ename.net"
+          "ns1.afternic.com",
+          "ns2.afternic.com"
         ],
-        "created": "1997-10-01T04:00:00Z",
-        "abuse_email": "abuse@ename.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/nale.com"
+        "created": "2009-01-18T05:44:48Z",
+        "abuse_email": "abuse@hosting.kr",
+        "source": "https://rdap.verisign.com/com/v1/domain/namde.com"
       },
       "probe": {
         "a": [
-          "128.14.163.252"
+          "76.223.54.146",
+          "13.248.169.48"
         ],
         "mx": [],
         "chain": [
-          "http://nale.com/"
+          "http://namde.com/"
         ],
-        "final_host": "nale.com",
+        "final_host": "namde.com",
         "kind": "live-other",
-        "title": "nale.com"
+        "title": null
       },
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": "cap"
       },
       "score": {
         "keyword": 0,
@@ -5346,11 +4454,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "strangers",
-      "land_line": "Live site titled ‘nale.com’.",
-      "reason": "A bitsquatting variant of your domain."
+      "land_line": "Live site, no title captured.",
+      "reason": "An insertion variant of your domain search not checked."
     },
     {
       "domain": "namer.com",
@@ -5388,7 +4497,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": "cap"
       },
       "score": {
         "keyword": 0,
@@ -5397,11 +4507,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "strangers",
       "land_line": "Nothing answers.",
-      "reason": "An insertion variant of your domain."
+      "reason": "An insertion variant of your domain search not checked."
     },
     {
       "domain": "namew.com",
@@ -5435,7 +4546,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": "cap"
       },
       "score": {
         "keyword": 0,
@@ -5444,64 +4556,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "strangers",
       "land_line": "Nothing answers.",
-      "reason": "An insertion variant of your domain."
-    },
-    {
-      "domain": "namo.com",
-      "cls": "vowel-swap",
-      "prior": 0.5,
-      "registered": true,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": "GoDaddy.com, LLC",
-        "nameservers": [
-          "ns25.domaincontrol.com",
-          "ns26.domaincontrol.com"
-        ],
-        "created": "1997-06-24T04:00:00Z",
-        "abuse_email": "abuse@godaddy.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/namo.com"
-      },
-      "probe": {
-        "a": [
-          "15.197.225.128",
-          "3.33.251.168"
-        ],
-        "mx": [],
-        "chain": [
-          "http://namo.com/",
-          "https://mediaoptions.com"
-        ],
-        "final_host": "mediaoptions.com",
-        "kind": "unknown",
-        "title": null
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "strangers",
-      "land_line": "Could not determine where this points.",
-      "reason": "A vowel-swap variant of your domain."
+      "reason": "An insertion variant of your domain search not checked."
     },
     {
       "domain": "namre.com",
@@ -5539,7 +4599,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": "cap"
       },
       "score": {
         "keyword": 0,
@@ -5548,65 +4609,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "strangers",
       "land_line": "Could not determine where this points.",
-      "reason": "An insertion variant of your domain."
-    },
-    {
-      "domain": "namu.com",
-      "cls": "vowel-swap",
-      "prior": 0.5,
-      "registered": true,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": "Whois Corp.",
-        "nameservers": [
-          "ns1.whoisdomain.kr",
-          "ns2.whoisdomain.kr",
-          "ns3.whoisdomain.kr",
-          "ns4.whoisdomain.kr"
-        ],
-        "created": "1998-09-30T04:00:00Z",
-        "abuse_email": "abuse@whois.co.kr",
-        "source": "https://rdap.verisign.com/com/v1/domain/namu.com"
-      },
-      "probe": {
-        "a": [
-          "115.85.180.39",
-          "49.50.163.51"
-        ],
-        "mx": [],
-        "chain": [
-          "http://namu.com/"
-        ],
-        "final_host": "namu.com",
-        "kind": "live-other",
-        "title": "For sale"
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "strangers",
-      "land_line": "Live site titled ‘For sale’.",
-      "reason": "A vowel-swap variant of your domain."
+      "reason": "An insertion variant of your domain search not checked."
     },
     {
       "domain": "nanme.com",
@@ -5640,7 +4648,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": "cap"
       },
       "score": {
         "keyword": 0,
@@ -5649,11 +4658,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "strangers",
       "land_line": "Nothing answers.",
-      "reason": "An insertion variant of your domain."
+      "reason": "An insertion variant of your domain search not checked."
     },
     {
       "domain": "nbame.com",
@@ -5701,7 +4711,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": "cap"
       },
       "score": {
         "keyword": 0,
@@ -5710,62 +4721,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "strangers",
       "land_line": "Could not determine where this points.",
-      "reason": "An insertion variant of your domain."
-    },
-    {
-      "domain": "nime.com",
-      "cls": "vowel-swap",
-      "prior": 0.5,
-      "registered": true,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": "Gabia, Inc.",
-        "nameservers": [
-          "ns.domainca.com",
-          "ns2.domainca.com"
-        ],
-        "created": "2001-07-04T10:32:02Z",
-        "abuse_email": "abuse@gabia.com",
-        "source": "https://rdap.verisign.com/com/v1/domain/nime.com"
-      },
-      "probe": {
-        "a": [
-          "121.254.178.237"
-        ],
-        "mx": [],
-        "chain": [
-          "http://nime.com/"
-        ],
-        "final_host": "nime.com",
-        "kind": "live-other",
-        "title": "nime.com"
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "strangers",
-      "land_line": "Live site titled ‘nime.com’.",
-      "reason": "A vowel-swap variant of your domain."
+      "reason": "An insertion variant of your domain search not checked."
     },
     {
       "domain": "nmame.com",
@@ -5799,7 +4760,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": "cap"
       },
       "score": {
         "keyword": 0,
@@ -5808,62 +4770,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "strangers",
       "land_line": "Nothing answers.",
-      "reason": "An insertion variant of your domain."
-    },
-    {
-      "domain": "nqame.com",
-      "cls": "insertion",
-      "prior": 0.6,
-      "registered": true,
-      "authoritative": true,
-      "availability": {
-        "purchasable": false,
-        "price": null,
-        "premium": null
-      },
-      "rdap": {
-        "registrar": "E & Enterprise Cloud - Sole Proprietorship L.L.C",
-        "nameservers": [
-          "parkns1.nic.ae",
-          "parkns2.nic.ae"
-        ],
-        "created": "2022-04-07T05:01:07Z",
-        "abuse_email": "abuse@nic.ae",
-        "source": "https://rdap.verisign.com/com/v1/domain/nqame.com"
-      },
-      "probe": {
-        "a": [
-          "5.195.192.98"
-        ],
-        "mx": [],
-        "chain": [
-          "http://nqame.com/"
-        ],
-        "final_host": "nqame.com",
-        "kind": "live-other",
-        "title": "Etisalat Module Library -"
-      },
-      "search": {
-        "checked": false,
-        "appears": null,
-        "first_title": null
-      },
-      "score": {
-        "keyword": 0,
-        "mx": 0,
-        "search": 0,
-        "confusable": 0,
-        "recent": 0,
-        "parked": 0,
-        "total": 0
-      },
-      "band": "strangers",
-      "land_line": "Live site titled ‘Etisalat Module Library -’.",
-      "reason": "An insertion variant of your domain."
+      "reason": "An insertion variant of your domain search not checked."
     },
     {
       "domain": "nsame.com",
@@ -5888,8 +4800,8 @@
       },
       "probe": {
         "a": [
-          "172.67.157.241",
-          "104.21.74.116"
+          "104.21.74.116",
+          "172.67.157.241"
         ],
         "mx": [],
         "chain": [
@@ -5902,7 +4814,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": "cap"
       },
       "score": {
         "keyword": 0,
@@ -5911,11 +4824,66 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "strangers",
       "land_line": "Could not determine where this points.",
-      "reason": "An insertion variant of your domain."
+      "reason": "An insertion variant of your domain search not checked."
+    },
+    {
+      "domain": "nume.com",
+      "cls": "vowel-swap",
+      "prior": 0.5,
+      "registered": true,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": "Moniker Online Services LLC",
+        "nameservers": [
+          "ns3.afternic.com",
+          "ns4.afternic.com"
+        ],
+        "created": "2001-05-05T10:42:05Z",
+        "abuse_email": "abuse@moniker.com",
+        "source": "https://rdap.verisign.com/com/v1/domain/nume.com"
+      },
+      "probe": {
+        "a": [
+          "13.248.169.48",
+          "76.223.54.146"
+        ],
+        "mx": [],
+        "chain": [
+          "http://nume.com/"
+        ],
+        "final_host": "nume.com",
+        "kind": "live-other",
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": "cap"
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": 0,
+        "total": 0
+      },
+      "band": "strangers",
+      "land_line": "Live site, no title captured.",
+      "reason": "A vowel-swap variant of your domain search not checked."
     },
     {
       "domain": "nwame.com",
@@ -5954,7 +4922,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": "cap"
       },
       "score": {
         "keyword": 0,
@@ -5963,11 +4932,1263 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
+        "established": 0,
         "total": 0
       },
       "band": "strangers",
       "land_line": "Live site, no title captured.",
-      "reason": "An insertion variant of your domain."
+      "reason": "An insertion variant of your domain search not checked."
+    },
+    {
+      "domain": "naee.com",
+      "cls": "bitsquatting",
+      "prior": 0.3,
+      "registered": true,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": "GoDaddy.com, LLC",
+        "nameservers": [
+          "ns15.up99plus.com",
+          "ns16.up99plus.com"
+        ],
+        "created": "2001-11-17T19:53:01Z",
+        "abuse_email": "abuse@godaddy.com",
+        "source": "https://rdap.verisign.com/com/v1/domain/naee.com"
+      },
+      "probe": {
+        "a": [
+          "95.216.63.199"
+        ],
+        "mx": [],
+        "chain": [
+          "http://naee.com/"
+        ],
+        "final_host": "naee.com",
+        "kind": "parked",
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": "cap"
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": -1,
+        "established": 0,
+        "total": -1
+      },
+      "band": "strangers",
+      "land_line": "Parked for sale.",
+      "reason": "A bitsquatting variant of your domain search not checked currently parked."
+    },
+    {
+      "domain": "naie.com",
+      "cls": "bitsquatting",
+      "prior": 0.3,
+      "registered": true,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": "Spaceship, Inc.",
+        "nameservers": [
+          "5014.ns1.abovedomains.com",
+          "5014.ns2.abovedomains.com"
+        ],
+        "created": "2001-07-13T13:03:25Z",
+        "abuse_email": "abuse@spaceship.com",
+        "source": "https://rdap.verisign.com/com/v1/domain/naie.com"
+      },
+      "probe": {
+        "a": [
+          "103.224.182.248"
+        ],
+        "mx": [],
+        "chain": [
+          "http://naie.com/"
+        ],
+        "final_host": "naie.com",
+        "kind": "parked",
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": "cap"
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": -1,
+        "established": 0,
+        "total": -1
+      },
+      "band": "strangers",
+      "land_line": "Parked for sale.",
+      "reason": "A bitsquatting variant of your domain search not checked currently parked."
+    },
+    {
+      "domain": "namu.com",
+      "cls": "vowel-swap",
+      "prior": 0.5,
+      "registered": true,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": "Whois Corp.",
+        "nameservers": [
+          "ns1.whoisdomain.kr",
+          "ns2.whoisdomain.kr",
+          "ns3.whoisdomain.kr",
+          "ns4.whoisdomain.kr"
+        ],
+        "created": "1998-09-30T04:00:00Z",
+        "abuse_email": "abuse@whois.co.kr",
+        "source": "https://rdap.verisign.com/com/v1/domain/namu.com"
+      },
+      "probe": {
+        "a": [
+          "115.85.180.39",
+          "49.50.163.51"
+        ],
+        "mx": [],
+        "chain": [
+          "http://namu.com/"
+        ],
+        "final_host": "namu.com",
+        "kind": "parked",
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": "cap"
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": -1,
+        "established": 0,
+        "total": -1
+      },
+      "band": "strangers",
+      "land_line": "Parked for sale.",
+      "reason": "A vowel-swap variant of your domain search not checked currently parked."
+    },
+    {
+      "domain": "namwe.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": true,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": "Name.com, Inc.",
+        "nameservers": [
+          "ns1.sedoparking.com",
+          "ns2.sedoparking.com"
+        ],
+        "created": "2010-11-03T19:00:20Z",
+        "abuse_email": "abuse@name.com",
+        "source": "https://rdap.verisign.com/com/v1/domain/namwe.com"
+      },
+      "probe": {
+        "a": [
+          "64.190.63.222"
+        ],
+        "mx": [],
+        "chain": [
+          "http://namwe.com/"
+        ],
+        "final_host": "namwe.com",
+        "kind": "parked",
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": "cap"
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": -1,
+        "established": 0,
+        "total": -1
+      },
+      "band": "strangers",
+      "land_line": "Parked for sale.",
+      "reason": "An insertion variant of your domain search not checked currently parked."
+    },
+    {
+      "domain": "nqame.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": true,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": "E & Enterprise Cloud - Sole Proprietorship L.L.C",
+        "nameservers": [
+          "parkns1.nic.ae",
+          "parkns2.nic.ae"
+        ],
+        "created": "2022-04-07T05:01:07Z",
+        "abuse_email": "abuse@nic.ae",
+        "source": "https://rdap.verisign.com/com/v1/domain/nqame.com"
+      },
+      "probe": {
+        "a": [
+          "5.195.192.98"
+        ],
+        "mx": [],
+        "chain": [
+          "http://nqame.com/"
+        ],
+        "final_host": "nqame.com",
+        "kind": "parked",
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": "cap"
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": -1,
+        "established": 0,
+        "total": -1
+      },
+      "band": "strangers",
+      "land_line": "Parked for sale.",
+      "reason": "An insertion variant of your domain search not checked currently parked."
+    },
+    {
+      "domain": "nsme.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": true,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": "GoDaddy.com, LLC",
+        "nameservers": [
+          "ns1.sedoparking.com",
+          "ns2.sedoparking.com"
+        ],
+        "created": "2001-05-07T23:45:29Z",
+        "abuse_email": "abuse@godaddy.com",
+        "source": "https://rdap.verisign.com/com/v1/domain/nsme.com"
+      },
+      "probe": {
+        "a": [
+          "64.190.63.222"
+        ],
+        "mx": [],
+        "chain": [
+          "http://nsme.com/"
+        ],
+        "final_host": "nsme.com",
+        "kind": "parked",
+        "title": null
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": "cap"
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": -1,
+        "established": 0,
+        "total": -1
+      },
+      "band": "strangers",
+      "land_line": "Parked for sale.",
+      "reason": "A replacement variant of your domain search not checked currently parked."
+    },
+    {
+      "domain": "ame.com",
+      "cls": "omission",
+      "prior": 0.8,
+      "registered": true,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": "Network Solutions, LLC",
+        "nameservers": [
+          "ns69.worldnic.com",
+          "ns70.worldnic.com"
+        ],
+        "created": "1994-11-16T05:00:00Z",
+        "abuse_email": "domain.operations@web.com",
+        "source": "https://rdap.verisign.com/com/v1/domain/ame.com"
+      },
+      "probe": {
+        "a": [
+          "104.19.232.38",
+          "104.19.233.38"
+        ],
+        "mx": [
+          "usb-smtp-inbound-1.mimecast.com",
+          "usb-smtp-inbound-2.mimecast.com"
+        ],
+        "chain": [
+          "http://ame.com/",
+          "https://ame.com/",
+          "https://hennigworldwide.com/"
+        ],
+        "final_host": "hennigworldwide.com",
+        "kind": "live-other",
+        "title": "Machine Tool Peripherals & Specialty Products | Hennig"
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": "cap"
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 3,
+        "search": 0,
+        "confusable": 2,
+        "recent": 0,
+        "parked": 0,
+        "established": -3,
+        "total": 2
+      },
+      "band": "strangers",
+      "land_line": "Established site since 1994, probably unrelated to you.",
+      "reason": "An omission variant of your domain with mail configured search not checked."
+    },
+    {
+      "domain": "nam.com",
+      "cls": "omission",
+      "prior": 0.8,
+      "registered": true,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": "Tucows Domains Inc.",
+        "nameservers": [
+          "ns1.digimedia.com",
+          "ns2.digimedia.com"
+        ],
+        "created": "1997-12-30T05:00:00Z",
+        "abuse_email": "domainabuse@tucows.com",
+        "source": "https://rdap.verisign.com/com/v1/domain/nam.com"
+      },
+      "probe": {
+        "a": [
+          "54.235.96.128"
+        ],
+        "mx": [
+          "0.0.0.0"
+        ],
+        "chain": [
+          "http://nam.com/",
+          "http://www.nam.com/"
+        ],
+        "final_host": "www.nam.com",
+        "kind": "live-other",
+        "title": "nam.com"
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": "cap"
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 3,
+        "search": 0,
+        "confusable": 2,
+        "recent": 0,
+        "parked": 0,
+        "established": -3,
+        "total": 2
+      },
+      "band": "strangers",
+      "land_line": "Established site since 1997, probably unrelated to you.",
+      "reason": "An omission variant of your domain with mail configured search not checked."
+    },
+    {
+      "domain": "narne.com",
+      "cls": "homoglyph",
+      "prior": 0.9,
+      "registered": true,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": "Network Solutions, LLC",
+        "nameservers": [
+          "ns1.md-23.webhostbox.net",
+          "ns2.md-23.webhostbox.net"
+        ],
+        "created": "1998-01-12T05:00:00Z",
+        "abuse_email": "domain.operations@web.com",
+        "source": "https://rdap.verisign.com/com/v1/domain/narne.com"
+      },
+      "probe": {
+        "a": [
+          "208.91.199.124"
+        ],
+        "mx": [
+          "mail.narne.com"
+        ],
+        "chain": [
+          "http://narne.com/",
+          "https://www.narne.com/"
+        ],
+        "final_host": "www.narne.com",
+        "kind": "live-other",
+        "title": "Narne Group &#8211; Shaping Desires &amp; Homes"
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": "cap"
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 3,
+        "search": 0,
+        "confusable": 2,
+        "recent": 0,
+        "parked": 0,
+        "established": -3,
+        "total": 2
+      },
+      "band": "strangers",
+      "land_line": "Established site since 1998, probably unrelated to you.",
+      "reason": "A homoglyph variant of your domain with mail configured search not checked."
+    },
+    {
+      "domain": "nme.com",
+      "cls": "omission",
+      "prior": 0.8,
+      "registered": true,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": "Amazon Registrar, Inc.",
+        "nameservers": [
+          "ns-1202.awsdns-22.org",
+          "ns-1706.awsdns-21.co.uk",
+          "ns-347.awsdns-43.com",
+          "ns-712.awsdns-25.net"
+        ],
+        "created": "1996-02-27T05:00:00Z",
+        "abuse_email": "trustandsafety@support.aws.com",
+        "source": "https://rdap.verisign.com/com/v1/domain/nme.com"
+      },
+      "probe": {
+        "a": [
+          "13.249.205.120",
+          "13.249.205.113",
+          "13.249.205.40",
+          "13.249.205.50"
+        ],
+        "mx": [
+          "aspmx.l.google.com",
+          "aspmx2.googlemail.com",
+          "aspmx3.googlemail.com",
+          "alt1.aspmx.l.google.com",
+          "alt2.aspmx.l.google.com"
+        ],
+        "chain": [
+          "http://nme.com/",
+          "https://nme.com/",
+          "https://www.nme.com/"
+        ],
+        "final_host": "www.nme.com",
+        "kind": "live-other",
+        "title": "NME | Music, Film, TV, Gaming &amp; Pop Culture News"
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": "cap"
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 3,
+        "search": 0,
+        "confusable": 2,
+        "recent": 0,
+        "parked": 0,
+        "established": -3,
+        "total": 2
+      },
+      "band": "strangers",
+      "land_line": "Established site since 1996, probably unrelated to you.",
+      "reason": "An omission variant of your domain with mail configured search not checked."
+    },
+    {
+      "domain": "anme.com",
+      "cls": "transposition",
+      "prior": 0.8,
+      "registered": true,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": "GoDaddy.com, LLC",
+        "nameservers": [
+          "ns69.domaincontrol.com",
+          "ns70.domaincontrol.com"
+        ],
+        "created": "2001-11-15T20:05:32Z",
+        "abuse_email": "abuse@godaddy.com",
+        "source": "https://rdap.verisign.com/com/v1/domain/anme.com"
+      },
+      "probe": {
+        "a": [
+          "15.197.225.128",
+          "3.33.251.168"
+        ],
+        "mx": [
+          "smtp.secureserver.net",
+          "mailstore1.secureserver.net"
+        ],
+        "chain": [
+          "http://anme.com/",
+          "http://anmefounders.com",
+          "https://anmefounders.com/"
+        ],
+        "final_host": "anmefounders.com",
+        "kind": "live-other",
+        "title": "ANME Founders Show 2026 | B2B Adult Trade Show | Los Angeles"
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": "cap"
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 3,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": -3,
+        "total": 0
+      },
+      "band": "strangers",
+      "land_line": "Established site since 2001, probably unrelated to you.",
+      "reason": "A transposition variant of your domain with mail configured search not checked."
+    },
+    {
+      "domain": "named.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": true,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": "GoDaddy.com, LLC",
+        "nameservers": [
+          "cory.ns.cloudflare.com",
+          "emily.ns.cloudflare.com"
+        ],
+        "created": "1996-02-29T05:00:00Z",
+        "abuse_email": "abuse@godaddy.com",
+        "source": "https://rdap.verisign.com/com/v1/domain/named.com"
+      },
+      "probe": {
+        "a": [
+          "43.202.128.216",
+          "52.78.245.159"
+        ],
+        "mx": [
+          "aspmx.l.google.com",
+          "alt3.aspmx.l.google.com",
+          "alt4.aspmx.l.google.com",
+          "alt1.aspmx.l.google.com",
+          "alt2.aspmx.l.google.com"
+        ],
+        "chain": [
+          "http://named.com/",
+          "https://named.com/",
+          "https://xn--950bo4em5v.kr",
+          "https://www.xn--950bo4em5v.kr/"
+        ],
+        "final_host": "www.xn--950bo4em5v.kr",
+        "kind": "live-other",
+        "title": "Named | 네임드"
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": "cap"
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 3,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": -3,
+        "total": 0
+      },
+      "band": "strangers",
+      "land_line": "Established site since 1996, probably unrelated to you.",
+      "reason": "An insertion variant of your domain with mail configured search not checked."
+    },
+    {
+      "domain": "namee.com",
+      "cls": "repetition",
+      "prior": 0.5,
+      "registered": true,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": "GoDaddy.com, LLC",
+        "nameservers": [
+          "ns-cloud-b1.googledomains.com",
+          "ns-cloud-b2.googledomains.com",
+          "ns-cloud-b3.googledomains.com",
+          "ns-cloud-b4.googledomains.com"
+        ],
+        "created": "2002-03-24T20:37:59Z",
+        "abuse_email": "abuse@godaddy.com",
+        "source": "https://rdap.verisign.com/com/v1/domain/namee.com"
+      },
+      "probe": {
+        "a": [
+          "34.116.166.35"
+        ],
+        "mx": [
+          "alt2.aspmx.l.google.com",
+          "alt1.aspmx.l.google.com",
+          "alt4.aspmx.l.google.com",
+          "aspmx.l.google.com",
+          "alt3.aspmx.l.google.com"
+        ],
+        "chain": [
+          "http://namee.com/",
+          "https://namee.com/"
+        ],
+        "final_host": "namee.com",
+        "kind": "live-other",
+        "title": "Personalized Books for Kids &amp; Families | NAMEE"
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": "cap"
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 3,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": -3,
+        "total": 0
+      },
+      "band": "strangers",
+      "land_line": "Established site since 2002, probably unrelated to you.",
+      "reason": "A repetition variant of your domain with mail configured search not checked."
+    },
+    {
+      "domain": "namg.com",
+      "cls": "bitsquatting",
+      "prior": 0.3,
+      "registered": true,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": "Cloudflare, Inc.",
+        "nameservers": [
+          "cecelia.ns.cloudflare.com",
+          "chad.ns.cloudflare.com"
+        ],
+        "created": "1997-08-28T04:00:00Z",
+        "abuse_email": "registrar-abuse@cloudflare.com",
+        "source": "https://rdap.verisign.com/com/v1/domain/namg.com"
+      },
+      "probe": {
+        "a": [
+          "104.18.30.91",
+          "104.18.31.91"
+        ],
+        "mx": [
+          "acrisure-com.mail.protection.outlook.com"
+        ],
+        "chain": [
+          "http://namg.com/"
+        ],
+        "final_host": "namg.com",
+        "kind": "live-other",
+        "title": "About Us"
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": "cap"
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 3,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": -3,
+        "total": 0
+      },
+      "band": "strangers",
+      "land_line": "Established site since 1997, probably unrelated to you.",
+      "reason": "A bitsquatting variant of your domain with mail configured search not checked."
+    },
+    {
+      "domain": "nami.com",
+      "cls": "vowel-swap",
+      "prior": 0.5,
+      "registered": true,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": "eName Technology Co., Ltd.",
+        "nameservers": [
+          "vip3.alidns.com",
+          "vip4.alidns.com"
+        ],
+        "created": "1996-04-19T04:00:00Z",
+        "abuse_email": "abuse@ename.com",
+        "source": "https://rdap.verisign.com/com/v1/domain/nami.com"
+      },
+      "probe": {
+        "a": [
+          "120.27.157.223"
+        ],
+        "mx": [
+          "hzmx01.mxmail.netease.com",
+          "hzmx02.mxmail.netease.com"
+        ],
+        "chain": [
+          "http://nami.com/",
+          "https://nami.com/",
+          "https://www.nami.com/",
+          "https://www.nami.com/zh"
+        ],
+        "final_host": "www.nami.com",
+        "kind": "live-other",
+        "title": "纳米数据 - 亚洲领先的体育赛事数据服务商，提供世界杯及足球篮球数据 API"
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": "cap"
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 3,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": -3,
+        "total": 0
+      },
+      "band": "strangers",
+      "land_line": "Established site since 1996, probably unrelated to you.",
+      "reason": "A vowel-swap variant of your domain with mail configured search not checked."
+    },
+    {
+      "domain": "namke.com",
+      "cls": "insertion",
+      "prior": 0.6,
+      "registered": true,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": "Easyspace Limited",
+        "nameservers": [
+          "ns5.webhostingpad.com",
+          "ns6.webhostingpad.com"
+        ],
+        "created": "2001-01-15T17:30:54Z",
+        "abuse_email": "abuse@easyspace.com",
+        "source": "https://rdap.verisign.com/com/v1/domain/namke.com"
+      },
+      "probe": {
+        "a": [
+          "162.244.94.41"
+        ],
+        "mx": [
+          "namke.com"
+        ],
+        "chain": [
+          "http://namke.com/"
+        ],
+        "final_host": "namke.com",
+        "kind": "live-other",
+        "title": "namke communications &#8211; audio visual creativity"
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": "cap"
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 3,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": -3,
+        "total": 0
+      },
+      "band": "strangers",
+      "land_line": "Established site since 2001, probably unrelated to you.",
+      "reason": "An insertion variant of your domain with mail configured search not checked."
+    },
+    {
+      "domain": "namm.com",
+      "cls": "bitsquatting",
+      "prior": 0.3,
+      "registered": true,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": "Amazon Registrar, Inc.",
+        "nameservers": [
+          "ns-1489.awsdns-58.org",
+          "ns-1802.awsdns-33.co.uk",
+          "ns-662.awsdns-18.net",
+          "ns-82.awsdns-10.com"
+        ],
+        "created": "1995-05-29T04:00:00Z",
+        "abuse_email": "trustandsafety@support.aws.com",
+        "source": "https://rdap.verisign.com/com/v1/domain/namm.com"
+      },
+      "probe": {
+        "a": [
+          "54.149.62.76"
+        ],
+        "mx": [
+          "d121426a.ess.barracudanetworks.com",
+          "d121426b.ess.barracudanetworks.com"
+        ],
+        "chain": [
+          "http://namm.com/",
+          "https://www.namm.org"
+        ],
+        "final_host": "www.namm.org",
+        "kind": "live-other",
+        "title": "NAMM – Believe in Music | NAMM.org"
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": "cap"
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 3,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": -3,
+        "total": 0
+      },
+      "band": "strangers",
+      "land_line": "Established site since 1995, probably unrelated to you.",
+      "reason": "A bitsquatting variant of your domain with mail configured search not checked."
+    },
+    {
+      "domain": "namr.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": true,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": "GoDaddy.com, LLC",
+        "nameservers": [
+          "ns67.domaincontrol.com",
+          "ns68.domaincontrol.com"
+        ],
+        "created": "2002-08-04T09:43:21Z",
+        "abuse_email": "abuse@godaddy.com",
+        "source": "https://rdap.verisign.com/com/v1/domain/namr.com"
+      },
+      "probe": {
+        "a": [
+          "51.159.129.94"
+        ],
+        "mx": [
+          "com.mail.protection.outlook.com",
+          "aspmx2.googlemail.com",
+          "alt2.aspmx.l.google.com",
+          "aspmx.l.google.com",
+          "aspmx3.googlemail.com",
+          "aspmx.l.google.com"
+        ],
+        "chain": [
+          "http://namr.com/",
+          "https://namr.com/",
+          "https://namr.com/fr/"
+        ],
+        "final_host": "namr.com",
+        "kind": "live-other",
+        "title": "L&#039;IA pour décider de l&#039;avenir de l&#039;habitat | namR"
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": "cap"
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 3,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": -3,
+        "total": 0
+      },
+      "band": "strangers",
+      "land_line": "Established site since 2002, probably unrelated to you.",
+      "reason": "A replacement variant of your domain with mail configured search not checked."
+    },
+    {
+      "domain": "neme.com",
+      "cls": "vowel-swap",
+      "prior": 0.5,
+      "registered": true,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": "123-Reg Limited",
+        "nameservers": [
+          "ns3.networkdns.biz",
+          "ns4.networkdns.biz"
+        ],
+        "created": "1999-02-26T05:00:00Z",
+        "abuse_email": "abuse@123-reg.co.uk",
+        "source": "https://rdap.verisign.com/com/v1/domain/neme.com"
+      },
+      "probe": {
+        "a": [
+          "178.216.247.24"
+        ],
+        "mx": [
+          "neme.com"
+        ],
+        "chain": [
+          "http://neme.com/",
+          "https://neme.co.uk/"
+        ],
+        "final_host": "neme.co.uk",
+        "kind": "live-other",
+        "title": "Home | NEME"
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": "cap"
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 3,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": -3,
+        "total": 0
+      },
+      "band": "strangers",
+      "land_line": "Established site since 1999, probably unrelated to you.",
+      "reason": "A vowel-swap variant of your domain with mail configured search not checked."
+    },
+    {
+      "domain": "nwme.com",
+      "cls": "replacement",
+      "prior": 0.7,
+      "registered": true,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": "GoDaddy.com, LLC",
+        "nameservers": [
+          "ns111d.hostwhitelabel.com",
+          "ns211d.hostwhitelabel.com",
+          "ns311d.hostwhitelabel.com"
+        ],
+        "created": "2004-04-27T19:06:21Z",
+        "abuse_email": "abuse@godaddy.com",
+        "source": "https://rdap.verisign.com/com/v1/domain/nwme.com"
+      },
+      "probe": {
+        "a": [
+          "104.152.168.44"
+        ],
+        "mx": [
+          "mail.nwme.com"
+        ],
+        "chain": [
+          "http://nwme.com/"
+        ],
+        "final_host": "nwme.com",
+        "kind": "live-other",
+        "title": "NWME &#8211; Global distributor of mobile devices and accessories."
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": "cap"
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 3,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": -3,
+        "total": 0
+      },
+      "band": "strangers",
+      "land_line": "Established site since 2004, probably unrelated to you.",
+      "reason": "A replacement variant of your domain with mail configured search not checked."
+    },
+    {
+      "domain": "nale.com",
+      "cls": "bitsquatting",
+      "prior": 0.3,
+      "registered": true,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": "eName Technology Co., Ltd.",
+        "nameservers": [
+          "ns1.ename.net",
+          "ns2.ename.net"
+        ],
+        "created": "1997-10-01T04:00:00Z",
+        "abuse_email": "abuse@ename.com",
+        "source": "https://rdap.verisign.com/com/v1/domain/nale.com"
+      },
+      "probe": {
+        "a": [
+          "128.14.163.252"
+        ],
+        "mx": [],
+        "chain": [
+          "http://nale.com/"
+        ],
+        "final_host": "nale.com",
+        "kind": "live-other",
+        "title": "nale.com"
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": "cap"
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": -3,
+        "total": -3
+      },
+      "band": "strangers",
+      "land_line": "Established site since 1997, probably unrelated to you.",
+      "reason": "A bitsquatting variant of your domain search not checked."
+    },
+    {
+      "domain": "nime.com",
+      "cls": "vowel-swap",
+      "prior": 0.5,
+      "registered": true,
+      "authoritative": true,
+      "availability": {
+        "purchasable": false,
+        "price": null,
+        "premium": null
+      },
+      "rdap": {
+        "registrar": "Gabia, Inc.",
+        "nameservers": [
+          "ns.domainca.com",
+          "ns2.domainca.com"
+        ],
+        "created": "2001-07-04T10:32:02Z",
+        "abuse_email": "abuse@gabia.com",
+        "source": "https://rdap.verisign.com/com/v1/domain/nime.com"
+      },
+      "probe": {
+        "a": [
+          "121.254.178.237"
+        ],
+        "mx": [],
+        "chain": [
+          "http://nime.com/"
+        ],
+        "final_host": "nime.com",
+        "kind": "live-other",
+        "title": "nime.com"
+      },
+      "search": {
+        "checked": false,
+        "appears": null,
+        "first_title": null,
+        "reason": "cap"
+      },
+      "score": {
+        "keyword": 0,
+        "mx": 0,
+        "search": 0,
+        "confusable": 0,
+        "recent": 0,
+        "parked": 0,
+        "established": -3,
+        "total": -3
+      },
+      "band": "strangers",
+      "land_line": "Established site since 2001, probably unrelated to you.",
+      "reason": "A vowel-swap variant of your domain search not checked."
     },
     {
       "domain": "nzme.com",
@@ -5992,8 +6213,8 @@
       },
       "probe": {
         "a": [
-          "172.67.154.250",
-          "104.21.72.207"
+          "104.21.72.207",
+          "172.67.154.250"
         ],
         "mx": [],
         "chain": [
@@ -6007,7 +6228,8 @@
       "search": {
         "checked": false,
         "appears": null,
-        "first_title": null
+        "first_title": null,
+        "reason": "cap"
       },
       "score": {
         "keyword": 0,
@@ -6016,11 +6238,12 @@
         "confusable": 0,
         "recent": 0,
         "parked": 0,
-        "total": 0
+        "established": -3,
+        "total": -3
       },
       "band": "strangers",
-      "land_line": "Live site titled ‘NZME. - New Zealand's Largest Multi-Media Company’.",
-      "reason": "A replacement variant of your domain."
+      "land_line": "Established site since 2014, probably unrelated to you.",
+      "reason": "A replacement variant of your domain search not checked."
     }
   ],
   "footer": {
@@ -6030,16 +6253,70 @@
     "truncated_from": null
   },
   "prices": {
-    "top5_sum": 1656.21,
+    "top5_sum": 64.95,
     "top5_domains": [
       "account-name.com",
-      "accountname.com",
       "billing-name.com",
       "billingname.com",
-      "help-name.com"
-    ]
+      "help-name.com",
+      "login-name.com"
+    ],
+    "top5_priced_count": 5,
+    "top5_total_count": 5
   },
   "replay": false,
   "replay_label": null,
-  "slowed_down": false
+  "slowed_down": false,
+  "suggestions": [
+    {
+      "domain_name": "name.com",
+      "purchasable": false,
+      "price": null
+    },
+    {
+      "domain_name": "name.net",
+      "purchasable": false,
+      "price": null
+    },
+    {
+      "domain_name": "name.org",
+      "purchasable": false,
+      "price": null
+    },
+    {
+      "domain_name": "name.lol",
+      "purchasable": false,
+      "price": null
+    },
+    {
+      "domain_name": "names.store",
+      "purchasable": true,
+      "price": 3125.0
+    },
+    {
+      "domain_name": "names.name",
+      "purchasable": false,
+      "price": null
+    },
+    {
+      "domain_name": "names.lol",
+      "purchasable": false,
+      "price": null
+    },
+    {
+      "domain_name": "names.tech",
+      "purchasable": true,
+      "price": 1562.5
+    },
+    {
+      "domain_name": "names.fun",
+      "purchasable": true,
+      "price": 3125.0
+    },
+    {
+      "domain_name": "term.store",
+      "purchasable": true,
+      "price": 781.25
+    }
+  ]
 }

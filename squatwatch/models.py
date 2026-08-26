@@ -83,6 +83,7 @@ class ScoreBreakdown(BaseModel):
     confusable: int = 0
     recent: int = 0
     parked: int = 0
+    established: int = 0
     total: int = 0
 
 

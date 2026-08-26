@@ -1,16 +1,14 @@
-<div class="border border-slate-200 rounded-md p-3 bg-slate-50">
-  <p class="text-xs text-slate-500 mb-2">{{ sandbox_label }}</p>
-  <ul class="space-y-2 text-sm">
+<div class="lg-panel">
+  <p class="lg-fine-print" style="margin-bottom:8px;">{{ sandbox_label }}</p>
+  <ul class="lg-mono-list" style="padding-left:0;">
     {% for item in results %}
-      <li>
-        <span class="font-mono">{{ item.domain }}</span>
+      <li style="font-family:'IBM Plex Mono', monospace; font-size:13px;">
+        <span style="color:var(--lg-ink-full);">{{ item.domain }}</span>
         {% if item.status == "ok" %}
-          <span class="text-emerald-700">registered (sandbox), pointed home via {{ item.pointed_home_via }}</span>
-          {% if item.production_price %}
-            <span class="text-slate-400">&middot; production price ${{ "%.2f"|format(item.production_price) }}/yr</span>
-          {% endif %}
+          <span style="color:var(--lg-green);">registered (sandbox), pointed home via {{ item.pointed_home_via }}</span>
+          {% if item.production_price %}<span style="color:var(--lg-faint);">&middot; production price ${{ "%.2f"|format(item.production_price) }}/yr</span>{% endif %}
         {% else %}
-          <span class="text-red-700">failed: {{ item.error }}</span>
+          <span style="color:var(--lg-red);">failed: {{ item.error }}</span>
         {% endif %}
       </li>
     {% endfor %}

@@ -69,12 +69,11 @@ def _full_score(card: Card) -> ScoreBreakdown:
     confusable = 2 if card.cls in _CONFUSABLE_CLASSES else 0
     recent = 1 if _created_within_window(card.rdap.created) else 0
     parked = -1 if card.probe.kind == ProbeKind.PARKED else 0
-    total = keyword + mx + search + confusable + recent + parked
-    if is_established_unrelated(card):
-        total += _ESTABLISHED_PENALTY
+    established = _ESTABLISHED_PENALTY if is_established_unrelated(card) else 0
+    total = keyword + mx + search + confusable + recent + parked + established
     return ScoreBreakdown(
         keyword=keyword, mx=mx, search=search, confusable=confusable,
-        recent=recent, parked=parked, total=total,
+        recent=recent, parked=parked, established=established, total=total,
     )
 
 

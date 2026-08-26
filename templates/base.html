@@ -1,14 +1,54 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" class="dark">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script>
+    (function () {
+      try {
+        if (localStorage.getItem("typowatch-theme") === "light") {
+          document.documentElement.classList.remove("dark");
+        }
+      } catch (e) {
+        /* any failure path lands on dark, the server-rendered default */
+      }
+    })();
+  </script>
   <title>{% block title %}typo.watch{% endblock %}</title>
   {% block og %}{% endblock %}
   <link rel="stylesheet" href="/static/app.css">
   <script src="/static/htmx.min.js" defer></script>
 </head>
-<body class="bg-white text-slate-900 antialiased min-h-screen">
-  {% block body %}{% endblock %}
+<body class="lg-body antialiased min-h-screen">
+  <div class="lg-shell">
+    <header class="lg-header">
+      <span class="lg-wordmark">TYPO.WATCH</span>
+      <div class="lg-header-right">
+        <a class="lg-header-link" href="/methodology">Methodology</a>
+        <button type="button" class="lg-toggle" id="theme-toggle" aria-label="switch color mode">dark</button>
+      </div>
+    </header>
+    {% block body %}{% endblock %}
+  </div>
+  <script>
+    (function () {
+      var btn = document.getElementById("theme-toggle");
+      if (!btn) return;
+      function sync() {
+        btn.textContent = document.documentElement.classList.contains("dark") ? "dark" : "light";
+      }
+      sync();
+      btn.addEventListener("click", function () {
+        var root = document.documentElement;
+        root.classList.toggle("dark");
+        try {
+          localStorage.setItem("typowatch-theme", root.classList.contains("dark") ? "dark" : "light");
+        } catch (e) {
+          /* storage unavailable — mode still toggles for this page view */
+        }
+        sync();
+      });
+    })();
+  </script>
 </body>
 </html>

@@ -125,6 +125,47 @@ def test_established_unrelated_downgrades_sorts_last_and_relabels():
     assert [c.domain for c in ordered] == ["darkone.com", "nme.com"]
 
 
+def test_score_breakdown_components_sum_to_total_on_a_demoted_card():
+    """A2 (project_brief.md Section 9e): the -3 established penalty used
+    to be folded into `total` with no component field, so the evidence
+    panel's rendered lines (keyword/mx/search/confusable/recent/parked)
+    summed to a number that didn't match the displayed total. Every
+    component, including `established`, must now sum to `total`."""
+    old_created = (datetime.now(timezone.utc) - timedelta(days=365 * 28)).isoformat()
+    demoted = score_and_band(
+        _card(
+            domain="nme.com",
+            cls="replacement",
+            registered=True,
+            probe=ProbeInfo(kind=ProbeKind.LIVE_OTHER, title="NME | Music News, Reviews"),
+            rdap=RdapInfo(created=old_created),
+        )
+    )
+    b = demoted.score
+    assert b.total == -3
+    assert b.keyword + b.mx + b.search + b.confusable + b.recent + b.parked + b.established == b.total
+    assert b.established == -3
+
+
+def test_score_breakdown_established_is_zero_and_unrendered_line_when_not_demoted():
+    """A non-demoted card's `established` component is 0 -- the template
+    guard (`_macros.html`) only renders the "established, likely
+    unrelated" line when this field is non-zero."""
+    recent_created = (datetime.now(timezone.utc) - timedelta(days=30)).isoformat()
+    untouched = score_and_band(
+        _card(
+            domain="drvnetwork.com",
+            cls="replacement",
+            registered=True,
+            probe=ProbeInfo(kind=ProbeKind.MAIL_ONLY, mx=["mail.drvnetwork.com"]),
+            rdap=RdapInfo(created=recent_created),
+        )
+    )
+    b = untouched.score
+    assert b.established == 0
+    assert b.keyword + b.mx + b.search + b.confusable + b.recent + b.parked + b.established == b.total
+
+
 def test_established_unrelated_wording_matches_rank_py_not_brand_relative():
     """Section 9c A5: rank.py's rule is registration age at scan time
     (datetime.now() - rdap.created), never brand-relative — so neither

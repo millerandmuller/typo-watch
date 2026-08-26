@@ -1,7 +1,7 @@
-<div class="border border-slate-200 rounded-md p-3 bg-slate-50">
+<div class="lg-panel">
   <div class="flex items-center justify-between">
-    <p class="text-xs text-slate-500">Draft, not sent.</p>
-    <button type="button" class="text-xs underline" onclick="navigator.clipboard.writeText(document.getElementById('notice-text').textContent)">copy</button>
+    <p class="lg-fine-print">Draft, not sent.</p>
+    <button type="button" class="lg-link bg-transparent border-0 p-0 cursor-pointer" style="font-size:11px;" onclick="navigator.clipboard.writeText(document.getElementById('notice-text').textContent)">copy</button>
   </div>
-  <pre id="notice-text" class="mt-2 text-xs whitespace-pre-wrap">{{ draft }}</pre>
+  <pre id="notice-text" class="lg-evidence-pre whitespace-pre-wrap">{{ draft }}</pre>
 </div>

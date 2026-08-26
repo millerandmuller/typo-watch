@@ -101,7 +101,12 @@ def _bands_context(result):
 
 
 def _watch_diff_for(result):
-    if not _store.is_watched(result.brand):
+    # A frozen brand (project_brief.md Section 9c) counts as watched by
+    # default -- its curated seed pair is the whole point of freezing it,
+    # so a fresh deploy with an empty `watch` table must still show that
+    # diff on the permalink without a manual POST /watch first.
+    is_frozen = result.brand in _settings.app.snapshot_frozen_brands
+    if not (_store.is_watched(result.brand) or is_frozen):
         return None
     # Exclude this request's own just-persisted scan -- the diff shows
     # what changed BEFORE this view, not this view against itself. Only

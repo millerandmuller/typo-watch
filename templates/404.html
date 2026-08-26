@@ -1,18 +1,13 @@
 {% extends "base.html" %}
 {% block title %}Not found — typo.watch{% endblock %}
 {% block body %}
-<main class="max-w-2xl mx-auto px-4 py-16">
-  <p class="text-sm text-slate-500">No cached scan for that brand yet.</p>
-  <form hx-post="/scan" hx-target="#results" hx-swap="innerHTML" class="flex gap-2 mt-4">
-    <input
-      type="text"
-      name="brand"
-      placeholder="your-brand.com"
-      autofocus
-      required
-      class="flex-1 border border-slate-300 rounded-md px-4 py-3 text-lg font-mono focus:outline-none focus:ring-2 focus:ring-slate-400"
-    >
-    <button type="submit" class="bg-slate-900 text-white rounded-md px-5 py-3 text-lg">Scan</button>
+<main>
+  <p class="lg-tagline">No cached scan for that brand yet.</p>
+  <form hx-post="/scan" hx-target="#results" hx-swap="innerHTML" class="lg-search">
+    <label class="lg-search-field">
+      <input type="text" name="brand" placeholder="your-brand.com" autofocus required>
+    </label>
+    <button type="submit" class="lg-pill-btn lg-scan-btn">Scan</button>
   </form>
   <div id="results" class="mt-8"></div>
 </main>
